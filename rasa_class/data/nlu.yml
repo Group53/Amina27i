@@ -92,183 +92,143 @@ nlu:
 #1
 - intent: clinic_services 
   examples: |
-    - Which services are offered at the Central Clinic located on the AUM Campus?
-    - What types of services does the Central Clinic at AUM Campus deliver?
-    - What are the services available at the Central Clinic situated on the AUM Campus?
-    - Could you outline the services provided by the Central Clinic on the AUM Campus?
-    - What kind of healthcare services does the Central Clinic offer at the AUM Campus?
-    - What services does the Central Clinic on AUM Campus provide?
+    - which services are offered at the central clinic located on the AUM Campus?
+    - what types of services does the central clinic at AUM Campus deliver?
+    - what are the services available at the central clinic situated on the AUM Campus?
+    - could you outline the services provided by the central clinic on the AUM Campus?
+    - what kind of healthcare services does the central clinic offer at the AUM Campus?
+    - what services does the central clinic on AUM Campus provide?
     
 #2
-- intent: computer_engineering_credits
+- intent: clinic_location
   examples: |
-    - How many credits I need to complete my computer engineering bachelor degree in AUM?
-    - How can I graduate computer engineering in AUM
-    -ce credits
-    -ce
-
+    - Where exactly can the AUM Central Clinic be found?
+    - What is the precise address of the Central Clinic on the AUM campus?
+    - Where is the physical location of the Central Clinic within the AUM campus?
+    - Can you provide details about the whereabouts of the AUM Central Clinic?
+    
 #3
-- intent: change_major
-  examples: |
-    - procedures for changing the major
-    - change my major
-    - can i change major if my credits is 76
-    -i want to know how can i change my major.
-
+- intent: sports_center
+examples: |
+    - What services does the Sports Center at AUM provide?
+    - What amenities and services are available at the Sports Center on the AUM campus?
+    - Could you outline the offerings provided by the Sports Center at AUM?
+    - What types of services can one expect from the Sports Center located at AUM?
+    - What facilities and services are offered at the AUM Sports Center?
+    - What specific services are available for students at the AUM Sports Center?
+    
 #4
-- intent: how_to_register
-  examples: |
-    - I want to register more than 12 cards
-    - Can I add or withdraw a course during the add/drop period?
+- intent: it_services
+examples: |
+    - What IT services are provided to students at AUM?
+    - What technological services are extended to students enrolled at AUM?    
+    - Could you elaborate on the IT services accessible to students at AUM?    
+    - What specific IT provisions are offered to students attending AUM?
+    - What are the available IT support services catered to students of AUM?
+    - What IT resources and assistance are provided for students at AUM?
+    
 #5
-- intent: aum_club
-  examples: |
-    - What are the clubs in?
-    - How can I register in the club?
+- intent: aum_website_info
+examples: |
+    - What information does the AUM website provide to students?
+    - What kind of information does the AUM website offer to its students?
+    - Could you specify the information available to students on the AUM website?
+    - What types of student-oriented information can be found on the AUM website?
+    - What specific resources and details are provided for students on the AUM website?
+    - What kind of student support and resources does the AUM website offer?
 
+    
 #6
-- intent: AUM_Tutoring_Center
-  examples: |
-    - AUM Tutoring Center
-    - support center 
-    - can I have support in Tutoring
-    - Tutoring
-    - Where is Tutoring Center
-    - how can i register in Tutoring Center
+- intent: portal_purpose
+examples: |
+    - What is the purpose of the MyAUM portal?
+    - What function does the MyAUM portal fulfill?
+    - What is the objective of implementing the MyAUM portal?
+    - What role does the MyAUM portal play?
+    - What is the intent behind the creation of the MyAUM portal?
+    - What does the MyAUM portal aim to achieve?
+
 #7
-- intent: check_schedule
+- intent: aum_Moodle
+examples: |
+    - What does Moodle entail?
+    - What is the function of Moodle?
+    - What is Moodle?
+    - How would you define Moodle?    
+    - What purpose does Moodle serve?
+    - What is the role of Moodle?
+    
+#8
+- intent: aum_banner
+examples: |
+    - How is Banner utilized at AUM?
+    - What functions does Banner serve at AUM?
+    - What is the purpose of Banner at AUM?
+    - What is Banner used for?
+    
+#9
+- intent: aum_communicate
+examples: |
+    - 
+    -
+    -
+    
+
+
+#10
+- intent: 
   examples: |
-
-    -How can i check my final exam schedule?
-    -Where may I view a schedule for my final exam?  
-    -How can I access my final exam schedule, and when will it be made available to students?
-    -How can I check my final exam schedule?
-    -To verify my final exam schedule, what steps should I take?
-    -How do I go about checking the details of my final exam schedule?
-    -Can you guide me on the process for checking my final exam schedule?
-    -What is the recommended method for confirming my final exam schedule?
-    -How can I access and review my final exam schedule?
-    -Could you provide instructions on how to check my final exam schedule?
-    -What steps do I need to follow to ensure I have the accurate information about my final exam schedule?
-    -Is there a specific platform or website where I can check my final exam schedule?
-    -How do I find and confirm the details of my final exam schedule?
-# #8
-- intent: miss_final
-
-  examples: |
-    - I want to know what to do if I miss the final exam?  
-    - miss exam 
-    - what can i do when missed final exam
-    -  What steps should be taken if the final exam is missed?
-    -  In the event of missing the final exam, what actions should be considered?
-    -  Could you provide guidance on what to do if I miss the final exam?
-    -  What are the recommended procedures for addressing a missed final exam?
-    -  If the final exam is missed, what steps should I follow to rectify the situation?
-    -  What measures can be taken if I happen to miss the final exam?
-    -  Could you outline the appropriate course of action for a missed final exam?
-    -  In case of a missed final exam, what are the recommended next steps?
-    -  What should be done if I am unable to attend the final exam?
-    -  Can you provide advice on how to handle the situation if I miss the final exam?
-
-# #9
-- intent: paperwork_makeup
-  examples: |
-    - Where can I submit the paperwork to apply for makeup? 
-    - Where can I submit the paperwork to apply for makeup?
-    - To apply for makeup, where is the designated location for submitting the required paperwork?
-    - Where should I go to submit the necessary paperwork for applying for makeup?
-    - For makeup application, where is the designated place to submit the required paperwork?
-    - Where can I deliver the paperwork needed to apply for makeup?
-    - To initiate a makeup request, where is the appropriate location to submit the required paperwork?
-    - Where is the submission point for paperwork related to applying for makeup?
-    - What is the specific location for submitting paperwork to apply for makeup?
-    - To apply for makeup, where do I need to submit the required paperwork?
-    - Where is the designated drop-off point for paperwork when applying for makeup?
-
-
-
-
-# #10
-- intent: bring_final
-  examples: |
-    - What should I bring for the final exam? 
-    - What should I bring for the final exam?
-    - Can you provide a list of items I need to bring for the final exam?
-    - What items are essential to bring for the upcoming final exam?
-    - Could you offer guidance on the necessary materials to bring for the final exam?
-    - What should be included in the items I bring for the final exam?
-    - Can you advise me on the essential things to bring for the final exam?
-    - What items are recommended for me to bring when taking the final exam?
-    - Could you outline the necessary supplies for the final exam that I should bring?
-    - Is there a checklist of items I need to bring for the final exam?
-    - Can you specify the required materials to bring with me for the final exam?
-
+    - 
+    -
+    -
+    -
+    -
+    
  #11
-- intent: final_exam_location 
+- intent: 
+examples: |
+    - 
+    -
+    -
+    -
 
-  examples: |
-    - How do I find the final exam location? 
-    - location 
-    - How do I find the final exam location?
-    - Can you provide guidance on locating the final exam venue?
-    - What steps should I take to determine the final exam location?
-    - Could you offer advice on finding the specific venue for the final exam?
-    - How can I ascertain the final exam location?
-    - Can you provide instructions on locating the final exam venue?
-    - What is the recommended method for finding the final exam location?
-    - Could you outline the process for determining the final exam venue?
-    - Is there a specific way to find the location of the final exam?
-    - Can you specify the steps I should follow to find the final exam location?
+    
 #12
-- intent: late_final 
-
-  examples: |
-    - Can I enter the final exam if I am late? 
-    - Can I enter the final exam if I am late?
-    - Is it permissible to join the final exam after it has started if I am running late?
-    - Will I be allowed to enter the final exam even if I arrive late?
-    - Can I still participate in the final exam if I am tardy?
-    - Is there a grace period for entering the final exam if I am running late?
-    - Will I face any consequences for entering the final exam late?
-    - Is there a policy on late entry for the final exam?
-    - Can I join the final exam after the scheduled start time if I am late?
-    - Are there any restrictions or guidelines regarding late entry to the final exam?
-    - What is the procedure for entering the final exam if I arrive late?
+- intent: 
+examples: |
+    - 
+    -
+    -
+    -
+    -
+    
 
 
 #13
-- intent: satisfied_final
+- intent: 
   examples: |
-    - what do i do if i'm not satisfied from my final exam grade? 
-    - What do I do if I'm not satisfied with my final exam grade?
-    - Is there a process for addressing dissatisfaction with my final exam grade?
-    - What steps should I take if I'm unhappy with my final exam results?
-    - Could you guide me on what to do if I find my final exam grade unsatisfactory?
-    - If I'm not content with my final exam grade, what actions can I take?
-    - Is there a protocol for expressing dissatisfaction with my final exam results?
-    - How can I address concerns about my final exam grade if I'm not satisfied?
-    - Are there procedures in place for handling dissatisfaction with final exam grades?
-    - What recourse do I have if I'm dissatisfied with my final exam grade?
-    - Could you provide advice on what steps to take if I'm not happy with my final exam result?
-#14
-- intent: submit_appeal
-  examples: |
-    - How can I submit an appeal? 
-    - What is the procedure for submitting an appeal?
-    - Could you guide me through the process of appealing a decision?
-    - How do I go about formally submitting an appeal?
-    - Can you provide instructions on the appeal submission process?
-    - What steps should I take to initiate the appeal process?
-    - In what manner can I officially request an appeal?
-    - Could you explain the proper protocol for submitting an appeal?
-    - What actions do I need to take to appeal a decision?
-    - How can I formally challenge a decision through the appeal process?
-    - What are the necessary steps to put forth an official appeal?
+    - 
+    -
+    -
+    -
 
-- intent: migration
+    
+#14
+- intent: 
   examples: |
-   - How do I migrate to Rasa from IBM Watson?
-   - I want to migrate from Dialogflow.
+    - 
+    -
+    -
+    -
+
+    
+#15
+- intent: 
+  examples: |
+   - 
+   -
+   -
+   
 
 
 # - intent: repeat_shirt_size
