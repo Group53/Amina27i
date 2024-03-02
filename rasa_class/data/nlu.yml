@@ -90,20 +90,15 @@ nlu:
     - am I talking to a human?
 
 #1
-- intent: apply_makeup 
+- intent: clinic_services 
   examples: |
-    - How do I apply for Makeup?
-    - I want to know how do I apply for Makeup 
-    - How do I apply for makeup?
-    - Could you guide me on the process of applying for makeup?
-    - What steps should I take to submit a makeup application?
-    - Can you provide instructions on how to apply for makeup?
-    - In what manner can I formally request makeup for a missed event?
-    - Could you explain the proper protocol for applying for makeup?
-    - What actions do I need to take to request makeup for a missed opportunity?
-    - How can I formally apply for makeup in the given situation?
-    - What is the procedure for submitting a makeup application?
-    - What are the necessary steps to put forth a makeup request?
+    - Which services are offered at the Central Clinic located on the AUM Campus?
+    - What types of services does the Central Clinic at AUM Campus deliver?
+    - What are the services available at the Central Clinic situated on the AUM Campus?
+    - Could you outline the services provided by the Central Clinic on the AUM Campus?
+    - What kind of healthcare services does the Central Clinic offer at the AUM Campus?
+    - What services does the Central Clinic on AUM Campus provide?
+    
 #2
 - intent: computer_engineering_credits
   examples: |
