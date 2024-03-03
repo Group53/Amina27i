@@ -13,75 +13,93 @@ rules:
   - action: utter_iamabot
 
 
-- rule: 
+- rule: ask about clinic services 
   steps:
-  - intent: 
-  - action: 
+  - intent: clinic_services 
+  - action: utter_clinic_services 
 
-- rule: 
+- rule: ask about clinic location
   steps:
-  - intent: 
-  - action: 
+  - intent: clinic_location
+  - action: utter_clinic_location
 
 
-- rule: 
+- rule: ask about sports center
   steps:  
-  - intent: 
-  - action: 
+  - intent: sports_center
+  - action: utter_sports_center
 
 
-- rule: 
+- rule: ask about IT services
   steps:
-  - intent: 
-  - action: 
+  - intent: it_services
+  - action: utter_it_services
 
 
-- rule: 
+- rule: ask about aum website information
   steps:
-  - intent: 
-  - action: 
+  - intent: aum_website_info
+  - action: utter_aum_website_info
 
 
-- rule : 
-
+- rule : ask about portal purpose
   steps:  
-  - intent : 
-  - action : 
+  - intent : portal_purpose
+  - action : utter_portal_purpose
 
-- rule: 
+- rule: ask about aum moodle
   steps:
-  - intent: 
-  - action: 
+  - intent: aum_Moodle
+  - action: utter_aum_Moodle
 
 
-- rule: 
+- rule: ask about aum banner
   steps:
-  - intent: 
-  - action: 
+  - intent: aum_banner
+  - action: utter_aum_banner
 
 
-- rule: 
+- rule: ask about aum communicate
   steps:
-  - intent: 
-  - action: 
+  - intent: aum_communicate
+  - action: utter_aum_communicate
 
 
-- rule: 
+- rule: ask about parking services
   steps:
-  - intent: 
-  - action: 
+  - intent: parking_services
+  - action: utter_parking_services
 
 
-- rule: 
+- rule: ask about students identified
   steps:
-  - intent: 
-  - action: 
+  - intent: students_identified
+  - action: utter_students_identified
 
+- rule: ask about aum library
+  steps:
+  - intent: aum_library
+  - action: utter_aum_library
 
-#- rule: 
+  - rule: ask about writing club
+  steps:
+  - intent: writing_club
+  - action: utter_writing_club
+
+  - rule: ask about tutoring center
+  steps:
+  - intent: tutoring_center
+  - action: utter_tutoring_center
+
+  - rule: ask about innovation center
+  steps:
+  - intent: innovation_center
+  - action: utter_innovation_center
+
+#- rule: ask about
  # steps:
   #- intent: 
-  #- action: 
+  #- action: utter_
 
 
 
