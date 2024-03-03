@@ -8,20 +8,20 @@ intents:
   - mood_great
   - mood_unhappy
   - bot_challenge
-  - apply_makeup 
-  - computer_engineering_credits
-  - change_major
-  - how_to_register
-  - aum_club
-  - AUM_Tutoring_Center
-  - how_do_I_apply_for_final1
-  - how_do_I_apply_for_final2
-  - how_do_I_apply_for_final3
-  - how_do_I_apply_for_final4
-  - how_do_I_apply_for_final5
-  - how_do_I_apply_for_final6
-  - utter_how_do_I_apply_for_final7 
-  - how_do_I_apply_for_final8
+  - clinic_services 
+  - clinic_location
+  - sports_center
+  - it_services
+  - aum_website_info
+  - portal_purpose
+  - aum_Moodle
+  - aum_banner
+  - aum_communicate
+  - parking_services
+  - students_identified
+  - aum_library
+  - writing_club
+  - tutoring_center
   - utter_watson_migration
   - utter_dialogflow_migration
   - utter_ask_migration_product
