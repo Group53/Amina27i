@@ -169,65 +169,79 @@ examples: |
 #9
 - intent: aum_communicate
 examples: |
-    - 
-    -
-    -
+    - How does AUM communicate important information to students?
+    - By what means does AUM relay crucial information to students?
+    - How does AUM disseminate important information to students?
+    - What methods does AUM utilize to communicate essential information to students?
+    - How does AUM ensure students receive important information?
+    - Through what channels does AUM convey significant information to students?
     
 
 
 #10
-- intent: 
+- intent: parking_services
   examples: |
-    - 
-    -
-    -
-    -
-    -
+    - What parking services are available to students at AUM?
+    - What parking facilities are provided to students at AUM?
+    - What parking options are available to students at AUM?
+    - How does AUM accommodate student parking?
+    - What parking services does AUM extend to students?
+    - What are the student parking arrangements at AUM?
+
     
  #11
-- intent: 
+- intent: students_identified
 examples: |
-    - 
-    -
-    -
-    -
+    - How are students identified at AUM?
+    - How are students distinguished at AUM?
+    - What methods does AUM use to identify students?
+    - By what means are students recognized at AUM?
+    - What identification processes are in place for students at AUM?
+    - How does AUM differentiate its students?
 
     
 #12
-- intent: 
+- intent: aum_library
 examples: |
-    - 
-    -
-    -
-    -
-    -
+    - What resources does the AUM Library offer?
+    - How does the AUM Library support students?
+    - What services are available at the AUM Library?
+    - What does the AUM Library provide?
+    - What amenities does the AUM Library furnish?
     
 
 
 #13
-- intent: 
+- intent: writing_club
   examples: |
-    - 
-    -
-    -
-    -
+    - What is the purpose of the Writing Lab at AUM?
+    - What is the objective of the Writing Lab at AUM?
+    - What purpose does the Writing Lab serve at AUM?
+    - How does the Writing Lab benefit students at AUM?
+    - What role does the Writing Lab play at AUM?
+    - What are the goals of the Writing Lab at AUM?
 
     
 #14
-- intent: 
+- intent: tutoring_center
   examples: |
-    - 
-    -
-    -
-    -
+    - What services are offered by the Tutoring Center at AUM?
+    - What assistance does the Tutoring Center offer at AUM?
+    - What services does the Tutoring Center provide at AUM?
+    - How does the Tutoring Center support students at AUM?
+    - What resources are available at the Tutoring Center at AUM?
+    - What help can students receive from the Tutoring Center at AUM?
 
     
 #15
-- intent: 
+- intent: innovation_center
   examples: |
-   - 
-   -
-   -
+   - What are the Innovation Centers at AUM?
+   - What do the Innovation Centers at AUM entail?
+   - How are the Innovation Centers defined at AUM?
+   - What services are provided by the Innovation Centers at AUM?
+   - What is the function of the Innovation Centers at AUM?
+   - What purpose do the Innovation Centers serve at AUM?
    
 
 
