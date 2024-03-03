@@ -23,11 +23,6 @@ rules:
   - intent: 
   - action: 
 
-# - rule: ask_computer_credit
-#   steps:
-#   - intent: computer_engineering_credits
-#   - action: utter_computer_engineering_credits
-
 
 - rule: 
   steps:  
@@ -83,10 +78,10 @@ rules:
   - action: 
 
 
-- rule: 
-  steps:
-  - intent: 
-  - action: 
+#- rule: 
+ # steps:
+  #- intent: 
+  #- action: 
 
 
 
