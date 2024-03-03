@@ -54,119 +54,57 @@ responses:
 
   
   utter_clinic_services: 
-  - text: 
-  - text: 
-  - text: 
-  - text: 
-  - text: 
-  - text: 
-  
+  - text: "The Central Clinic on AUM Campus provides immediate first aid services, general check-ups for students, and hosts students prior to hospital transfer if necessary."
+
  
   utter_clinic_location:
-  - text: 
-  - text: 
-  - text: 
-  - text: 
-  - text: 
-  - text: 
+  - text: "The AUM Central Clinic is located in the middle of the campus, near the colleges of Business Administration and Engineering and Technology."
+  image: "https://ibb.co/M5bK0gd"
   
   
   utter_sports_center:
-  - text: 
-  - text: 
-  - text: 
-  - text: 
-  - text: 
-  - text: 
-
+  - text: "The Sports Center at AUM provides dedicated gyms for male and female students, fully equipped with workout and training equipment, as well as indoor and outdoor sports facilities designed to international specifications."
+ 
   
   utter_it_services:
-  - text: 
-  - text: 
-  - text: 
-  - text: 
-  - text: 
-  - text: 
+  - text: "AUM provides students with easy access to computers and various online platforms such as the AUM website, MyAUM Portal, AUM email, Moodle system for Learning Management, Banner system for Student Information, AUM Soft Skills E-courses platform, AUM Mobile app, and E-portfolio."
+  
 
   utter_aum_website_info:
-  - text: 
-  - text: 
-  - text: 
-  - text: 
-  - text: 
-  - text: 
+  - text: "The AUM website provides general information about the University, its programs, courses, activities, and events. It also allows students to access the MyAUM portal, which includes the Moodle Learning Management System. This is the AUM website if you need it https://www.aum.edu.kw/english/home "
 
   utter_portal_purpose:
-  - text: 
-  - text: 
-  - text: 
-  - text: 
-  - text: 
-  - text: 
-  
+  - text: "MyAUM is a web portal dedicated to AUM students on the AUM website, providing access to various useful links such as the Learning Management System (Moodle), Student Information System (Banner), academic calendar, events calendar, student handbook, advising sheets, and online forms for various student requests. This is the MyAUM portal webpage to download https://www.aum.edu.kw/english/aum-mobile-app "
+
   utter_aum_Moodle:
-  - text: 
-  - text: 
-  - text: 
-  - text: 
-  - text: 
-  - text: 
+  - text: "Moodle is AUM's chosen Learning Management System (LMS), providing a platform for collaboration between faculty members and students through a virtual learning environment. It allows students to access course materials, share documents, review course material, and know their grades, marks, and attendance rates. This is the Moodle webpage https://myportal.aum.edu.kw "
 
   utter_aum_banner:
-  - text: 
-  - text: 
-  - text: 
-  - text: 
-  - text: 
-  - text: 
+  - text: "AUM uses Banner, the leading information system in higher education institutions, to manage students' online registration process, access grades, and academic schedules. This is the Banner webpage https://www.aum.edu.kw/english/common/banner-links "
+   
 
   utter_aum_communicate:
-  - text: 
-  - text: 
-  - text: 
-  - text: 
-  - text: 
-  - text: 
+  - text: "The main means of communication with students at AUM is via their AUM student email account, used to communicate information about attendance, academic performance, achievements, and AUM activities in general. This is the Email link to login https://login.microsoftonline.com "
   
   utter_parking_services:
-  - text: 
-  - text: 
-  - text: 
-  - text: 
-  - text: 
-  - text:
+  - text: "AUM provides parking spaces for all its students and offers designated parking zones. Students with special needs can apply for Disability Parking space through the Student Affairs Department."
 
   utter_students_identified:
-  - text: 
-  - text: 
-  - text: 
-  - text: 
-  - text: 
-  - text:
+  - text: "AUM Student Identification (ID) cards are used to identify registered students and are required for various purposes such as campus access, library borrowing, document requests, course registration, assessments, and entry into facilities like the Sports Center"
+
 
   utter_aum_library:
-  - text: 
-  - text: 
-  - text: 
-  - text: 
-  - text: 
-  - text:
+  - text: "The AUM Library aims to promote scientific research and provide study information and ideas through a rich collection of publications, electronic resources, databases, e-books, academic and scientific trainings, study rooms, and more."
+
 
   utter_writing_club:
-  - text: 
-  - text: 
-  - text: 
-  - text: 
-  - text: 
-  - text:
+  - text: "The Writing Lab supports AUM students at any stage of their writing process, providing services such as consultations, workshops, seminars, writing activities, and competitions to help students excel in writing."
 
   utter_tutoring_center:
-  - text: 
-  - text: 
-  - text: 
-  - text: 
-  - text: 
-  - text:
+  - text: "The AUM Tutoring Center offers free academic support to all currently enrolled students, including drop-in and by appointment one-to-one and group tutorials, project and homework assistance, and lecture-based or problem-solving sessions."
+
+  utter_innovation_center:
+  - text: "The Innovation Centers at AUM include the Robotics Research Center, nanotechnology center, business clubs, and Capstone Center, aimed at broadening students' knowledge and providing practical insight into various disciplines."
 
   #utter_:
   #- text: 
