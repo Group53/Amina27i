@@ -71,7 +71,7 @@ responses:
   - text: 
   
   
-  utter_:
+  utter_sports_center:
   - text: 
   - text: 
   - text: 
@@ -80,7 +80,7 @@ responses:
   - text: 
 
   
-  utter_:
+  utter_it_services:
   - text: 
   - text: 
   - text: 
@@ -88,7 +88,7 @@ responses:
   - text: 
   - text: 
 
-  utter_:
+  utter_aum_website_info:
   - text: 
   - text: 
   - text: 
@@ -96,7 +96,7 @@ responses:
   - text: 
   - text: 
 
-  utter_:
+  utter_portal_purpose:
   - text: 
   - text: 
   - text: 
@@ -104,7 +104,7 @@ responses:
   - text: 
   - text: 
   
-  utter_:
+  utter_aum_Moodle:
   - text: 
   - text: 
   - text: 
@@ -112,7 +112,7 @@ responses:
   - text: 
   - text: 
 
-  utter_:
+  utter_aum_banner:
   - text: 
   - text: 
   - text: 
@@ -120,7 +120,7 @@ responses:
   - text: 
   - text: 
 
-  utter_:
+  utter_aum_communicate:
   - text: 
   - text: 
   - text: 
@@ -128,7 +128,50 @@ responses:
   - text: 
   - text: 
   
-  
+  utter_parking_services:
+  - text: 
+  - text: 
+  - text: 
+  - text: 
+  - text: 
+  - text:
+
+  utter_students_identified:
+  - text: 
+  - text: 
+  - text: 
+  - text: 
+  - text: 
+  - text:
+
+  utter_aum_library:
+  - text: 
+  - text: 
+  - text: 
+  - text: 
+  - text: 
+  - text:
+
+  utter_writing_club:
+  - text: 
+  - text: 
+  - text: 
+  - text: 
+  - text: 
+  - text:
+
+  utter_tutoring_center:
+  - text: 
+  - text: 
+  - text: 
+  - text: 
+  - text: 
+  - text:
+
+  #utter_:
+  #- text: 
+  #- text: 
+
 
   
 
