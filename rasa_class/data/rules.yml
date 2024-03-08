@@ -95,11 +95,78 @@ rules:
   steps:
   - intent: innovation_center
   - action: utter_innovation_center
+  
+  - rule: ask about medical emergency
+  steps:
+  - intent: medical_emergency
+  - action: utter_medical_emergency
 
-#- rule: ask about
- # steps:
-  #- intent: 
-  #- action: utter_
+  
+  - rule: ask about car accidents
+  steps:
+  - intent: car_accidents
+  - action: utter_car_accidents
+
+  
+  - rule: ask about lost & found
+  steps:
+  - intent: lost_found
+  - action: utter_lost_found
+
+  
+  - rule: ask about scientific laboratories
+  steps:
+  - intent: scientific_laboratories
+  - action: utter_scientific_laboratories
+
+  
+  - rule: ask about tawteen center
+  steps:
+  - intent: tawteen_center
+  - action: utter_tawteen_center
+
+  
+  - rule: ask about grading system
+  steps:
+  - intent: grading_system
+  - action: utter_grading_system
+
+  
+  - rule: ask about grade points
+  steps:
+  - intent: grade_points
+  - action: utter_grade_points
+
+
+  
+  - rule: ask about trasnscript grade
+  steps:
+  - intent: trasnscript_grade
+  - action: utter_trasnscript_grade
+
+  
+  - rule: ask about minimum required grade
+  steps:
+  - intent: minimum_required_grade
+  - action: utter_minimum_required_grade
+
+  
+  - rule: ask about minimum passing grade
+  steps:
+  - intent: minimum_passing_grade
+  - action: utter_minimum_passing_grade
+
+  
+  - rule: ask about minimum grade exceptions
+  steps:
+  - intent: minimum_grade_exceptions
+  - action: utter_minimum_grade_exceptions
+
+  
+  - rule: ask about grading affect CGPA
+  steps:
+  - intent: grading_affect_CGPA
+  - action: utter_grading_affect_CGPA
 
 
 
