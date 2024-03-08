@@ -22,6 +22,18 @@ intents:
   - aum_library
   - writing_club
   - tutoring_center
+  - medical_emergency 
+  - car_accidents
+  - lost_found
+  - scientific_laboratories
+  - tawteen_center
+  - grading_system
+  - grade_points
+  - trasnscript_grade
+  - minimum_required_grade
+  - minimum_passing_grade
+  - minimum_grade_exceptions
+  - grading_affect_CGPA
 
 
 slots:
@@ -106,11 +118,51 @@ responses:
   utter_innovation_center:
   - text: "The Innovation Centers at AUM include the Robotics Research Center, nanotechnology center, business clubs, and Capstone Center, aimed at broadening students' knowledge and providing practical insight into various disciplines."
 
-  #utter_:
-  #- text: 
-  #- text: 
+  utter_medical_emergency:
+  - text: "In case of a medical emergency, students should report the case immediately to the Clinic by calling the direct number 22255111."
+  
+
+  utter_car_accidents:
+  - text: "Students should report any car accidents that happen in the AUM parking areas to AUM Campus Security or by calling the direct number 22255111. In case of injury sustained in the accident, students should inform the AUM Campus Security staff directly or call the Clinic on 22255111."
+
+   utter_lost_found:
+  - text: "The Lost and Found items on campus should be inquired about at the Student Affairs department."
+
+   utter_scientific_laboratories:
+  - text: "AUM Scientific Laboratories provide a supportive environment for executing projects, linking theoretical and applicable science. Equipped with up-to-date devices and equipment, these labs aim to sharpen students' skills and discover their abilities and creativity in various domains."
+  
+
+   utter_tawteen_center:
+  - text: "The Tawteen Career Center at AUM is responsible for preparing and guiding students in the career exploration process. It offers a wide range of career planning services such as workshops, seminars, career fairs, and other professional development activities to help students discover themselves, reach their goals, and lead their future."
+  
+
+   utter_grading_system:
+  - text: " The grading system for undergraduate courses at AUM follows a scale where grades are given out of 100, with corresponding letter grades and grade points. The grading table includes ranges for each letter grade along with their respective grade points. Additionally, certain notations such as "AF," "W," "Incomplete (I)," "Pass (P)," and "No Pass (NP)" are included in the system, with the Grade/100 not reflected in the transcript."
 
 
+   utter_grade_points:
+  - text: "In the AUM grading system for undergraduate courses, the corresponding grade points for letter grades range from 4 for an "A" to 0 for an "F." The grading table provides specific grade point values for each letter grade within defined grade ranges."
+  
+
+   utter_trasnscript_grade:
+  - text: "No, the Grade/100 is not reflected in the AUM transcript. Instead, the transcript reflects the letter grade and the corresponding grade points only."
+  
+
+   utter_minimum_required_grade:
+  - text: "The minimum required passing grade varies depending on the course and program, but generally, a grade of "D" is the minimum passing grade for most courses. However, some specialization, concentration, or other courses may require a higher passing grade of "C-" or "C." Students should refer to the degree requirements of each program/concentration for specific passing grade criteria."
+  
+
+   utter_minimum_passing_grade:
+  - text: "The minimum passing grade for most courses is a D."
+  
+
+   utter_minimum_grade_exceptions:
+  - text: "Yes, some specialization, concentration, or other courses may require a higher grade of C- or C. Students should refer to the degree requirements of each program/concentration for clarification."
+  
+
+   utter_grading_affect_CGPA:
+  - text: "Certain courses are subject to Pass grade (P) or No Pass grade (NP), and neither P nor NP grades are counted in the calculation of CGPA."
+  
   
 
 
