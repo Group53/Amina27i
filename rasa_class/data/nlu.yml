@@ -243,70 +243,138 @@ examples: |
    - What is the function of the Innovation Centers at AUM?
    - What purpose do the Innovation Centers serve at AUM?
    
+#16
+- intent: medical_emergency 
+  examples: |
+   -	What should students do in case of a medical emergency on campus?
+   - What actions should students take if there's a medical emergency while on campus?
+   - In the event of a medical emergency on campus, what steps should students follow?
+   - What are the recommended procedures for students during a medical emergency situation at the campus?
+   - If there's a medical emergency at the campus, what course of action is advised for students?
+   - In case of a medical crisis on campus, what actions are suggested for students to take?
+
+#17
+- intent: car_accidents
+  examples: |
+   - How should students handle car accidents on campus?
+   - What is the proper protocol for students to follow in the event of a car accident on campus?
+   - How should students manage car accidents that occur on the campus premises?
+   - What steps should students take if they are involved in a car accident while on campus?
+   -In the event of a car collision on campus, what guidance is recommended for students?
+   - What procedures should students adhere to if they encounter a car accident situation on campus?
 
 
-# - intent: repeat_shirt_size
-#   examples: |
-#     - what is my shirt size
-#     - tell me my shirt size
-#     - do you know my shirt size
-#     - repeat my shirt size
-# - intent: give_shirt_size
-#   examples: |
-#     - i want a [large](shirt_size) shirt
-#     - [medium](shirt_size) size
-#     - give me a [small](shirt_size) tshirt
-#     - [small](shirt_size)
-#     - [medium](shirt_size)
-#     - [large](shirt_size)
-#     - i'd prefer [medium](shirt_size) size
-#     - gimme gimme gimme [small](shirt_size) tshirt
-#     - give shirt size
-#     - i want a [large](shirt_size) shirt please
-#     - i want to give you my shirt
-#     - [large](shirt_size)
+#18
+- intent: lost_found
+  examples: |
+   - Where should students inquire about lost and found items on campus?
+   - To whom should students direct their inquiries regarding lost and found items on campus?
+   - Where can students seek assistance regarding lost and found items within the campus grounds?
+   - What is the designated location for students to inquire about lost and found items on campus?
+   - Where should students go to report or inquire about lost belongings found on campus?
+   - Whom should students contact to inquire about misplaced items found within the campus premises?
 
-# - intent: ask_me_anything
-#   examples: |
-#     - ask me anything
-#     - would you like to ask me something
-#     - feel free to ask me about things
-#     - want to ask me something?
+   
+#19
+- intent: scientific_laboratories
+  examples: |
+   - What role do the Scientific Laboratories play at AUM?
+   - How does AUM utilize its Scientific Laboratories?
+   - What functions are fulfilled by the Scientific Laboratories at AUM?
+   - What is the significance of Scientific Laboratories in the operations of AUM?
+   - How do the Scientific Laboratories contribute to AUM's activities?
+   - What purposes do the Scientific Laboratories serve within the framework of AUM?
 
-# - intent: repeat_name
-#   examples: |
-#     - what is my name 
-#     - tell me my name 
-
-# - intent: give_name
-#   examples: |
-#     - iam a [wadha](name) name
-#     - my name is [wadha](name)
+#20
+- intent: tawteen_center
+  examples: |
+   - What services does the Tawteen Career Center offer?
+   - What are the services provided by the Tawteen Career Center?
+   - What assistance does the Tawteen Career Center offer?
+   - What types of services are available at the Tawteen Career Center?
+   - What support can students expect from the Tawteen Career Center?
+   - What resources does the Tawteen Career Center provide to students?
 
 
-# - intent: ask_college_question
-#   examples: |
-#     - What factors should I consider when choosing a college?
-#     - Tell me about choosing the right college based on {{ factor_to_consider }}.
+#21
+- intent: grading_system
+  examples: |
+   - What is the grading system for undergraduate courses at AUM?
+   - How are undergraduate courses graded at AUM?
+   - What grading criteria are employed for undergraduate courses at AUM?
+   - What grading system is utilized for undergraduates at AUM?
+   - How does the grading system work for undergraduate courses at AUM?
+   - What is the method for grading undergraduate courses at AUM?
 
 
-# - regex: factor_to_consider
-#   examples: |
-#     - academic programs
-#     - campus environment
-#     - location
-#     - facilities
- 
+#22
+- intent: grade_points
+  examples: |
+   - What are the corresponding grade points for letter grades in the AUM grading system?
+   - What grade point equivalents correspond to letter grades in the AUM grading system?
+   - How do letter grades translate into grade points in the AUM grading system?
+   - What is the conversion scale for letter grades to grade points in the AUM grading system?
+   - What are the grade point values associated with letter grades within the AUM grading framework?
+   - How are letter grades converted into grade points within the AUM grading system?
 
 
-# - intent: 
-#   examples: |
-#     - 
-#     - 
-# - intent: 
-#   examples: |
-#     - 
-#     - 
+#23
+- intent: trasnscript_grade
+  examples: |
+   - Does the AUM transcript reflect the Grade/100?
+   - Is the Grade/100 reflected on the AUM transcript?
+   - Does the AUM transcript display the Grade/100?
+   - Is the Grade/100 score shown on the AUM transcript?
+   - Does the AUM transcript include the Grade/100 calculation?
+   - Is the Grade/100 information documented on the AUM transcript?
+
+
+#24
+- intent: minimum_required_grade
+  examples: |
+   - What is the minimum required passing grade in the AUM grading system?
+   - What is the lowest passing grade permitted in the AUM grading system?
+   - What is the minimum passing grade threshold within the AUM grading system?
+   - What is the minimum acceptable passing grade under the AUM grading guidelines?
+   - What is the lowest acceptable passing grade according to the AUM grading system?
+   -What is the minimum passing grade requirement in the AUM grading structure?
+
+#25
+- intent: minimum_passing_grade
+  examples: |
+   - 	What is the minimum passing grade for most courses at AUM?
+   - What is the lowest acceptable passing grade for the majority of courses at AUM?
+   - What is the standard minimum passing grade for most courses at AUM?
+   - What grade do most courses at AUM require as the minimum for passing?
+   - What is the minimum passing grade expected in the majority of courses at AUM?
+   - What grade is typically considered the minimum pass mark for courses at AUM?
+
+
+#26
+- intent: minimum_grade_exceptions
+  examples: |
+   - 	Are there exceptions to the minimum passing grade requirement?
+   - Are there any instances where the minimum passing grade requirement is waived?
+   - Do exceptions exist for the minimum passing grade requirement?
+   - Are there any circumstances where the minimum passing grade requirement is not applicable?
+   - Is there flexibility in the minimum passing grade requirement under certain circumstances?
+   - Are there any situations where the minimum passing grade requirement may be different?
+
+
+#27
+- intent: grading_affect_CGPA
+  examples: |
+   - How are certain courses graded, and how does it affect CGPA?
+   - What is the grading process for specific courses, and how does it impact CGPA?
+   - How do certain course grading methods influence CGPA calculation?
+   - What is the correlation between grading methodologies for particular courses and their impact on CGPA?
+   - How do grading practices for specific courses factor into CGPA determination?
+   - What is the relationship between the grading criteria for certain courses and their effect on CGPA?
+
+
+
+
+
 # - intent: 
 #   examples: |
 #     - 
