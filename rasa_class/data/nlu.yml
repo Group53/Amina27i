@@ -585,27 +585,43 @@ examples: |
 - intent: more_max_credit_allowed
 examples: |
  - What is the procedure for students who wish to register for more than the maximum allowed credit load?
- -
+ - What steps should students follow if they want to register for more credits than the maximum allowed load?
+ - What is the process for students who wish to exceed the maximum credit load during registration?
+ - How should students proceed if they desire to enroll in additional credits beyond the maximum allowed limit?
+ - What are the steps students need to take if they intend to register for more credits than the maximum permitted load?
+ - What procedure do students need to follow if they want to exceed the maximum allowed credit load during registration?
 
 
 #48
-- intent: 
+- intent: appeal_grade_change 
 examples: |
--
--
+ - What is the procedure for students who want to appeal for a grade change?
+ - What steps should students follow if they seek to appeal a change in their grade?
+ - How can students proceed if they wish to challenge a grade alteration?
+ - What are the steps students need to take if they desire to contest a modification in their grade?
+ - How should students proceed if they aim to request a review of their grade?
+ - What is the process for students who wish to appeal for a modification in their grade?
 
 
 #49
-- intent: 
+- intent: course_repetition_policy 
 examples: |
--
--
+ - Under what circumstances can a student repeat a course according to the Course Repetition Policy?
+ - What are the conditions under which a student can retake a course in accordance with the Course Repetition Policy?
+ - Under what circumstances is a student permitted to repeat a course as outlined in the Course Repetition Policy?
+ - What situations allow a student to retake a course based on the Course Repetition Policy?
+ - According to the Course Repetition Policy, in what instances can a student repeat a course?
+ - What are the criteria specified by the Course Repetition Policy for a student to repeat a course?
 
 
 #50
-- intent: 
+- intent: repeat_course_CGPA_improve
 examples: |
--
--
+ - How many courses can a student repeat to improve their CGPA, and how many times can they repeat each course?
+ - How many courses can a student retake to enhance their CGPA, and what is the limit on the number of times they can repeat each course?
+ - What is the maximum number of courses a student can repeat to raise their CGPA, and how many times can they retake each course?
+ - How many courses can a student repeat in order to boost their CGPA, and what is the maximum number of repetitions allowed for each course?
+ - According to the policy, what is the total number of courses a student can retake to improve their CGPA, and what is the maximum number of repetitions permitted for each course?
+ - What is the limit on the number of courses a student can retake to improve their CGPA, and what is the maximum number of times they can retake each course?
 
 
