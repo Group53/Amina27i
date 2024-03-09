@@ -219,46 +219,46 @@ responses:
 
 
   utter_EPP_purpose:
-  - text: "
+  - text: "The AUM English Preparatory Program is designed for students who do not meet the English language requirements for admission at AUM, providing intensive academic English instruction to improve overall proficiency in English."
 
    utter_college_eng_tech_require_math_placement_test:
-  - text: "
+  - text: "If a student does not satisfy the threshold needed for the Math Placement Test, they need to register for one or more remedial math courses."
   
    utter_academic_max_duration:
-  - text: " 
+  - text: "Students must meet all academic program requirements within a maximum of eight academic years from the date of enrollment as a registered AUM student."
 
    utter_academic_probation_dismissal:
-  - text: "
+  - text: "Academic probation is determined in the Fall and Spring semesters of each academic year and does not apply to the Summer semester. A student must maintain a good academic standing and minimum required CGPA as per the Class Standing table. If a student fails to achieve the minimum cumulative GPA required, they are placed under Academic Probation for the next semester. A student cannot continue under Academic Probation for more than two consecutive semesters. Exceeding this results in permanent dismissal from AUM. Summer semester is not included in the academic probation semesters. Dismissed students have the right to appeal for another chance before the beginning of the next semester. Dismissed students may or may not be granted a chance to improve their CGPA in the next semester. Students granted a chance to raise their CGPA must sign an acknowledgement and are not permitted to freeze the semester. AUM reserves the right to grant or not grant a chance for dismissed students. Permanently dismissed students are not allowed to reapply to the university."
 
    utter_honors_graduation_criteria:
-  - text: "
+  - text: "All graduation requirements must be completed. A CGPA of 3.5 or more must be achieved upon graduation. The student must not have any grades less than 'C' during their entire studies at AUM. The student must not have committed any significant academic or non-academic conduct violations during their time at AUM."
 
    utter_expecting_graduate_steps:
-  - text: "
+  - text: "Students expecting to graduate must fill out a Graduation request form during their last semester."
   
    utter_graduation_clearance_requirements:
-  - text: " 
+  - text: "Students must provide official identification documents as requested by the General Secretariat of Private Universities Council and the Ministry of Higher Education. Students must complete any outstanding payments to the university. Students must return all books borrowed from the Library. Students must return the AUM Student ID Card and car sticker upon receiving graduation documents."
 
    utter_CGPA_max_credit_fall_spring:
-  - text: "
+  - text: "Below 2.0 Cumulative GPA: Maximum allowed credit load is 12. With Dean's approval, students repeating courses can register up to 15 credits. 2.0 – 2.669 Cumulative GPA: Maximum allowed credit load is 16. For students expected to graduate in the current semester, a maximum of 21 credits can be registered with Dean's approval. 2.670 or above Cumulative GPA: Maximum allowed credit load is 18. For students expected to graduate in the current semester, a maximum of 21 credits can be registered with Dean's approval."
 
    utter_CGPA_max_credit_summer:
-  - text: "
+  - text: "Below 2.0 Cumulative GPA: Maximum allowed credit load is 6. 2.0 or above Cumulative GPA: Maximum allowed credit load is 7. For students expected to graduate in the Summer semester or Fall semester, a maximum of 10 credits can be registered with Dean's approval."
   
    utter_more_max_credit_allowed:
-  - text: " 
+  - text: "Students must fill in a request, and their requests are handled on a case-by-case basis."
 
    utter_appeal_grade_change:
-  - text: "
+  - text: "Students can submit their appeal for grade change within three working days from the date the grade was issued. They should fill in the relevant form and submit it to the Student Affairs Department. A meeting with the faculty member will be scheduled for the student. If the university finds a difference or mistakes between the actual grade and the published grade, the university has the right to amend the grade to the actual one, and the student cannot reject or claim it."
 
    utter_course_repetition_policy:
-  - text: "
+  - text: "A student may repeat a course if they earned a C grade or below, or if they wish to improve their CGPA."
   
    utter_repeat_course_CGPA_improve:
-  - text: " 
+  - text: "-	Students repeating specific courses to improve their CGPA can repeat up to four courses, with each individual course only repeatable once."
 
-  # utter_
-#  - text: "
+   utter_CGPA_GPA_transcript:
+  - text: "-	GPA and CGPA displayed on the AUM transcript include 3 decimal digits, truncated without any rounding."
 
 
 
