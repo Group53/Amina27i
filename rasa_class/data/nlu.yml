@@ -394,109 +394,155 @@ examples: |
  - What does a "Withdrawal" grade indicate, and how does it factor into GPA determination?
 
 #30
-- intent: AF_grade
+- intent: EPP_passing_grade
 examples: |
- - What does an "AF" grade signify?
- - What is the meaning of an "AF" grade?
- - What does an "AF" grade indicate?
- - What is the significance of receiving an "AF" grade?
- - What does the "AF" grade signify in academic grading?
- - What does an "AF" grade represent in terms of academic performance?
+ - What is the passing grade requirement for each level of the English Foundation Program (EPP)?
+ - What is the minimum passing grade prerequisite for every tier of the English Foundation Program (EPP)?
+ - What is the passing grade threshold for each stage within the English Foundation Program (EPP)?
+ - What grade is required to pass each level of the English Foundation Program (EPP)?
+ - What is the minimum grade required to pass every tier of the English Foundation Program (EPP)?
+ - What is the requisite passing grade for each level in the English Foundation Program (EPP)?
 
 
 #31
-- intent: 
+- intent: Math_prep_passing_grade
 examples: |
--
--
-
+ - What is the passing grade requirement for each level of the Mathematics Preparatory Program?
+ - What is the minimum passing grade requirement for each tier of the Mathematics Preparatory Program?
+ - What grade is necessary to pass each level of the Mathematics Preparatory Program?
+ - What is the passing grade prerequisite for every stage within the Mathematics Preparatory Program?
+ - What grade is required to successfully complete each tier of the Mathematics Preparatory Program?
+ - What is the requisite passing grade for each level in the Mathematics Preparatory Program?
 
 #32
-- intent: 
+- intent: undergraduate_class_standings
 examples: |
--
--
+ - What are the different class standings for undergraduate students at AUM?
+ - What are the various class standings available for undergraduate students enrolled at AUM?
+ - What are the distinct classifications of class standings for undergraduate students at AUM?
+ - What are the different levels of class standings that undergraduate students can achieve at AUM?
+ - What are the diverse categories of class standings that undergraduate students may hold at AUM?
+ - What are the separate designations for class standings applicable to undergraduate students attending AUM?
 
 
 #33
-- intent: 
+- intent: academic_class_standing
 examples: |
--
--
+ - What is the corresponding academic year for each class standing?
+ - What academic year aligns with each class standing?
+ - Which academic year corresponds to each class standing?
+ - What academic period is associated with each class standing?
+ - For each class standing, what is the corresponding academic year?
+ - What academic level correlates with each class standing?
 
 
 #34
-- intent: 
+- intent: total_credits_class_standing
 examples: |
--
--
+ - How are total credits earned related to class standing?
+ - What is the relationship between total earned credits and class standing?
+ - How do total earned credits impact class standing?
+ - In what way are total credits earned connected to class standing?
+ - What is the correlation between total earned credits and class standing?
+ - How does the accumulation of total credits earned influence class standing?
 
 
 
 #35
-- intent: 
+- intent: CGPA_good_standing
 examples: |
--
--
+ - What is the minimum required CGPA to maintain a good standing for each class?
+ - What is the minimum CGPA required to maintain good standing for each class level?
+ - What is the CGPA threshold necessary to sustain good standing for each class designation?
+ - What is the minimum CGPA requirement to uphold good standing status for each class level?
+ - What CGPA must be maintained to retain good standing for each class category?
+ - What is the minimum CGPA needed to ensure good standing for students at each class level?
 
 
 
 #36
-- intent: 
+- intent: calculate_CGPA_GPA
 examples: |
--
--
+ - What is GPA and CGPA, and how are they calculated?
+ - What is the definition of GPA and CGPA, and what methodologies are used to calculate them?
+ - What are GPA and CGPA, and what formulas are employed to compute them?
+ - How are GPA and CGPA defined, and what procedures are used to determine their values?
+ - What do GPA and CGPA signify, and what calculations are involved in deriving them?
+ - What are GPA and CGPA, and how are their numerical values determined through calculation processes?
 
 
 #37
-- intent: 
+- intent: CGPA_GPA_transcript
 examples: |
--
--
+ - How are GPA and CGPA displayed on the AUM transcript?
+ - How are GPA and CGPA showcased on the AUM transcript?
+ - In what format are GPA and CGPA presented on the AUM transcript?
+ - How are GPA and CGPA represented on the AUM transcript?
+ - What is the layout for displaying GPA and CGPA on the AUM transcript?
+ - On the AUM transcript, how are GPA and CGPA visually represented?
 
 
 #38
-- intent: 
+- intent: EPP_purpose
 examples: |
--
--
+ - What is the purpose of the AUM English Preparatory Program (EPP)?
+ - What is the objective of implementing the AUM English Preparatory Program (EPP)?
+ - What is the aim of establishing the AUM English Preparatory Program (EPP)?
+ - What purpose does the AUM English Preparatory Program (EPP) serve?
+ - What are the goals of the AUM English Preparatory Program (EPP)?
+ - What is the intended outcome of the AUM English Preparatory Program (EPP)?
 
 
 #39
-- intent: 
+- intent: college_eng_tech_require_math_placement_test
 examples: |
--
--
+ - What happens if a student of the College of Engineering and Technology does not satisfy the threshold needed for the Math Placement Test?
+ - What occurs if a student from the College of Engineering and Technology fails to meet the required threshold for the Math Placement Test?
+ - What are the consequences if a student in the College of Engineering and Technology does not meet the Math Placement Test requirement?
+ - What happens if a College of Engineering and Technology student does not achieve the necessary score on the Math Placement Test?
+ - If a student in the College of Engineering and Technology does not meet the Math Placement Test criteria, what are the implications?
+ - What are the repercussions for a student in the College of Engineering and Technology who does not meet the Math Placement Test standard?
 
 
 #40
-- intent: 
+- intent: academic_max_duration
 examples: |
--
--
+ - What is the maximum duration for students to meet all academic program requirements at AUM?
+ - What is the deadline for students to fulfill all academic program requirements at AUM?
+ - What is the maximum timeframe given to students to complete all academic program requirements at AUM?
+ - What is the longest duration allowed for students to satisfy all academic program requirements at AUM?
+ - What is the time limit for students to meet all academic program requirements at AUM?
+ - What is the maximum period allocated for students to fulfill all academic program requirements at AUM?
 
 
 
 #41
-- intent: 
+- intent: academic_probation_dismissal
 examples: |
--
--
+ - What are the conditions for academic probation and dismissal?
+ - What criteria lead to academic probation and dismissal?
+ - What circumstances result in academic probation and dismissal?
+ - What are the requirements for academic probation and dismissal?
+ - Under what conditions do students face academic probation and dismissal?
+ - What factors contribute to academic probation and dismissal?
 
 
 #42
-- intent: 
+- intent: honors_graduation_criteria
 examples: |
--
--
-
+ - What are the criteria for graduation with honors?
+ - What standards must be met for graduating with honors?
+ - What are the requirements for achieving honors at graduation?
+ - What criteria determine eligibility for graduating with honors?
+ - What benchmarks need to be achieved to graduate with honors?
+ - What are the qualifications for earning honors upon graduation?
+ 
 
 #43
-- intent: 
+- intent: expecting_graduate_steps
 examples: |
--
--
-
+ - What are the steps for students expecting to graduate?
+ - 
 
 #44
 - intent: 
