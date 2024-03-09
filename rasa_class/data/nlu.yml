@@ -372,27 +372,178 @@ examples: |
    - What is the relationship between the grading criteria for certain courses and their effect on CGPA?
 
 
+#28
+- intent: incomplete_grade
+examples: |
+ - What does an "Incomplete" grade signify, and how is it handled?
+ - What is the significance of an Incomplete grade, and what procedures are in place for managing it?
+ - What does an Incomplete grade indicate, and what are the protocols for its resolution?
+ - What is the meaning behind an Incomplete grade, and what are the steps taken to address it?
+ - How is an Incomplete grade defined, and what measures are taken to resolve it?
+ - What does receiving an Incomplete grade imply, and how is it managed administratively?
+
+ 
+#29
+- intent: withdrawal_grade
+examples: |
+ - What does a "Withdrawal" grade indicate, and how does it impact GPA?
+ - What does a "Withdrawal" grade signify, and what effect does it have on GPA calculation?
+ - What is the meaning of a "Withdrawal" grade, and how does it influence GPA?
+ - What does receiving a "Withdrawal" grade signify, and how does it affect GPA?
+ - What is the implication of a "Withdrawal" grade, and how does it impact GPA calculation?
+ - What does a "Withdrawal" grade indicate, and how does it factor into GPA determination?
+
+#30
+- intent: AF_grade
+examples: |
+ - What does an "AF" grade signify?
+ - What is the meaning of an "AF" grade?
+ - What does an "AF" grade indicate?
+ - What is the significance of receiving an "AF" grade?
+ - What does the "AF" grade signify in academic grading?
+ - What does an "AF" grade represent in terms of academic performance?
+
+
+#31
+- intent: 
+examples: |
+-
+-
+
+
+#32
+- intent: 
+examples: |
+-
+-
+
+
+#33
+- intent: 
+examples: |
+-
+-
+
+
+#34
+- intent: 
+examples: |
+-
+-
 
 
 
-# - intent: 
-#   examples: |
-#     - 
-#     - 
-# - intent: 
-#   examples: |
-#     - 
-#     - 
-- intent: ask_name
-  examples: |
-    - what is your name
-    - can you tell me your name
-    - what should I call you
-    - please tell me your name
+#35
+- intent: 
+examples: |
+-
+-
 
-- intent: provide_name
-  examples: |
-    - my name is [John](name)
-    - you can call me [Alice](name)
-    - I am [Bob](name)
-    - call me [Charlie](name)             
+
+
+#36
+- intent: 
+examples: |
+-
+-
+
+
+#37
+- intent: 
+examples: |
+-
+-
+
+
+#38
+- intent: 
+examples: |
+-
+-
+
+
+#39
+- intent: 
+examples: |
+-
+-
+
+
+#40
+- intent: 
+examples: |
+-
+-
+
+
+
+#41
+- intent: 
+examples: |
+-
+-
+
+
+#42
+- intent: 
+examples: |
+-
+-
+
+
+#43
+- intent: 
+examples: |
+-
+-
+
+
+#44
+- intent: 
+examples: |
+-
+-
+
+
+#45
+- intent: 
+examples: |
+-
+-
+
+
+#46
+- intent: 
+examples: |
+-
+-
+
+
+#47
+- intent: 
+examples: |
+-
+-
+
+
+#48
+- intent: 
+examples: |
+-
+-
+
+
+#49
+- intent: 
+examples: |
+-
+-
+
+
+#50
+- intent: 
+examples: |
+-
+-
+
+
