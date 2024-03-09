@@ -22,6 +22,7 @@ intents:
   - aum_library
   - writing_club
   - tutoring_center
+  #newNEWnewNEWnew
   - medical_emergency 
   - car_accidents
   - lost_found
@@ -34,6 +35,30 @@ intents:
   - minimum_passing_grade
   - minimum_grade_exceptions
   - grading_affect_CGPA
+  - incomplete_grade
+  - withdrawal_grade
+  - EPP_passing_grade
+  - Math_prep_passing_grade
+  - undergraduate_class_standings
+  - academic_class_standing
+  - total_credits_class_standing
+  - CGPA_good_standing
+  - calculate_CGPA_GPA
+  - CGPA_GPA_transcript
+  - EPP_purpose
+  - college_eng_tech_require_math_placement_test
+  - academic_max_duration
+  - academic_probation_dismissal
+  - honors_graduation_criteria
+  - expecting_graduate_steps
+  - graduation_clearance_requirements
+  - CGPA_max_credit_fall_spring
+  - CGPA_max_credit_summer
+  - more_max_credit_allowed
+  - appeal_grade_change 
+  - course_repetition_policy 
+  - repeat_course_CGPA_improve
+  
 
 
 slots:
@@ -118,6 +143,8 @@ responses:
   utter_innovation_center:
   - text: "The Innovation Centers at AUM include the Robotics Research Center, nanotechnology center, business clubs, and Capstone Center, aimed at broadening students' knowledge and providing practical insight into various disciplines."
 
+
+ #newNEWnewNEWnew
   utter_medical_emergency:
   - text: "In case of a medical emergency, students should report the case immediately to the Clinic by calling the direct number 22255111."
   
@@ -162,8 +189,76 @@ responses:
 
    utter_grading_affect_CGPA:
   - text: "Certain courses are subject to Pass grade (P) or No Pass grade (NP), and neither P nor NP grades are counted in the calculation of CGPA."
+
+   utter_incomplete_grade:
+  - text: "An Incomplete grade indicates that the student has completed the majority of the course requirements but has failed to complete the final assessment due to serious and compelling reasons. In such cases, the Incomplete Policy is applied."
+
+   utter_withdrawal_grade:
+  - text: "A "Withdrawal" grade indicates that the student has withdrawn from a course after the Add/Drop period until the specified week of the semester. The "W" grade is recorded on the student's record but is not included in the calculation of GPA."
+
+   utter_EPP_passing_grade:
+  - text: "The passing grade for each level of the EPP is 70%, and students will be granted a Pass grade (P) or No Pass grade (NP)."
   
+   utter_Math_prep_passing_grade:
+  - text: "The passing grade for each level of the Mathematics Preparatory Program is a (C)."
+
+   utter_undergraduate_class_standings:
+  - text: "The class standings are Freshman, Sophomore, Junior, and Senior."
+
+   utter_academic_class_standing:
+  - text: "Freshman corresponds to Year 1, Sophomore corresponds to Year 2, Junior corresponds to Year 3, and Senior corresponds to Year 4."
+
+   utter_total_credits_class_standing:
+  - text: "Total credits earned determine a student's class standing. For example, Freshmen have earned 0-30 credits, Sophomores have earned 31-60 credits, Juniors have earned 61-90 credits, and Seniors have earned 91 or above credits."
   
+   utter_CGPA_good_standing:
+  - text: "The minimum required CGPA for Freshman is 1.6, for Sophomore is 1.8, for Junior is 2, and for Senior is also 2."
+
+   utter_calculate_CGPA_GPA:
+  - text: "GPA (Grade Point Average) is the average of a student's grades achieved in one single semester, while CGPA (Cumulative Grade Point Average) is the average of all final grades achieved by a student during all completed semesters at AUM. GPA and CGPA include all final grades obtained by a student, and in the case of repeating a course, the higher result is considered. Courses that were not transferred to a new major are not included in GPA and CGPA calculations."
+
+
+  utter_EPP_purpose:
+  - text: "
+
+   utter_college_eng_tech_require_math_placement_test:
+  - text: "
+  
+   utter_academic_max_duration:
+  - text: " 
+
+   utter_academic_probation_dismissal:
+  - text: "
+
+   utter_honors_graduation_criteria:
+  - text: "
+
+   utter_expecting_graduate_steps:
+  - text: "
+  
+   utter_graduation_clearance_requirements:
+  - text: " 
+
+   utter_CGPA_max_credit_fall_spring:
+  - text: "
+
+   utter_CGPA_max_credit_summer:
+  - text: "
+  
+   utter_more_max_credit_allowed:
+  - text: " 
+
+   utter_appeal_grade_change:
+  - text: "
+
+   utter_course_repetition_policy:
+  - text: "
+  
+   utter_repeat_course_CGPA_improve:
+  - text: " 
+
+  # utter_
+#  - text: "
 
 
 
