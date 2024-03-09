@@ -96,6 +96,7 @@ rules:
   - intent: innovation_center
   - action: utter_innovation_center
   
+  #newNEWnewNEWnew
   - rule: ask about medical emergency
   steps:
   - intent: medical_emergency
@@ -167,6 +168,130 @@ rules:
   steps:
   - intent: grading_affect_CGPA
   - action: utter_grading_affect_CGPA
+
+
+  - rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+   - rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+   - rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+   - rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+   - rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+   - rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+   - rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+   - rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+   - rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+   - rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+   - rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+   - rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+   - rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+   - rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+   - rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+   - rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+   - rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+   - rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+   - rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+   - rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+   - rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+   - rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+   - rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+   - rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+
+
 
 
 
