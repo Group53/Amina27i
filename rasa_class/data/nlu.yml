@@ -542,34 +542,50 @@ examples: |
 - intent: expecting_graduate_steps
 examples: |
  - What are the steps for students expecting to graduate?
- - 
+ - What are the procedures for students anticipating graduation?
+ - What steps must students take if they are planning to graduate?
+ - What are the sequential actions for students preparing for graduation?
+ - What is the process that students who are about to graduate need to follow?
+ - What are the necessary steps for students who are expecting to graduate?
 
 #44
-- intent: 
+- intent: graduation_clearance_requirements
 examples: |
--
--
+ - What are the clearance requirements for graduation?
+ - What are the criteria that students must fulfill for graduation clearance?
+ - What are the requirements that students need to meet to obtain clearance for graduation?
+ - What conditions or obligations must students satisfy in order to achieve graduation clearance?
+ - What are the clearance prerequisites that students must fulfill in order to graduate?
+ - What are the necessary steps or obligations that students need to complete for graduation clearance?
 
 
 #45
-- intent: 
+- intent: CGPA_max_credit_fall_spring
 examples: |
--
--
+ - What is the maximum credit load allowed for students during Fall and Spring semesters based on their Cumulative GPA?
+ - What is the maximum credit load permitted for students during Fall and Spring semesters based on their Cumulative GPA?
+ - What is the highest number of credits students can take during Fall and Spring semesters depending on their Cumulative GPA?
+ - What is the upper limit for credit hours that students can enroll in during Fall and Spring semesters, determined by their Cumulative GPA?
+ - What is the maximum number of credits students can register for during Fall and Spring semesters, taking into account their Cumulative GPA?
+ - What is the maximum credit load that students can carry during Fall and Spring semesters, contingent upon their Cumulative GPA?
 
 
 #46
-- intent: 
+- intent: CGPA_max_credit_summer
 examples: |
--
--
+ - What is the maximum credit load allowed for students during the Summer semester based on their Cumulative GPA?
+ - What is the highest credit load permitted for students during the Summer semester depending on their Cumulative GPA?
+ - What is the maximum number of credits students can take during the Summer semester, determined by their Cumulative GPA?
+ - What is the upper limit for credit hours that students can enroll in during the Summer semester, based on their Cumulative GPA?
+ - What is the maximum credit load that students can carry during the Summer semester, contingent upon their Cumulative GPA?
+ - What is the maximum credit load allowed for students during the Summer semester, considering their Cumulative GPA?
 
 
 #47
-- intent: 
+- intent: more_max_credit_allowed
 examples: |
--
--
+ - What is the procedure for students who wish to register for more than the maximum allowed credit load?
+ -
 
 
 #48
