@@ -218,7 +218,7 @@ responses:
   - text: "GPA (Grade Point Average) is the average of a student's grades achieved in one single semester, while CGPA (Cumulative Grade Point Average) is the average of all final grades achieved by a student during all completed semesters at AUM. GPA and CGPA include all final grades obtained by a student, and in the case of repeating a course, the higher result is considered. Courses that were not transferred to a new major are not included in GPA and CGPA calculations."
 
 
-  utter_EPP_purpose:
+   utter_EPP_purpose:
   - text: "The AUM English Preparatory Program is designed for students who do not meet the English language requirements for admission at AUM, providing intensive academic English instruction to improve overall proficiency in English."
 
    utter_college_eng_tech_require_math_placement_test:
