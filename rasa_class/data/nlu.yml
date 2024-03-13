@@ -625,4 +625,32 @@ nlu:
    - According to the policy, what is the total number of courses a student can retake to improve their CGPA, and what is the maximum number of repetitions permitted for each course?
    - What is the limit on the number of courses a student can retake to improve their CGPA, and what is the maximum number of times they can retake each course?
 
+#51
+- intent: repeat_specific_courses
+  examples: |
+   - What is the maximum duration allowed for students to repeat specific courses in order to pass and graduate?
+   - What is the allotted timeframe within which students can retake particular courses to successfully complete them and earn their degrees?
+   - What is the prescribed time limit for students to retake specific courses with the aim of passing and completing their graduation requirements?
+   - Within what timeframe are students permitted to repeat certain courses in order to fulfill the necessary criteria for graduation?
+   - How long are students allowed to retake specific courses in order to meet the requirements for passing and obtaining their degrees?
+   - What is the stipulated duration during which students may reattempt particular courses to achieve passing grades and fulfill graduation prerequisites?
 
+#52
+- intent: fail_pre_english_math
+  examples: |
+   - What are the consequences for students in the English and Mathematics Preparatory Program if they fail to meet the required success grade after repeating a course?
+   - What are the outcomes for students in the English and Mathematics Preparatory Program if they fail to meet the expected success grade following the repetition of a course?
+   - What are the ramifications for students in the English and Mathematics Preparatory Program if they do not reach the necessary success grade upon redoing a course?
+   - What are the implications for students in the English and Mathematics Preparatory Program if they do not meet the requisite success grade even after repeating a course?
+   - What are the results for students in the English and Mathematics Preparatory Program if they fail to attain the required success grade after undergoing a course repetition?
+   - What happens to students in the English and Mathematics Preparatory Program if they don't achieve the required success grade after retaking a course?
+
+#53
+- intent: sponsorship_ccourse_repetition_fees
+  examples: |
+   - Who is responsible for meeting regulations concerning course repetition fees for students under sponsorship agreements?
+   - Who is accountable for ensuring that students under sponsorship agreements adhere to regulations regarding course repetition fees?
+   - Who bears the responsibility for ensuring that students under sponsorship agreements comply with regulations regarding course repetition fees?
+   - Who is tasked with making sure that students under sponsorship agreements meet regulations concerning course repetition fees?
+   - Who is obligated to ensure that students under sponsorship agreements follow regulations regarding course repetition fees?
+   - Who is responsible for ensuring that students under sponsorship agreements abide by regulations concerning course repetition fees?
