@@ -654,3 +654,167 @@ nlu:
    - Who is tasked with making sure that students under sponsorship agreements meet regulations concerning course repetition fees?
    - Who is obligated to ensure that students under sponsorship agreements follow regulations regarding course repetition fees?
    - Who is responsible for ensuring that students under sponsorship agreements abide by regulations concerning course repetition fees?
+
+#54
+- intent: approvals_repeat_improve_CGPA
+  examples: |
+   - What approvals are required for students intending to repeat courses to improve their CGPA?
+   - What authorizations are necessary for students planning to retake courses to enhance their CGPA?
+   - What permissions do students need if they intend to repeat courses to boost their CGPA?
+   - What approvals must students obtain if they plan to retake courses to enhance their CGPA?
+   - What sanctions do students need to acquire if they aim to repeat courses to elevate their CGPA?
+   - What clearances are mandatory for students seeking to retake courses to improve their CGPA?
+
+#55
+- intent: steps_retake_subject_need
+  examples: |
+   - What is the procedure for students who have completed their academic graduation requirements but intend to repeat certain subjects?
+   - What steps do students who have fulfilled their academic graduation criteria but wish to retake specific subjects need to follow?
+   - What is the process for students who have met their academic graduation prerequisites but desire to retake particular subjects?
+   - What is the protocol for students who have completed their academic graduation requirements but plan to redo specific subjects?
+   - What are the steps for students who have satisfied their academic graduation criteria but want to repeat particular subjects?
+   - What is the procedure for students who have fulfilled their academic graduation requirements but intend to retake specific subjects?
+
+#56
+- intent: repeat_course_prerequisite_another_course
+  examples: |
+   - When should a student repeat a course if it is a requirement or prerequisite for another course?
+   - When is it necessary for a student to retake a course if it serves as a requirement or prerequisite for another course?
+   - At what point should a student repeat a course if it is a prerequisite or requirement for another course?
+   - In what circumstances should a student retake a course if it acts as a prerequisite or requirement for another course?
+   - Under what conditions should a student repeat a course if it is necessary for another course as a prerequisite or requirement?
+   - When must a student retake a course if it is essential for another course as a prerequisite or requirement?
+
+#57
+- intent: failed_course_replaced
+  examples: |
+   - Can a failed course be replaced or substituted with another course?
+   - Is it permissible to substitute or replace a failed course with another course?
+   - Can a course that has been failed be exchanged or substituted with a different course?
+   - Is it allowed to replace or substitute a failed course with an alternative course?
+   - Are students permitted to swap or replace a failed course with another course?
+   - Is there an option to substitute or exchange a failed course with a different course?
+
+#58
+- intent: change_major_bus_eng_requirements
+  examples: |
+   - What are the requirements for changing a major from the College of Business Administration to the College of Engineering and Technology?
+   - What prerequisites must be met for switching majors from the College of Business Administration to the College of Engineering and Technology?
+   - What are the conditions for changing majors from the College of Business Administration to the College of Engineering and Technology?
+   - What criteria need to be fulfilled for transitioning from the College of Business Administration to the College of Engineering and Technology?
+   - What are the prerequisites for changing majors from the College of Business Administration to the College of Engineering and Technology?
+   - What are the necessary qualifications for switching majors from the College of Business Administration to the College of Engineering and Technology?
+
+#59
+- intent: change_major_eng_bus_requirements
+  examples: |
+   - What are the criteria for changing a major from the College of Engineering and Technology to the College of Business Administration?
+   - What are the requirements for transferring from the College of Engineering and Technology to the College of Business Administration?
+   - What conditions must be met to change majors from the College of Engineering and Technology to the College of Business Administration?
+   - What criteria need to be fulfilled for switching majors from the College of Engineering and Technology to the College of Business Administration?
+   - What prerequisites are necessary for transitioning from the College of Engineering and Technology to the College of Business Administration?
+   - What qualifications are needed for changing majors from the College of Engineering and Technology to the College of Business Administration?
+
+#60
+- intent: bus_change_major_condition
+  examples: |
+   - What are the conditions for changing a major within the College of Business Administration?
+   - What requirements must be met for changing majors within the College of Business Administration?
+   - What criteria apply to changing majors within the College of Business Administration?
+   - What are the prerequisites for switching majors within the College of Business Administration?
+   - What are the eligibility criteria for changing majors within the College of Business Administration?
+   - What conditions need to be satisfied to change majors within the College of Business Administration?
+
+#61
+- intent: eng_change_major_eng
+  examples: |
+   - What are the requirements for changing a major within the College of Engineering and Technology from Engineering Majors to Engineering Majors?
+   - What prerequisites must be fulfilled for changing majors within the College of Engineering and Technology from Engineering Majors to Engineering Majors?
+   - What are the conditions for switching majors within the College of Engineering and Technology from Engineering Majors to Engineering Majors?
+   - What are the eligibility criteria for changing majors within the College of Engineering and Technology from Engineering Majors to Engineering Majors?
+   - What prerequisites apply to changing majors within the College of Engineering and Technology from Engineering Majors to Engineering Majors?
+   - What are the requirements for transferring majors within the College of Engineering and Technology from Engineering Majors to Engineering Majors?
+
+#62
+- intent:
+  examples: |
+   - 
+   - 
+
+#63
+- intent:
+  examples: |
+   - 
+   - 
+
+#64
+- intent:
+  examples: |
+   - 
+   - 
+
+#65
+- intent:
+  examples: |
+   - 
+   - 
+
+#66
+- intent:
+  examples: |
+   - 
+   - 
+
+#67
+- intent:
+  examples: |
+   - 
+   - 
+
+#68
+- intent:
+  examples: |
+   - 
+   - 
+
+#69
+- intent:
+  examples: |
+   - 
+   - 
+
+#70
+- intent:
+  examples: |
+   - 
+   - 
+
+#71
+- intent:
+  examples: |
+   - 
+   - 
+
+#72
+- intent:
+  examples: |
+   - 
+   - 
+
+#73
+- intent:
+  examples: |
+   - 
+   - 
+
+#74
+- intent:
+  examples: |
+   - 
+   - 
+
+#75
+- intent:
+  examples: |
+   - 
+   - 
