@@ -22,7 +22,6 @@ intents:
   - aum_library
   - writing_club
   - tutoring_center
-  #newNEWnewNEWnew
   - medical_emergency 
   - car_accidents
   - lost_found
@@ -57,12 +56,57 @@ intents:
   - more_max_credit_allowed
   - appeal_grade_change 
   - course_repetition_policy 
+  #newnewnewnew
   - repeat_course_CGPA_improve
+  - repeat_specific_courses
+  - fail_pre_english_math
+  - sponsorship_ccourse_repetition_fees
+  - approvals_repeat_improve_CGPA
+  - steps_retake_subject_need
+  - repeat_course_prerequisite_another_course
+  - failed_course_replaced
+  - change_major_bus_eng_requirements
+  - change_major_eng_bus_requirements
+  - bus_change_major_condition
+  - eng_change_major_eng
+  - attendance_importance
+  - honors_list_criteria
+  - grading_table
+  - park_car
+  - join_art_club
+  - join_book_club
+  - join_drama_club
+  - join_music_club
+  - join_photography_club
+  - join_speech_communication_club
+  - art_club_location 
+  - book_club_location
+  - drama_club_location
+  - music_club_location
+  - photo_club_location
+  - speech_communication_club_location
+  - art_club_info
+  - book_club_info
+  - drama_club_info
+  - music_club_info
+  - photo_club_info
+  - speech_communication_club_info
+  - UG_2023_2024_calendar
+  - EPP_2023_2024_calendar
+  - attendance_policy
+  - examination_guidelines
+  - med_examination_form
+  - 
+  - 
+  - 
   
 
 
+  
+
 slots:
   name:
+  
    type: text
    influence_conversation: true 
    mappings: 
