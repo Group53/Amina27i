@@ -865,36 +865,158 @@ nlu:
    - What is the whereabouts of the Drama Club?
 
 #75
-- intent:
+- intent: music_club_location
   examples: |
-   - 
-   - 
+   - Where is the Music Club located?
+   - What is the location of the Music Club?
+   - Where can I find the Music Club?
+   - In what place is the Music Club situated?
+   - Where is the Music Club situated?
+   - What is the whereabouts of the Music Club?
    
 #76
-- intent:
+- intent: photo_club_location
   examples: |
-   - 
-   - 
+   - Where is the Photography Club located?
+   - What is the location of the Photography Club?
+   - Where can I find the Photography Club?
+   - In what place is the Photography Club situated?
+   - Where is the Photography Club situated?
+   - What is the whereabouts of the Photography Club?
+   
 #77
-- intent:
+- intent: speech_communication_club_location
   examples: |
-   - 
-   - 
+   - Where is the Speech & Communication Club?
+   - What is the location of the Speech & Communication Club?
+   - Where can I find the Speech & Communication Club?
+   - In what place is the Speech & Communication Club situated?
+   - Where is the Speech & Communication Club situated?
+   - What is the whereabouts of the Speech & Communication Club?
 
 #78
-- intent:
+- intent: art_club_info
   examples: |
-   - 
-   - 
+   - Can I have information about the Art Club?
+   - Could you provide details about the Art Club? 
+   - May I get information regarding the Art Club?
+   - Could you share some insights about the Art Club?
+   - Would you mind giving me some information about the Art Club?
+   - Can you provide details about the Art Club, please?
 
 #79
+- intent: book_club_info
+  examples: |
+   - Can I have information about the Book Club?
+   - Could you please provide information about the Book Club?
+   - May I obtain information regarding the Book Club?
+   - Could you share details about the Book Club?
+   - Would you mind giving me some information about the Book Club?
+   - Can you provide information about the Book Club, please?
+
+#80
+- intent: drama_club_info
+  examples: |
+   - Can I have information about the Drama Club?
+   - Could you please provide details about the Drama Club? 
+   - May I obtain information regarding the Drama Club?
+   - Could you share details about the Drama Club?
+   - Would you mind giving me some information about the Drama Club?
+   - Can you provide information about the Drama Club, please?
+
+#81
+- intent: music_club_info
+  examples: |
+   - Can I have information about the Music Club?
+   - May I request information about the Music Club?
+   - Could you please provide details about the Music Club?
+   - I would like to know more about the Music Club, could you provide information?
+   - Is it possible to obtain information about the Music Club?
+   - Can you share details about the Music Club?
+   
+#82
+- intent: photo_club_info
+  examples: |
+   - Can I have information about the Photography Club?
+   - Could you please provide information about the Photography Club?
+   - May I request details regarding the Photography Club?
+   - Is it possible to obtain information about the Photography Club?
+   - Could you share some information about the Photography Club? 
+   - I would like to know more about the Photography Club. Could you provide details?
+   
+#83
+- intent: speech_communication_club_info
+  examples: |
+   - Can I have information about the Speech & Communication Club?
+   - Could you please provide information about the Speech & Communication Club?
+   - May I request details regarding the Speech & Communication Club?
+   - Is it possible to obtain information about the Speech & Communication Club?
+   - Could you share some information about the Speech & Communication Club?
+   - I would like to know more about the Speech & Communication Club. Could you provide details?
+   
+#84
+- intent: UG_2023_2024_calendar
+  examples: |
+   - Can I have the academic calendar of UG 2023-2024?
+   - Could you please provide the academic calendar for undergraduate students for the academic year 2023-2024?
+   - May I request the academic calendar for UG students for the academic year 2023-2024?
+   - Is it possible to obtain the academic calendar for undergraduate students for the academic year 2023-2024?
+   - Could you share the academic calendar for UG students for the academic year 2023-2024?
+   - I would like to have access to the academic calendar for undergraduate students for the academic year 2023-2024. Could you provide it?
+   
+#85
+- intent: EPP_2023_2024_calendar
+  examples: |
+   - Can I have the academic calendar of EPP 2023-2024?
+   - Could you please provide the academic calendar for the English Preparatory Program EPP for the academic year 2023-2024?
+   - May I request the academic calendar for the English Preparatory Program EPP for the academic year 2023-2024?
+   - Is it possible to obtain the academic calendar for the English Preparatory Program EPP for the academic year 2023-2024?
+   - Could you share the academic calendar for the English Preparatory Program EPP for the academic year 2023-2024?
+   - I would like to have access to the academic calendar for the English Preparatory Program EPP for the academic year 2023-2024. Could you provide it?
+
 - intent:
   examples: |
    - 
    - 
 
-#80
 - intent:
   examples: |
    - 
    - 
+
+- intent:
+  examples: |
+   - 
+   - 
+
+- intent:
+  examples: |
+   - 
+   - 
+
+- intent:
+  examples: |
+   - 
+   - 
+
+- intent:
+  examples: |
+   - 
+   - 
+
+- intent:
+  examples: |
+   - 
+   - 
+
+- intent:
+  examples: |
+   - 
+   - 
+
+- intent:
+  examples: |
+   - 
+   - 
+
+
