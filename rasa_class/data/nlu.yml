@@ -736,64 +736,104 @@ nlu:
    - What are the requirements for transferring majors within the College of Engineering and Technology from Engineering Majors to Engineering Majors?
 
 #62
-- intent:
+- intent: attendance_importance
   examples: |
-   - 
-   - 
+   - How does AUM define attendance and its importance?
+   - How does AUM characterize attendance and its significance?
+   - How is attendance defined at AUM and why is it important?
+   - What is AUM's interpretation of attendance and why does it hold significance?
+   - How does AUM define attendance and what is its significance?
+   - What is AUM's perspective on attendance and why does it matter?
 
 #63
-- intent:
+- intent: honors_list_criteria
   examples: |
-   - 
-   - 
+   - What are the criteria for being named on the Honors List at AUM?
+   - What are the conditions for being included on AUM's Honors List?
+   - What are the requirements for making it onto the Honors List at AUM?
+   - What criteria must students meet to be listed on AUM's Honors List?
+   - What are the standards for inclusion on AUM's Honors List?
+   - What are the prerequisites for being recognized on AUM's Honors List?
 
 #64
-- intent:
+- intent: grading_table
   examples: |
-   - 
-   - 
+   - Can I have the grading table?
+   - Could you please provide me with the grading table?
+   - May I have access to the grading table?
+   - Is it possible to obtain the grading table?
+   - Would you mind sharing the grading table with me?
+   - Could you kindly provide the grading table?
 
 #65
-- intent:
+- intent: park_car
   examples: |
-   - 
-   - 
+   - Where can I park my car?
+   - Where is the designated parking area?
+   - Could you please direct me to the parking lot?
+   - Where can I find parking for my car?
+   - May I know the location of the parking facilities?
+   - Could you guide me to the nearest parking spot?
 
 #66
-- intent:
+- intent: join_art_club
   examples: |
-   - 
-   - 
+   - How can I join the art club?
+   - How do I become a member of the art club?
+   - What is the process for joining the art club?
+   - How can I get involved with the art club?
+   - What steps do I need to take to join the art club?
+   - Where can I find information on joining the art club?
 
 #67
-- intent:
+- intent: join_book_club
   examples: |
-   - 
-   - 
+   - How can I join the book club?
+   - What are the steps to become a member of the book club?
+   - How do I get involved with the book club?
+   - Where can I find information about joining the book club?
+   - What is the process for joining the book club?
+   - How can I become a part of the book club?
 
 #68
-- intent:
+- intent: join_drama_club
   examples: |
-   - 
-   - 
+   - How can I join the Drama Club?
+   - What steps do I need to take to become a member of the Drama Club?
+   - How can I get involved in the Drama Club?
+   - Where can I find information about joining the Drama Club?
+   - What is the process for joining the Drama Club?
+   - How do I become a part of the Drama Club?
 
 #69
-- intent:
+- intent: join_music_club
   examples: |
-   - 
-   - 
+   - How can I join the Music Club?
+   - What steps do I need to take to become a member of the Music Club?
+   - Where can I find information about joining the Music Club?
+   - What is the process for joining the Music Club?
+   - How do I become a part of the Music Club?
+   - Is there a specific procedure for joining the Music Club?
 
 #70
-- intent:
+- intent: join_photography_club
   examples: |
-   - 
-   - 
+   - How can I join the Photography Club?
+   - What steps do I need to follow to become a member of the Photography Club?
+   - Where can I find information on joining the Photography Club?
+   - What is the process for joining the Photography Club?
+   - How do I become a member of the Photography Club?
+   - Is there a specific procedure I need to follow to join the Photography Club?
 
 #71
-- intent:
+- intent: join_speech_communication_club
   examples: |
-   - 
-   - 
+   - How can  I join the Speech & Communication Club?
+   - What are the steps for becoming a member of the Speech & Communication Club?
+   - Where can I find information on joining the Speech & Communication Club?
+   - What is the process for joining the Speech & Communication Club?
+   - How do I become a member of the Speech & Communication Club?
+   - Is there a specific procedure I need to follow to join the Speech & Communication Club?
 
 #72
 - intent:
