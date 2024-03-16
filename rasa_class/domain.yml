@@ -179,8 +179,6 @@ responses:
   utter_innovation_center:
   - text: "The Innovation Centers at AUM include the Robotics Research Center, nanotechnology center, business clubs, and Capstone Center, aimed at broadening students' knowledge and providing practical insight into various disciplines."
 
-
- #newNEWnewNEWnew
   utter_medical_emergency:
   - text: "In case of a medical emergency, students should report the case immediately to the Clinic by calling the direct number 22255111."
   
@@ -286,9 +284,120 @@ responses:
   utter_CGPA_GPA_transcript:
   - text: "-	GPA and CGPA displayed on the AUM transcript include 3 decimal digits, truncated without any rounding."
 
+#newnewnew
+  utter_repeat_course_CGPA_improve:
+  - text: "
 
+  utter_repeat_specific_courses:
+  - text: "
 
+  utter_fail_pre_english_math:
+  - text: "
 
+  utter_sponsorship_ccourse_repetition_fees:
+  - text: "
+
+  utter_approvals_repeat_improve_CGPA:
+  - text: "
+
+  utter_steps_retake_subject_need:
+  - text: "
+
+  utter_repeat_course_prerequisite_another_course:
+  - text: "
+
+  utter_failed_course_replaced:
+  - text: "
+
+  utter_change_major_bus_eng_requirements:
+  - text: "
+
+  utter_change_major_eng_bus_requirements:
+  - text: "
+
+  utter_bus_change_major_condition:
+  - text: "
+
+  utter_eng_change_major_eng:
+  - text: "
+
+  utter_attendance_importance:
+  - text: "
+
+  utter_honors_list_criteria:
+  - text: "
+
+  utter_
+  - text: "
+
+  utter_
+  - text: "
+
+  utter_
+  - text: "
+
+  utter_
+  - text: "
+
+  utter_
+  - text: "
+
+  utter_
+  - text: "
+
+  utter_
+  - text: "
+
+  utter_
+  - text: "
+
+  utter_
+  - text: "
+
+  utter_
+  - text: "
+
+  utter_
+  - text: "
+
+  utter_
+  - text: "
+
+  utter_
+  - text: "
+
+  utter_
+  - text: "
+
+  utter_
+  - text: "
+
+  utter_
+  - text: "
+
+  utter_
+  - text: "
+
+  utter_
+  - text: "
+
+  utter_
+  - text: "
+
+  utter_
+  - text: "
+
+  utter_
+  - text: "
+
+  utter_
+  - text: "
+
+  utter_
+  - text: "
+
+  utter_
+  - text: "
   
 session_config:
   session_expiration_time: 60
