@@ -974,21 +974,37 @@ nlu:
    - Could you share the academic calendar for the English Preparatory Program EPP for the academic year 2023-2024?
    - I would like to have access to the academic calendar for the English Preparatory Program EPP for the academic year 2023-2024. Could you provide it?
 
-- intent:
+#86
+- intent: attendance_policy
   examples: |
-   - 
-   - 
+   - Can i have the attendance policy?
+   - Could you please provide me with the attendance policy?
+   - May I request a copy of the attendance policy?
+   - Is it possible to obtain the attendance policy?
+   - Could you share the attendance policy with me?
+   - I would like to have access to the attendance policy. Could you provide it?
 
-- intent:
+#87
+- intent: examination_guidelines
   examples: |
-   - 
-   - 
+   - Can I know the students examination guidelines?
+   - Could you please provide me with the guidelines for student examinations?
+   - May I request the guidelines for student examinations?
+   - Is it possible to obtain the student examination guidelines?
+   - Could you share the examination guidelines for students with me?
+   - I would like to know the guidelines for student examinations. Could you provide them?
 
-- intent:
+#89
+- intent:med_examination_form
   examples: |
-   - 
-   - 
+   - Can I have the medical examination form?
+   - Could you please provide me with the medical examination form?
+   - May I request the medical examination form?
+   - Is it possible to obtain the medical examination form?
+   - Could you share the medical examination form with me?
+   - I would like to have access to the medical examination form.
 
+#90
 - intent:
   examples: |
    - 
