@@ -836,24 +836,64 @@ nlu:
    - Is there a specific procedure I need to follow to join the Speech & Communication Club?
 
 #72
-- intent:
+- intent: art_club_location 
   examples: |
-   - 
-   - 
+   - Where is the art club located?
+   - Where can I find the art club on campus?
+   - Where is the physical location of the art club?
+   - What is the address of the art club?
+   - In which building or area is the art club situated?
 
 #73
-- intent:
+- intent: book_club_location
   examples: |
-   - 
-   - 
+   - Where is the Book Club located?
+   - Where can I find the Book Club?
+   - What is the location of the Book Club?
+   - Where is the Book Club situated?
+   - In what place can I locate the Book Club?
+   -  What is the Book Club's whereabouts?
 
 #74
+- intent: drama_club_location
+  examples: |
+   - Where is the Drama Club located?
+   - What is the location of the Drama Club?
+   - Where can I find the Drama Club?
+   - In what place is the Drama Club situated?
+   - Where is the Drama Club situated?
+   - What is the whereabouts of the Drama Club?
+
+#75
+- intent:
+  examples: |
+   - 
+   - 
+   
+#76
+- intent:
+  examples: |
+   - 
+   - 
+#77
 - intent:
   examples: |
    - 
    - 
 
-#75
+#78
+- intent:
+  examples: |
+   - 
+   - 
+
+#79
+- intent:
+  examples: |
+   - 
+   - 
+
+#80
 - intent:
   examples: |
    - 
