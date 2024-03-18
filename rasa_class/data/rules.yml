@@ -290,11 +290,256 @@ rules:
   - intent: repeat_course_CGPA_improve
   - action: utter_repeat_course_CGPA_improve
 
-#- rule: ask about 
-# steps:
-# - intent: 
-# - action: utter_
+#newnewnew
+- rule: ask about repeat specific courses
+  steps:
+  - intent: repeat_specific_courses
+  - action: utter_repeat_specific_courses
 
+- rule: ask about fail pre english math
+  steps:
+  - intent: fail_pre_english_math
+  - action: utter_fail_pre_english_math
+
+- rule: ask about sponsorship course repetition fees
+  steps:
+  - intent: sponsorship_ccourse_repetition_fees
+  - action: utter_sponsorship_ccourse_repetition_fees
+
+- rule: ask about approvals repeat improve CGPA
+  steps:
+  - intent: approvals_repeat_improve_CGPA
+  - action: utter_approvals_repeat_improve_CGPA
+
+- rule: ask about steps retake subject need
+  steps:
+  - intent: steps_retake_subject_need
+  - action: utter_steps_retake_subject_need
+
+- rule: ask about repeat course prerequisite another course
+  steps:
+  - intent: repeat_course_prerequisite_another_course
+  - action: utter_repeat_course_prerequisite_another_course
+
+- rule: ask about failed course replaced
+  steps:
+  - intent: failed_course_replaced
+  - action: utter_failed_course_replaced
+
+- rule: ask about change major bus eng requirements
+  steps:
+  - intent: change_major_bus_eng_requirements
+  - action: utter_change_major_bus_eng_requirements
+
+- rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+- rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+- rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+- rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+- rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+- rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+- rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+- rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+- rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+- rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+- rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+- rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+- rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+- rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+- rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+- rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+- rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+- rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+- rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+- rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+- rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+- rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+- rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+- rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+- rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+- rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+- rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+- rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+- rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+- rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+- rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+- rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+- rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+- rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+- rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+- rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+- rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+- rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+- rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+- rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+- rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
+
+- rule: ask about 
+  steps:
+  - intent: 
+  - action: utter_
 
 
 
