@@ -327,78 +327,80 @@ responses:
   utter_honors_list_criteria:
   - text: "
 
-  utter_
+  utter_grading_table:
   - text: "
 
-  utter_
+  utter_park_car:
   - text: "
 
-  utter_
+  utter_join_art_club:
   - text: "
 
-  utter_
+  utter_join_book_club:
   - text: "
 
-  utter_
+  utter_join_drama_club:
   - text: "
 
-  utter_
+  utter_join_music_club:
   - text: "
 
-  utter_
+  utter_join_photography_club:
   - text: "
 
-  utter_
+  utter_join_speech_communication_club:
   - text: "
 
-  utter_
+  utter_art_club_location:
   - text: "
 
-  utter_
+  utter_book_club_location:
   - text: "
 
-  utter_
+  utter_drama_club_location:
   - text: "
 
-  utter_
+  utter_music_club_location:
   - text: "
 
-  utter_
+  utter_photo_club_location:
   - text: "
 
-  utter_
+  utter_speech_communication_club_location:
   - text: "
 
-  utter_
+  utter_art_club_info:
   - text: "
 
-  utter_
+  utter_book_club_info:
   - text: "
 
-  utter_
+  utter_drama_club_info:
   - text: "
 
-  utter_
+  utter_music_club_info:
   - text: "
 
-  utter_
+  utter_photo_club_info:
   - text: "
 
-  utter_
+  utter_speech_communication_club_info:
   - text: "
 
-  utter_
+  utter_UG_2023_2024_calendar:
   - text: "
 
-  utter_
+  utter_EPP_2023_2024_calendar:
   - text: "
 
-  utter_
+  utter_attendance_policy:
   - text: "
 
-  utter_
+  utter_examination_guidelines:
   - text: "
-  
+
+  utter_med_examination_form:
+  - text: "
 session_config:
   session_expiration_time: 60
   carry_over_slots_to_new_session: true
