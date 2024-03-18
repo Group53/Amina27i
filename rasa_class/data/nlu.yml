@@ -243,7 +243,6 @@ nlu:
    - What is the function of the Innovation Centers at AUM?
    - What purpose do the Innovation Centers serve at AUM?
 
-#newNEWnewNEWnew
 #16
 - intent: medical_emergency 
   examples: |
@@ -625,6 +624,8 @@ nlu:
    - According to the policy, what is the total number of courses a student can retake to improve their CGPA, and what is the maximum number of repetitions permitted for each course?
    - What is the limit on the number of courses a student can retake to improve their CGPA, and what is the maximum number of times they can retake each course?
 
+
+#newnewnewnew
 #51
 - intent: repeat_specific_courses
   examples: |
