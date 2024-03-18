@@ -56,8 +56,8 @@ intents:
   - more_max_credit_allowed
   - appeal_grade_change 
   - course_repetition_policy 
-  #newnewnewnew
   - repeat_course_CGPA_improve
+   #newnewnewnew
   - repeat_specific_courses
   - fail_pre_english_math
   - sponsorship_ccourse_repetition_fees
@@ -284,10 +284,10 @@ responses:
   utter_CGPA_GPA_transcript:
   - text: "-	GPA and CGPA displayed on the AUM transcript include 3 decimal digits, truncated without any rounding."
 
-#newnewnew
   utter_repeat_course_CGPA_improve:
   - text: "Students repeating specific courses to improve their CGPA can repeat up to four courses, with each individual course only repeatable once."
 
+ #newnewnewnew
   utter_repeat_specific_courses:
   - text: "Students can repeat specific courses as many times as needed to pass and graduate within eight academic years from their enrollment in the University, excluding the duration of the English and Mathematics Preparatory Program."
 
