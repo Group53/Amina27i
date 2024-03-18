@@ -331,217 +331,155 @@ rules:
   - intent: change_major_bus_eng_requirements
   - action: utter_change_major_bus_eng_requirements
 
-- rule: ask about 
+- rule: ask about change major eng bus requirements
   steps:
-  - intent: 
-  - action: utter_
+  - intent: change_major_eng_bus_requirements
+  - action: utter_change_major_eng_bus_requirements
 
-- rule: ask about 
+- rule: ask about bus change major condition
   steps:
-  - intent: 
-  - action: utter_
+  - intent: bus_change_major_condition
+  - action: utter_bus_change_major_condition
 
-- rule: ask about 
+- rule: ask about eng change major eng
   steps:
-  - intent: 
-  - action: utter_
+  - intent: eng_change_major_eng
+  - action: utter_eng_change_major_eng
 
-- rule: ask about 
+- rule: ask about attendance importance
   steps:
-  - intent: 
-  - action: utter_
+  - intent: attendance_importance
+  - action: utter_attendance_importance
 
-- rule: ask about 
+- rule: ask about honors list criteria
   steps:
-  - intent: 
-  - action: utter_
+  - intent: honors_list_criteria
+  - action: utter_honors_list_criteria
 
-- rule: ask about 
+- rule: ask about grading table
   steps:
-  - intent: 
-  - action: utter_
+  - intent: grading_table
+  - action: utter_grading_table
 
-- rule: ask about 
+- rule: ask about park car
   steps:
-  - intent: 
-  - action: utter_
+  - intent: park_car
+  - action: utter_park_car
 
-- rule: ask about 
+- rule: ask about join art club
   steps:
-  - intent: 
-  - action: utter_
+  - intent: join_art_club
+  - action: utter_join_art_club
 
-- rule: ask about 
+- rule: ask about join drama club
   steps:
-  - intent: 
-  - action: utter_
+  - intent: join_drama_club
+  - action: utter_join_drama_club
 
-- rule: ask about 
+- rule: ask about join book club
   steps:
-  - intent: 
-  - action: utter_
+  - intent: join_book_club
+  - action: utter_join_book_club
 
-- rule: ask about 
+- rule: ask about join music club
   steps:
-  - intent: 
-  - action: utter_
+  - intent: join_music_club
+  - action: utter_join_music_club
 
-- rule: ask about 
+- rule: ask about join photography club
   steps:
-  - intent: 
-  - action: utter_
+  - intent: join_photography_club
+  - action: utter_join_photography_club
 
-- rule: ask about 
+- rule: ask about join speech communication club
   steps:
-  - intent: 
-  - action: utter_
+  - intent: join_speech_communication_club
+  - action: utter_join_speech_communication_club
 
-- rule: ask about 
+- rule: ask about art club location
   steps:
-  - intent: 
-  - action: utter_
+  - intent: art_club_location
+  - action: utter_art_club_location
 
-- rule: ask about 
+- rule: ask about book club location
   steps:
-  - intent: 
-  - action: utter_
+  - intent: book_club_location
+  - action: utter_book_club_location
 
-- rule: ask about 
+- rule: ask about drama club location
   steps:
-  - intent: 
-  - action: utter_
+  - intent: drama_club_location
+  - action: utter_drama_club_location
 
-- rule: ask about 
+- rule: ask about music club location
   steps:
-  - intent: 
-  - action: utter_
+  - intent: music_club_location
+  - action: utter_music_club_location
 
-- rule: ask about 
+- rule: ask about photography club location
   steps:
-  - intent: 
-  - action: utter_
+  - intent: photo_club_location
+  - action: utter_photo_club_location
 
-- rule: ask about 
+- rule: ask about speech communication club location
   steps:
-  - intent: 
-  - action: utter_
+  - intent: speech_communication_club_location
+  - action: utter_speech_communication_club_location
 
-- rule: ask about 
+- rule: ask about art club info
   steps:
-  - intent: 
-  - action: utter_
+  - intent: art_club_info
+  - action: utter_art_club_info
 
-- rule: ask about 
+- rule: ask about book club info
   steps:
-  - intent: 
-  - action: utter_
+  - intent: book_club_info
+  - action: utter_book_club_info
 
-- rule: ask about 
+- rule: ask about drama club info
   steps:
-  - intent: 
-  - action: utter_
+  - intent: drama_club_info
+  - action: utter_drama_club_info
 
-- rule: ask about 
+- rule: ask about music club info
   steps:
-  - intent: 
-  - action: utter_
+  - intent: music_club_info
+  - action: utter_music_club_info
 
-- rule: ask about 
+- rule: ask about photo club info
   steps:
-  - intent: 
-  - action: utter_
+  - intent: photo_club_info
+  - action: utter_photo_club_info
 
-- rule: ask about 
+- rule: ask about speech communication club info
   steps:
-  - intent: 
-  - action: utter_
+  - intent: speech_communication_club_info
+  - action: utter_speech_communication_club_info
 
-- rule: ask about 
+- rule: ask about UG 2023 2024 calendar
   steps:
-  - intent: 
-  - action: utter_
+  - intent: UG_2023_2024_calendar
+  - action: utter_UG_2023_2024_calendar
 
-- rule: ask about 
+- rule: ask about EPP 2023 2024 calendar
   steps:
-  - intent: 
-  - action: utter_
+  - intent: EPP_2023_2024_calendar
+  - action: utter_EPP_2023_2024_calendar
 
-- rule: ask about 
+- rule: ask about attendance policy
   steps:
-  - intent: 
-  - action: utter_
+  - intent: attendance_policy
+  - action: utter_attendance_policy
 
-- rule: ask about 
+- rule: ask about examination guidelines
   steps:
-  - intent: 
-  - action: utter_
+  - intent: examination_guidelines
+  - action: utter_examination_guidelines
 
-- rule: ask about 
+- rule: ask about medical examination form
   steps:
-  - intent: 
-  - action: utter_
-
-- rule: ask about 
-  steps:
-  - intent: 
-  - action: utter_
-
-- rule: ask about 
-  steps:
-  - intent: 
-  - action: utter_
-
-- rule: ask about 
-  steps:
-  - intent: 
-  - action: utter_
-
-- rule: ask about 
-  steps:
-  - intent: 
-  - action: utter_
-
-- rule: ask about 
-  steps:
-  - intent: 
-  - action: utter_
-
-- rule: ask about 
-  steps:
-  - intent: 
-  - action: utter_
-
-- rule: ask about 
-  steps:
-  - intent: 
-  - action: utter_
-
-- rule: ask about 
-  steps:
-  - intent: 
-  - action: utter_
-
-- rule: ask about 
-  steps:
-  - intent: 
-  - action: utter_
-
-- rule: ask about 
-  steps:
-  - intent: 
-  - action: utter_
-
-- rule: ask about 
-  steps:
-  - intent: 
-  - action: utter_
-
-- rule: ask about 
-  steps:
-  - intent: 
-  - action: utter_
-
-
+  - intent: med_examination_form
+  - action: utter_med_examination_form
 
 
 
