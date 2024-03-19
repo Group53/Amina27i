@@ -96,7 +96,6 @@ rules:
   - intent: innovation_center
   - action: utter_innovation_center
   
-  #newNEWnewNEWnew
 - rule: ask about medical emergency
   steps:
   - intent: medical_emergency
@@ -225,10 +224,6 @@ rules:
   - intent: EPP_purpose
   - action: utter_EPP_purpose
 
-- rule: ask about 
-  steps:
-  - intent: 
-  - action: utter_
 
 - rule: ask about college of engineering and technolgy require math placement test
   steps:
@@ -265,7 +260,7 @@ rules:
   - intent: CGPA_max_credit_fall_spring
   - action: utter_CGPA_max_credit_fall_spring
 
-- rule: ask about CGPA max credi summer
+- rule: ask about CGPA max credit summer
   steps:
   - intent: CGPA_max_credit_summer
   - action: utter_CGPA_max_credit_summer
