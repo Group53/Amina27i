@@ -138,7 +138,7 @@ responses:
 
   utter_clinic_location:
   - text: "The AUM Central Clinic is located in the middle of the campus, near the colleges of Business Administration and Engineering and Technology."
-  image: "https://ibb.co/M5bK0gd"
+    image: "https://ibb.co/M5bK0gd"
   
   utter_sports_center:
   - text: "The Sports Center at AUM provides dedicated gyms for male and female students, fully equipped with workout and training equipment, as well as indoor and outdoor sports facilities designed to international specifications."
@@ -279,10 +279,10 @@ responses:
   - text: "A student may repeat a course if they earned a C grade or below, or if they wish to improve their CGPA."
   
   utter_repeat_course_CGPA_improve:
-  - text: "-	Students repeating specific courses to improve their CGPA can repeat up to four courses, with each individual course only repeatable once."
+  - text: "Students repeating specific courses to improve their CGPA can repeat up to four courses, with each individual course only repeatable once."
 
   utter_CGPA_GPA_transcript:
-  - text: "-	GPA and CGPA displayed on the AUM transcript include 3 decimal digits, truncated without any rounding."
+  - text: "GPA and CGPA displayed on the AUM transcript include 3 decimal digits, truncated without any rounding."
 
   utter_repeat_course_CGPA_improve:
   - text: "Students repeating specific courses to improve their CGPA can repeat up to four courses, with each individual course only repeatable once."
@@ -329,11 +329,11 @@ responses:
 
   utter_grading_table:
   - text: "Please check the image provided for the grading table."
-  image: "https://ibb.co/h7N4ycq"
+    image: "https://ibb.co/h7N4ycq"
 
   utter_park_car:
   - text: "Students can park Multi Storey Parking Buildings, and Parking gate E1 & E2 as provided in the image"
-  image: "https://ibb.co/M5bK0gd"
+    image: "https://ibb.co/M5bK0gd"
 
   utter_join_art_club:
   - text: "Taida Hefford - B2-S, Liberal Arts Department, office #23, Art.Club@aum.edu.kw "
