@@ -236,12 +236,12 @@ nlu:
 #15
 - intent: innovation_center
   examples: |
-   - What are the Innovation Centers at AUM?
-   - What do the Innovation Centers at AUM entail?
-   - How are the Innovation Centers defined at AUM?
-   - What services are provided by the Innovation Centers at AUM?
-   - What is the function of the Innovation Centers at AUM?
-   - What purpose do the Innovation Centers serve at AUM?
+    - What are the Innovation Centers at AUM?
+    - What do the Innovation Centers at AUM entail?
+    - How are the Innovation Centers defined at AUM?
+    - What services are provided by the Innovation Centers at AUM?
+    - What is the function of the Innovation Centers at AUM?
+    - What purpose do the Innovation Centers serve at AUM?
 
 #16
 - intent: medical_emergency 
@@ -386,374 +386,374 @@ nlu:
 #29
 - intent: withdrawal_grade
   examples: |
-   - What does a "Withdrawal" grade indicate, and how does it impact GPA?
-   - What does a "Withdrawal" grade signify, and what effect does it have on GPA calculation?
-   - What is the meaning of a "Withdrawal" grade, and how does it influence GPA?
-   - What does receiving a "Withdrawal" grade signify, and how does it affect GPA?
-   - What is the implication of a "Withdrawal" grade, and how does it impact GPA calculation?
-   - What does a "Withdrawal" grade indicate, and how does it factor into GPA determination?
+    - What does a "Withdrawal" grade indicate, and how does it impact GPA?
+    - What does a "Withdrawal" grade signify, and what effect does it have on GPA calculation?
+    - What is the meaning of a "Withdrawal" grade, and how does it influence GPA?
+    - What does receiving a "Withdrawal" grade signify, and how does it affect GPA?
+    - What is the implication of a "Withdrawal" grade, and how does it impact GPA calculation?
+    - What does a "Withdrawal" grade indicate, and how does it factor into GPA determination?
 
 #30
 - intent: EPP_passing_grade
   examples: |
-   - What is the passing grade requirement for each level of the English Foundation Program (EPP)?
-   - What is the minimum passing grade prerequisite for every tier of the English Foundation Program (EPP)?
-   - What is the passing grade threshold for each stage within the English Foundation Program (EPP)?
-   - What grade is required to pass each level of the English Foundation Program (EPP)?
-   - What is the minimum grade required to pass every tier of the English Foundation Program (EPP)?
-   - What is the requisite passing grade for each level in the English Foundation Program (EPP)?
+    - What is the passing grade requirement for each level of the English Foundation Program (EPP)?
+    - What is the minimum passing grade prerequisite for every tier of the English Foundation Program (EPP)?
+    - What is the passing grade threshold for each stage within the English Foundation Program (EPP)?
+    - What grade is required to pass each level of the English Foundation Program (EPP)?
+    - What is the minimum grade required to pass every tier of the English Foundation Program (EPP)?
+    - What is the requisite passing grade for each level in the English Foundation Program (EPP)?
 
 
 #31
 - intent: Math_prep_passing_grade
   examples: |
-   - What is the passing grade requirement for each level of the Mathematics Preparatory Program?
-   - What is the minimum passing grade requirement for each tier of the Mathematics Preparatory Program?
-   - What grade is necessary to pass each level of the Mathematics Preparatory Program?
-   - What is the passing grade prerequisite for every stage within the Mathematics Preparatory Program?
-   - What grade is required to successfully complete each tier of the Mathematics Preparatory Program?
-   - What is the requisite passing grade for each level in the Mathematics Preparatory Program?
+    - What is the passing grade requirement for each level of the Mathematics Preparatory Program?
+    - What is the minimum passing grade requirement for each tier of the Mathematics Preparatory Program?
+    - What grade is necessary to pass each level of the Mathematics Preparatory Program?
+    - What is the passing grade prerequisite for every stage within the Mathematics Preparatory Program?
+    - What grade is required to successfully complete each tier of the Mathematics Preparatory Program?
+    - What is the requisite passing grade for each level in the Mathematics Preparatory Program?
 
 #32
 - intent: undergraduate_class_standings
   examples: |
-   - What are the different class standings for undergraduate students at AUM?
-   - What are the various class standings available for undergraduate students enrolled at AUM?
-   - What are the distinct classifications of class standings for undergraduate students at AUM?
-   - What are the different levels of class standings that undergraduate students can achieve at AUM?
-   - What are the diverse categories of class standings that undergraduate students may hold at AUM?
-   - What are the separate designations for class standings applicable to undergraduate students attending AUM?
+    - What are the different class standings for undergraduate students at AUM?
+    - What are the various class standings available for undergraduate students enrolled at AUM?
+    - What are the distinct classifications of class standings for undergraduate students at AUM?
+    - What are the different levels of class standings that undergraduate students can achieve at AUM?
+    - What are the diverse categories of class standings that undergraduate students may hold at AUM?
+    - What are the separate designations for class standings applicable to undergraduate students attending AUM?
 
 
 #33
 - intent: academic_class_standing
   examples: |
-   - What is the corresponding academic year for each class standing?
-   - What academic year aligns with each class standing?
-   - Which academic year corresponds to each class standing?
-   - What academic period is associated with each class standing?
-   - For each class standing, what is the corresponding academic year?
-   - What academic level correlates with each class standing?
+    - What is the corresponding academic year for each class standing?
+    - What academic year aligns with each class standing?
+    - Which academic year corresponds to each class standing?
+    - What academic period is associated with each class standing?
+    - For each class standing, what is the corresponding academic year?
+    - What academic level correlates with each class standing?
 
 
 #34
 - intent: total_credits_class_standing
   examples: |
-   - How are total credits earned related to class standing?
-   - What is the relationship between total earned credits and class standing?
-   - How do total earned credits impact class standing?
-   - In what way are total credits earned connected to class standing?
-   - What is the correlation between total earned credits and class standing?
-   - How does the accumulation of total credits earned influence class standing?
+    - How are total credits earned related to class standing?
+    - What is the relationship between total earned credits and class standing?
+    - How do total earned credits impact class standing?
+    - In what way are total credits earned connected to class standing?
+    - What is the correlation between total earned credits and class standing?
+    - How does the accumulation of total credits earned influence class standing?
 
 
 
 #35
 - intent: CGPA_good_standing
   examples: |
-   - What is the minimum required CGPA to maintain a good standing for each class?
-   - What is the minimum CGPA required to maintain good standing for each class level?
-   - What is the CGPA threshold necessary to sustain good standing for each class designation?
-   - What is the minimum CGPA requirement to uphold good standing status for each class level?
-   - What CGPA must be maintained to retain good standing for each class category?
-   - What is the minimum CGPA needed to ensure good standing for students at each class level?
+    - What is the minimum required CGPA to maintain a good standing for each class?
+    - What is the minimum CGPA required to maintain good standing for each class level?
+    - What is the CGPA threshold necessary to sustain good standing for each class designation?
+    - What is the minimum CGPA requirement to uphold good standing status for each class level?
+    - What CGPA must be maintained to retain good standing for each class category?
+    - What is the minimum CGPA needed to ensure good standing for students at each class level?
 
 
 
 #36
 - intent: calculate_CGPA_GPA
   examples: |
-   - What is GPA and CGPA, and how are they calculated?
-   - What is the definition of GPA and CGPA, and what methodologies are used to calculate them?
-   - What are GPA and CGPA, and what formulas are employed to compute them? 
-   - How are GPA and CGPA defined, and what procedures are used to determine their values?
-   - What do GPA and CGPA signify, and what calculations are involved in deriving them?
-   - What are GPA and CGPA, and how are their numerical values determined through calculation processes?
+    - What is GPA and CGPA, and how are they calculated?
+    - What is the definition of GPA and CGPA, and what methodologies are used to calculate them?
+    - What are GPA and CGPA, and what formulas are employed to compute them? 
+    - How are GPA and CGPA defined, and what procedures are used to determine their values?
+    - What do GPA and CGPA signify, and what calculations are involved in deriving them?
+    - What are GPA and CGPA, and how are their numerical values determined through calculation processes?
 
 
 #37
 - intent: CGPA_GPA_transcript
   examples: |
-   - How are GPA and CGPA displayed on the AUM transcript?
-   - How are GPA and CGPA showcased on the AUM transcript?
-   - In what format are GPA and CGPA presented on the AUM transcript?
-   - How are GPA and CGPA represented on the AUM transcript?
-   - What is the layout for displaying GPA and CGPA on the AUM transcript?
-   - On the AUM transcript, how are GPA and CGPA visually represented?
+    - How are GPA and CGPA displayed on the AUM transcript?
+    - How are GPA and CGPA showcased on the AUM transcript?
+    - In what format are GPA and CGPA presented on the AUM transcript?
+    - How are GPA and CGPA represented on the AUM transcript?
+    - What is the layout for displaying GPA and CGPA on the AUM transcript?
+    - On the AUM transcript, how are GPA and CGPA visually represented?
 
 
 #38
 - intent: EPP_purpose
   examples: |
-   - What is the purpose of the AUM English Preparatory Program (EPP)?
-   - What is the objective of implementing the AUM English Preparatory Program (EPP)?
-   - What is the aim of establishing the AUM English Preparatory Program (EPP)?
-   - What purpose does the AUM English Preparatory Program (EPP) serve?
-   - What are the goals of the AUM English Preparatory Program (EPP)?
-   - What is the intended outcome of the AUM English Preparatory Program (EPP)?
+    - What is the purpose of the AUM English Preparatory Program (EPP)?
+    - What is the objective of implementing the AUM English Preparatory Program (EPP)?
+    - What is the aim of establishing the AUM English Preparatory Program (EPP)?
+    - What purpose does the AUM English Preparatory Program (EPP) serve?
+    - What are the goals of the AUM English Preparatory Program (EPP)?
+    - What is the intended outcome of the AUM English Preparatory Program (EPP)?
 
 
 #39
 - intent: college_eng_tech_require_math_placement_test
   examples: |
-   - What happens if a student of the College of Engineering and Technology does not satisfy the threshold needed for the Math Placement Test?
-   - What occurs if a student from the College of Engineering and Technology fails to meet the required threshold for the Math Placement Test?
-   - What are the consequences if a student in the College of Engineering and Technology does not meet the Math Placement Test requirement?
-   - What happens if a College of Engineering and Technology student does not achieve the necessary score on the Math Placement Test?
-   - If a student in the College of Engineering and Technology does not meet the Math Placement Test criteria, what are the implications?
-   - What are the repercussions for a student in the College of Engineering and Technology who does not meet the Math Placement Test standard?
+    - What happens if a student of the College of Engineering and Technology does not satisfy the threshold needed for the Math Placement Test?
+    - What occurs if a student from the College of Engineering and Technology fails to meet the required threshold for the Math Placement Test?
+    - What are the consequences if a student in the College of Engineering and Technology does not meet the Math Placement Test requirement?
+    - What happens if a College of Engineering and Technology student does not achieve the necessary score on the Math Placement Test?
+    - If a student in the College of Engineering and Technology does not meet the Math Placement Test criteria, what are the implications?
+    - What are the repercussions for a student in the College of Engineering and Technology who does not meet the Math Placement Test standard?
 
 
 #40
 - intent: academic_max_duration
   examples: |
-   - What is the maximum duration for students to meet all academic program requirements at AUM?
-   - What is the deadline for students to fulfill all academic program requirements at AUM?
-   - What is the maximum timeframe given to students to complete all academic program requirements at AUM?
-   - What is the longest duration allowed for students to satisfy all academic program requirements at AUM?
-   - What is the time limit for students to meet all academic program requirements at AUM?
-   - What is the maximum period allocated for students to fulfill all academic program requirements at AUM?
+    - What is the maximum duration for students to meet all academic program requirements at AUM?
+    - What is the deadline for students to fulfill all academic program requirements at AUM?
+    - What is the maximum timeframe given to students to complete all academic program requirements at AUM?
+    - What is the longest duration allowed for students to satisfy all academic program requirements at AUM?
+    - What is the time limit for students to meet all academic program requirements at AUM?
+    - What is the maximum period allocated for students to fulfill all academic program requirements at AUM?
 
 
 
 #41
 - intent: academic_probation_dismissal
   examples: |
-   - What are the conditions for academic probation and dismissal?
-   - What criteria lead to academic probation and dismissal?
-   - What circumstances result in academic probation and dismissal?
-   - What are the requirements for academic probation and dismissal?
-   - Under what conditions do students face academic probation and dismissal?
-   - What factors contribute to academic probation and dismissal?
+    - What are the conditions for academic probation and dismissal?
+    - What criteria lead to academic probation and dismissal?
+    - What circumstances result in academic probation and dismissal?
+    - What are the requirements for academic probation and dismissal?
+    - Under what conditions do students face academic probation and dismissal?
+    - What factors contribute to academic probation and dismissal?
 
 
 #42
 - intent: honors_graduation_criteria
   examples: |
-   - What are the criteria for graduation with honors?
-   - What standards must be met for graduating with honors?
-   - What are the requirements for achieving honors at graduation?
-   - What criteria determine eligibility for graduating with honors?
-   - What benchmarks need to be achieved to graduate with honors?
-   - What are the qualifications for earning honors upon graduation?
+    - What are the criteria for graduation with honors?
+    - What standards must be met for graduating with honors?
+    - What are the requirements for achieving honors at graduation?
+    - What criteria determine eligibility for graduating with honors?
+    - What benchmarks need to be achieved to graduate with honors?
+    - What are the qualifications for earning honors upon graduation?
  
 
 #43
 - intent: expecting_graduate_steps
   examples: |
-   - What are the steps for students expecting to graduate?
-   - What are the procedures for students anticipating graduation?
-   - What steps must students take if they are planning to graduate?
-   - What are the sequential actions for students preparing for graduation?
-   - What is the process that students who are about to graduate need to follow?
-   - What are the necessary steps for students who are expecting to graduate?
+    - What are the steps for students expecting to graduate?
+    - What are the procedures for students anticipating graduation?
+    - What steps must students take if they are planning to graduate?
+    - What are the sequential actions for students preparing for graduation?
+    - What is the process that students who are about to graduate need to follow?
+    - What are the necessary steps for students who are expecting to graduate?
 
 #44
 - intent: graduation_clearance_requirements
   examples: |
-   - What are the clearance requirements for graduation?
-   - What are the criteria that students must fulfill for graduation clearance?
-   - What are the requirements that students need to meet to obtain clearance for graduation?
-   - What conditions or obligations must students satisfy in order to achieve graduation clearance?
-   - What are the clearance prerequisites that students must fulfill in order to graduate?
-   - What are the necessary steps or obligations that students need to complete for graduation clearance?
+    - What are the clearance requirements for graduation?
+    - What are the criteria that students must fulfill for graduation clearance?
+    - What are the requirements that students need to meet to obtain clearance for graduation?
+    - What conditions or obligations must students satisfy in order to achieve graduation clearance?
+    - What are the clearance prerequisites that students must fulfill in order to graduate?
+    - What are the necessary steps or obligations that students need to complete for graduation clearance?
 
 
 #45
 - intent: CGPA_max_credit_fall_spring
   examples: |
-   - What is the maximum credit load allowed for students during Fall and Spring semesters based on their Cumulative GPA?
-   - What is the maximum credit load permitted for students during Fall and Spring semesters based on their Cumulative GPA?
-   - What is the highest number of credits students can take during Fall and Spring semesters depending on their Cumulative GPA?
-   - What is the upper limit for credit hours that students can enroll in during Fall and Spring semesters, determined by their Cumulative GPA?
-   - What is the maximum number of credits students can register for during Fall and Spring semesters, taking into account their Cumulative GPA?
-   - What is the maximum credit load that students can carry during Fall and Spring semesters, contingent upon their Cumulative GPA?
+    - What is the maximum credit load allowed for students during Fall and Spring semesters based on their Cumulative GPA?
+    - What is the maximum credit load permitted for students during Fall and Spring semesters based on their Cumulative GPA?
+    - What is the highest number of credits students can take during Fall and Spring semesters depending on their Cumulative GPA?
+    - What is the upper limit for credit hours that students can enroll in during Fall and Spring semesters, determined by their Cumulative GPA?
+    - What is the maximum number of credits students can register for during Fall and Spring semesters, taking into account their Cumulative GPA?
+    - What is the maximum credit load that students can carry during Fall and Spring semesters, contingent upon their Cumulative GPA?
 
 
 #46
 - intent: CGPA_max_credit_summer
   examples: |
-   - What is the maximum credit load allowed for students during the Summer semester based on their Cumulative GPA?
-   - What is the highest credit load permitted for students during the Summer semester depending on their Cumulative GPA?
-   - What is the maximum number of credits students can take during the Summer semester, determined by their Cumulative GPA?
-   - What is the upper limit for credit hours that students can enroll in during the Summer semester, based on their Cumulative GPA?
-   - What is the maximum credit load that students can carry during the Summer semester, contingent upon their Cumulative GPA?
-   - What is the maximum credit load allowed for students during the Summer semester, considering their Cumulative GPA?
+    - What is the maximum credit load allowed for students during the Summer semester based on their Cumulative GPA?
+    - What is the highest credit load permitted for students during the Summer semester depending on their Cumulative GPA?
+    - What is the maximum number of credits students can take during the Summer semester, determined by their Cumulative GPA?
+    - What is the upper limit for credit hours that students can enroll in during the Summer semester, based on their Cumulative GPA?
+    - What is the maximum credit load that students can carry during the Summer semester, contingent upon their Cumulative GPA?
+    - What is the maximum credit load allowed for students during the Summer semester, considering their Cumulative GPA?
 
 
 #47
 - intent: more_max_credit_allowed
   examples: |
-   - What is the procedure for students who wish to register for more than the maximum allowed credit load?
-   - What steps should students follow if they want to register for more credits than the maximum allowed load?
-   - What is the process for students who wish to exceed the maximum credit load during registration?
-   - How should students proceed if they desire to enroll in additional credits beyond the maximum allowed limit?
-   - What are the steps students need to take if they intend to register for more credits than the maximum permitted load?
-   - What procedure do students need to follow if they want to exceed the maximum allowed credit load during registration?
+    - What is the procedure for students who wish to register for more than the maximum allowed credit load?
+    - What steps should students follow if they want to register for more credits than the maximum allowed load?
+    - What is the process for students who wish to exceed the maximum credit load during registration?
+    - How should students proceed if they desire to enroll in additional credits beyond the maximum allowed limit?
+    - What are the steps students need to take if they intend to register for more credits than the maximum permitted load?
+    - What procedure do students need to follow if they want to exceed the maximum allowed credit load during registration?
 
 
 #48
 - intent: appeal_grade_change 
   examples: |
-   - What is the procedure for students who want to appeal for a grade change?
-   - What steps should students follow if they seek to appeal a change in their grade?
-   - How can students proceed if they wish to challenge a grade alteration?
-   - What are the steps students need to take if they desire to contest a modification in their grade?
-   - How should students proceed if they aim to request a review of their grade?
-   - What is the process for students who wish to appeal for a modification in their grade?
+    - What is the procedure for students who want to appeal for a grade change?
+    - What steps should students follow if they seek to appeal a change in their grade?
+    - How can students proceed if they wish to challenge a grade alteration?
+    - What are the steps students need to take if they desire to contest a modification in their grade?
+    - How should students proceed if they aim to request a review of their grade?
+    - What is the process for students who wish to appeal for a modification in their grade?
 
 
 #49
 - intent: course_repetition_policy 
   examples: |
-   - Under what circumstances can a student repeat a course according to the Course Repetition Policy?
-   - What are the conditions under which a student can retake a course in accordance with the Course Repetition Policy?
-   - Under what circumstances is a student permitted to repeat a course as outlined in the Course Repetition Policy?
-   - What situations allow a student to retake a course based on the Course Repetition Policy?
-   - According to the Course Repetition Policy, in what instances can a student repeat a course?
-   - What are the criteria specified by the Course Repetition Policy for a student to repeat a course?
+    - Under what circumstances can a student repeat a course according to the Course Repetition Policy?
+    - What are the conditions under which a student can retake a course in accordance with the Course Repetition Policy?
+    - Under what circumstances is a student permitted to repeat a course as outlined in the Course Repetition Policy?
+    - What situations allow a student to retake a course based on the Course Repetition Policy?
+    - According to the Course Repetition Policy, in what instances can a student repeat a course?
+    - What are the criteria specified by the Course Repetition Policy for a student to repeat a course?
 
 
 #50
 - intent: repeat_course_CGPA_improve
   examples: |
-   - How many courses can a student repeat to improve their CGPA, and how many times can they repeat each course?
-   - How many courses can a student retake to enhance their CGPA, and what is the limit on the number of times they can repeat each course?
-   - What is the maximum number of courses a student can repeat to raise their CGPA, and how many times can they retake each course?
-   - How many courses can a student repeat in order to boost their CGPA, and what is the maximum number of repetitions allowed for each course?
-   - According to the policy, what is the total number of courses a student can retake to improve their CGPA, and what is the maximum number of repetitions permitted for each course?
-   - What is the limit on the number of courses a student can retake to improve their CGPA, and what is the maximum number of times they can retake each course?
-
+    - How many courses can a student repeat to improve their CGPA, and how many times can they repeat each course?
+    - How many courses can a student retake to enhance their CGPA, and what is the limit on the number of times they can repeat each course?
+    - What is the maximum number of courses a student can repeat to raise their CGPA, and how many times can they retake each course?
+    - How many courses can a student repeat in order to boost their CGPA, and what is the maximum number of repetitions allowed for each course?
+    - According to the policy, what is the total number of courses a student can retake to improve their CGPA, and what is the maximum number of repetitions permitted for each course?
+    - What is the limit on the number of courses a student can retake to improve their CGPA, and what is the maximum number of times they can retake each course?
+   
 
 #newnewnewnew
 #51
 - intent: repeat_specific_courses
   examples: |
-   - What is the maximum duration allowed for students to repeat specific courses in order to pass and graduate?
-   - What is the allotted timeframe within which students can retake particular courses to successfully complete them and earn their degrees?
-   - What is the prescribed time limit for students to retake specific courses with the aim of passing and completing their graduation requirements?
-   - Within what timeframe are students permitted to repeat certain courses in order to fulfill the necessary criteria for graduation?
-   - How long are students allowed to retake specific courses in order to meet the requirements for passing and obtaining their degrees?
-   - What is the stipulated duration during which students may reattempt particular courses to achieve passing grades and fulfill graduation prerequisites?
+    - What is the maximum duration allowed for students to repeat specific courses in order to pass and graduate?
+    - What is the allotted timeframe within which students can retake particular courses to successfully complete them and earn their degrees?
+    - What is the prescribed time limit for students to retake specific courses with the aim of passing and completing their graduation requirements?
+    - Within what timeframe are students permitted to repeat certain courses in order to fulfill the necessary criteria for graduation?
+    - How long are students allowed to retake specific courses in order to meet the requirements for passing and obtaining their degrees?
+    - What is the stipulated duration during which students may reattempt particular courses to achieve passing grades and fulfill graduation prerequisites?
 
 #52
 - intent: fail_pre_english_math
   examples: |
-   - What are the consequences for students in the English and Mathematics Preparatory Program if they fail to meet the required success grade after repeating a course?
-   - What are the outcomes for students in the English and Mathematics Preparatory Program if they fail to meet the expected success grade following the repetition of a course?
-   - What are the ramifications for students in the English and Mathematics Preparatory Program if they do not reach the necessary success grade upon redoing a course?
-   - What are the implications for students in the English and Mathematics Preparatory Program if they do not meet the requisite success grade even after repeating a course?
-   - What are the results for students in the English and Mathematics Preparatory Program if they fail to attain the required success grade after undergoing a course repetition?
-   - What happens to students in the English and Mathematics Preparatory Program if they don't achieve the required success grade after retaking a course?
+    - What are the consequences for students in the English and Mathematics Preparatory Program if they fail to meet the required success grade after repeating a course?
+    - What are the outcomes for students in the English and Mathematics Preparatory Program if they fail to meet the expected success grade following the repetition of a course?
+    - What are the ramifications for students in the English and Mathematics Preparatory Program if they do not reach the necessary success grade upon redoing a course?
+    - What are the implications for students in the English and Mathematics Preparatory Program if they do not meet the requisite success grade even after repeating a course?
+    - What are the results for students in the English and Mathematics Preparatory Program if they fail to attain the required success grade after undergoing a course repetition?
+    - What happens to students in the English and Mathematics Preparatory Program if they don't achieve the required success grade after retaking a course?
 
 #53
 - intent: sponsorship_ccourse_repetition_fees
   examples: |
-   - Who is responsible for meeting regulations concerning course repetition fees for students under sponsorship agreements?
-   - Who is accountable for ensuring that students under sponsorship agreements adhere to regulations regarding course repetition fees?
-   - Who bears the responsibility for ensuring that students under sponsorship agreements comply with regulations regarding course repetition fees?
-   - Who is tasked with making sure that students under sponsorship agreements meet regulations concerning course repetition fees?
-   - Who is obligated to ensure that students under sponsorship agreements follow regulations regarding course repetition fees?
-   - Who is responsible for ensuring that students under sponsorship agreements abide by regulations concerning course repetition fees?
+    - Who is responsible for meeting regulations concerning course repetition fees for students under sponsorship agreements?
+    - Who is accountable for ensuring that students under sponsorship agreements adhere to regulations regarding course repetition fees?
+    - Who bears the responsibility for ensuring that students under sponsorship agreements comply with regulations regarding course repetition fees?
+    - Who is tasked with making sure that students under sponsorship agreements meet regulations concerning course repetition fees?
+    - Who is obligated to ensure that students under sponsorship agreements follow regulations regarding course repetition fees?
+    - Who is responsible for ensuring that students under sponsorship agreements abide by regulations concerning course repetition fees?
 
 #54
 - intent: approvals_repeat_improve_CGPA
   examples: |
-   - What approvals are required for students intending to repeat courses to improve their CGPA?
-   - What authorizations are necessary for students planning to retake courses to enhance their CGPA?
-   - What permissions do students need if they intend to repeat courses to boost their CGPA?
-   - What approvals must students obtain if they plan to retake courses to enhance their CGPA?
-   - What sanctions do students need to acquire if they aim to repeat courses to elevate their CGPA?
-   - What clearances are mandatory for students seeking to retake courses to improve their CGPA?
+    - What approvals are required for students intending to repeat courses to improve their CGPA?
+    - What authorizations are necessary for students planning to retake courses to enhance their CGPA?
+    - What permissions do students need if they intend to repeat courses to boost their CGPA?
+    - What approvals must students obtain if they plan to retake courses to enhance their CGPA?
+    - What sanctions do students need to acquire if they aim to repeat courses to elevate their CGPA?
+    - What clearances are mandatory for students seeking to retake courses to improve their CGPA?
 
 #55
 - intent: steps_retake_subject_need
   examples: |
-   - What is the procedure for students who have completed their academic graduation requirements but intend to repeat certain subjects?
-   - What steps do students who have fulfilled their academic graduation criteria but wish to retake specific subjects need to follow?
-   - What is the process for students who have met their academic graduation prerequisites but desire to retake particular subjects?
-   - What is the protocol for students who have completed their academic graduation requirements but plan to redo specific subjects?
-   - What are the steps for students who have satisfied their academic graduation criteria but want to repeat particular subjects?
-   - What is the procedure for students who have fulfilled their academic graduation requirements but intend to retake specific subjects?
+    - What is the procedure for students who have completed their academic graduation requirements but intend to repeat certain subjects?
+    - What steps do students who have fulfilled their academic graduation criteria but wish to retake specific subjects need to follow?
+    - What is the process for students who have met their academic graduation prerequisites but desire to retake particular subjects?
+    - What is the protocol for students who have completed their academic graduation requirements but plan to redo specific subjects?
+    - What are the steps for students who have satisfied their academic graduation criteria but want to repeat particular subjects?
+    - What is the procedure for students who have fulfilled their academic graduation requirements but intend to retake specific subjects?
 
 #56
 - intent: repeat_course_prerequisite_another_course
   examples: |
-   - When should a student repeat a course if it is a requirement or prerequisite for another course?
-   - When is it necessary for a student to retake a course if it serves as a requirement or prerequisite for another course?
-   - At what point should a student repeat a course if it is a prerequisite or requirement for another course?
-   - In what circumstances should a student retake a course if it acts as a prerequisite or requirement for another course?
-   - Under what conditions should a student repeat a course if it is necessary for another course as a prerequisite or requirement?
-   - When must a student retake a course if it is essential for another course as a prerequisite or requirement?
+    - When should a student repeat a course if it is a requirement or prerequisite for another course?
+    - When is it necessary for a student to retake a course if it serves as a requirement or prerequisite for another course?
+    - At what point should a student repeat a course if it is a prerequisite or requirement for another course?
+    - In what circumstances should a student retake a course if it acts as a prerequisite or requirement for another course?
+    - Under what conditions should a student repeat a course if it is necessary for another course as a prerequisite or requirement?
+    - When must a student retake a course if it is essential for another course as a prerequisite or requirement?
 
 #57
 - intent: failed_course_replaced
   examples: |
-   - Can a failed course be replaced or substituted with another course?
-   - Is it permissible to substitute or replace a failed course with another course?
-   - Can a course that has been failed be exchanged or substituted with a different course?
-   - Is it allowed to replace or substitute a failed course with an alternative course?
-   - Are students permitted to swap or replace a failed course with another course?
-   - Is there an option to substitute or exchange a failed course with a different course?
+    - Can a failed course be replaced or substituted with another course?
+    - Is it permissible to substitute or replace a failed course with another course?
+    - Can a course that has been failed be exchanged or substituted with a different course?
+    - Is it allowed to replace or substitute a failed course with an alternative course?
+    - Are students permitted to swap or replace a failed course with another course?
+    - Is there an option to substitute or exchange a failed course with a different course?
 
 #58
 - intent: change_major_bus_eng_requirements
   examples: |
-   - What are the requirements for changing a major from the College of Business Administration to the College of Engineering and Technology?
-   - What prerequisites must be met for switching majors from the College of Business Administration to the College of Engineering and Technology?
-   - What are the conditions for changing majors from the College of Business Administration to the College of Engineering and Technology?
-   - What criteria need to be fulfilled for transitioning from the College of Business Administration to the College of Engineering and Technology?
-   - What are the prerequisites for changing majors from the College of Business Administration to the College of Engineering and Technology?
-   - What are the necessary qualifications for switching majors from the College of Business Administration to the College of Engineering and Technology?
+    - What are the requirements for changing a major from the College of Business Administration to the College of Engineering and Technology?
+    - What prerequisites must be met for switching majors from the College of Business Administration to the College of Engineering and Technology?
+    - What are the conditions for changing majors from the College of Business Administration to the College of Engineering and Technology?
+    - What criteria need to be fulfilled for transitioning from the College of Business Administration to the College of Engineering and Technology?
+    - What are the prerequisites for changing majors from the College of Business Administration to the College of Engineering and Technology?
+    - What are the necessary qualifications for switching majors from the College of Business Administration to the College of Engineering and Technology?
 
 #59
 - intent: change_major_eng_bus_requirements
   examples: |
-   - What are the criteria for changing a major from the College of Engineering and Technology to the College of Business Administration?
-   - What are the requirements for transferring from the College of Engineering and Technology to the College of Business Administration?
-   - What conditions must be met to change majors from the College of Engineering and Technology to the College of Business Administration?
-   - What criteria need to be fulfilled for switching majors from the College of Engineering and Technology to the College of Business Administration?
-   - What prerequisites are necessary for transitioning from the College of Engineering and Technology to the College of Business Administration?
-   - What qualifications are needed for changing majors from the College of Engineering and Technology to the College of Business Administration?
+    - What are the criteria for changing a major from the College of Engineering and Technology to the College of Business Administration?
+    - What are the requirements for transferring from the College of Engineering and Technology to the College of Business Administration?
+    - What conditions must be met to change majors from the College of Engineering and Technology to the College of Business Administration?
+    - What criteria need to be fulfilled for switching majors from the College of Engineering and Technology to the College of Business Administration?
+    - What prerequisites are necessary for transitioning from the College of Engineering and Technology to the College of Business Administration?
+    - What qualifications are needed for changing majors from the College of Engineering and Technology to the College of Business Administration?
 
 #60
 - intent: bus_change_major_condition
   examples: |
-   - What are the conditions for changing a major within the College of Business Administration?
-   - What requirements must be met for changing majors within the College of Business Administration?
-   - What criteria apply to changing majors within the College of Business Administration?
-   - What are the prerequisites for switching majors within the College of Business Administration?
-   - What are the eligibility criteria for changing majors within the College of Business Administration?
-   - What conditions need to be satisfied to change majors within the College of Business Administration?
+    - What are the conditions for changing a major within the College of Business Administration?
+    - What requirements must be met for changing majors within the College of Business Administration?
+    - What criteria apply to changing majors within the College of Business Administration?
+    - What are the prerequisites for switching majors within the College of Business Administration?
+    - What are the eligibility criteria for changing majors within the College of Business Administration?
+    - What conditions need to be satisfied to change majors within the College of Business Administration?
 
 #61
 - intent: eng_change_major_eng
   examples: |
-   - What are the requirements for changing a major within the College of Engineering and Technology from Engineering Majors to Engineering Majors?
-   - What prerequisites must be fulfilled for changing majors within the College of Engineering and Technology from Engineering Majors to Engineering Majors?
-   - What are the conditions for switching majors within the College of Engineering and Technology from Engineering Majors to Engineering Majors?
-   - What are the eligibility criteria for changing majors within the College of Engineering and Technology from Engineering Majors to Engineering Majors?
-   - What prerequisites apply to changing majors within the College of Engineering and Technology from Engineering Majors to Engineering Majors?
-   - What are the requirements for transferring majors within the College of Engineering and Technology from Engineering Majors to Engineering Majors?
+    - What are the requirements for changing a major within the College of Engineering and Technology from Engineering Majors to Engineering Majors?
+    - What prerequisites must be fulfilled for changing majors within the College of Engineering and Technology from Engineering Majors to Engineering Majors?
+    - What are the conditions for switching majors within the College of Engineering and Technology from Engineering Majors to Engineering Majors?
+    - What are the eligibility criteria for changing majors within the College of Engineering and Technology from Engineering Majors to Engineering Majors?
+    - What prerequisites apply to changing majors within the College of Engineering and Technology from Engineering Majors to Engineering Majors?
+    - What are the requirements for transferring majors within the College of Engineering and Technology from Engineering Majors to Engineering Majors?
 
 #62
 - intent: attendance_importance
   examples: |
-   - How does AUM define attendance and its importance?
-   - How does AUM characterize attendance and its significance?
-   - How is attendance defined at AUM and why is it important?
-   - What is AUM's interpretation of attendance and why does it hold significance?
-   - How does AUM define attendance and what is its significance?
-   - What is AUM's perspective on attendance and why does it matter?
+    - How does AUM define attendance and its importance?
+    - How does AUM characterize attendance and its significance?
+    - How is attendance defined at AUM and why is it important?
+    - What is AUM's interpretation of attendance and why does it hold significance?
+    - How does AUM define attendance and what is its significance?
+    - What is AUM's perspective on attendance and why does it matter?
 
 #63
 - intent: honors_list_criteria
   examples: |
-   - What are the criteria for being named on the Honors List at AUM?
-   - What are the conditions for being included on AUM's Honors List?
-   - What are the requirements for making it onto the Honors List at AUM?
-   - What criteria must students meet to be listed on AUM's Honors List?
-   - What are the standards for inclusion on AUM's Honors List?
+    - What are the criteria for being named on the Honors List at AUM?
+    - What are the conditions for being included on AUM's Honors List?
+    - What are the requirements for making it onto the Honors List at AUM?
+    - What criteria must students meet to be listed on AUM's Honors List?
+    - What are the standards for inclusion on AUM's Honors List?
    - What are the prerequisites for being recognized on AUM's Honors List?
 
 #64
