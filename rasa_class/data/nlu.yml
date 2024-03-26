@@ -98,7 +98,11 @@ nlu:
     - could you outline the services provided by the central clinic on the AUM Campus?
     - what kind of healthcare services does the central clinic offer at the AUM Campus?
     - what services does the central clinic on AUM Campus provide?
-    
+    - What range of services does the central clinic on the AUM Campus offer?
+    - What healthcare services are provided at the central clinic located on the AUM Campus?
+    - What specific services can be accessed at the central clinic situated on the AUM Campus?
+    - Can you detail the healthcare services available at the central clinic on the AUM Campus?
+
 #2
 - intent: clinic_location
   examples: |
@@ -106,7 +110,13 @@ nlu:
     - What is the precise address of the Central Clinic on the AUM campus?
     - Where is the physical location of the Central Clinic within the AUM campus?
     - Can you provide details about the whereabouts of the AUM Central Clinic?
-    
+    - What is the exact location or address of the AUM Central Clinic?
+    - Where precisely is the Central Clinic situated on the AUM campus?
+    - Could you give me information regarding the specific location of the AUM Central Clinic?
+    - Can you provide details about where to find the AUM Central Clinic on the campus?
+    - clinic location in campus
+    - where is the clinic?
+  
 #3
 - intent: sports_center
   examples: |
@@ -116,6 +126,10 @@ nlu:
     - What types of services can one expect from the Sports Center located at AUM?
     - What facilities and services are offered at the AUM Sports Center?
     - What specific services are available for students at the AUM Sports Center?
+    - What amenities and services does the Sports Center on the AUM campus provide?
+    - Can you detail the offerings provided by the Sports Center at AUM?
+    - What services are typically offered at the AUM Sports Center?
+    - What facilities and services can students access at the AUM Sports Center?
     
 #4
 - intent: it_services
@@ -126,6 +140,10 @@ nlu:
     - What specific IT provisions are offered to students attending AUM?
     - What are the available IT support services catered to students of AUM?
     - What IT resources and assistance are provided for students at AUM?
+    - What IT services are available for students at AUM?
+    - Can you provide details on the technological services provided to students enrolled at AUM?
+    - Could you elaborate on the IT support services offered to students at AUM?
+    - What specific IT resources and assistance are provided for students attending AUM?
     
 #5
 - intent: aum_website_info
@@ -136,6 +154,11 @@ nlu:
     - What types of student-oriented information can be found on the AUM website?
     - What specific resources and details are provided for students on the AUM website?
     - What kind of student support and resources does the AUM website offer?
+    - What information does the AUM website present to its students?
+    - Can you detail the types of information available to students on the AUM website?
+    - What student-oriented information is accessible on the AUM website?
+    - What specific resources and details are provided on the AUM website for students?
+    - What forms of student support and resources does the AUM website offer?
 
     
 #6
@@ -147,6 +170,11 @@ nlu:
     - What role does the MyAUM portal play?
     - What is the intent behind the creation of the MyAUM portal?
     - What does the MyAUM portal aim to achieve?
+    - purpose of MyAUM portal
+    - How does the MyAUM portal function?
+    - What is the goal of introducing the MyAUM portal?
+    - What role does the MyAUM portal play in the AUM community?
+    - What is the primary objective of developing the MyAUM portal?
 
 #7
 - intent: aum_Moodle
@@ -157,6 +185,12 @@ nlu:
     - How would you define Moodle?    
     - What purpose does Moodle serve?
     - What is the role of Moodle?
+    - What does Moodle do?
+    - What is the primary function of Moodle?
+    - Could you explain what Moodle is?
+    - How would you describe Moodle?
+    - What is the purpose of Moodle?
+    - What role does Moodle play in education?
     
 #8
 - intent: aum_banner
@@ -165,7 +199,13 @@ nlu:
     - What functions does Banner serve at AUM?
     - What is the purpose of Banner at AUM?
     - What is Banner used for?
-    
+    - In what ways is Banner utilized at AUM?
+    - What specific functions does Banner serve at AUM?
+    - What is the primary purpose of Banner at AUM?
+    - How is Banner employed at AUM?
+    - purpose of AUM Banner
+    - what does the AUM Banner do?
+
 #9
 - intent: aum_communicate
   examples: |
@@ -175,6 +215,12 @@ nlu:
     - What methods does AUM utilize to communicate essential information to students?
     - How does AUM ensure students receive important information?
     - Through what channels does AUM convey significant information to students?
+    - How does AUM communicate important information to students?
+    - By what methods does AUM relay crucial information to students?
+    - How does AUM disseminate important information to its student body?
+    - What channels does AUM utilize to communicate essential information to students?
+    - How does AUM ensure that students receive and are informed of important information?
+    - Through what communication channels does AUM convey significant information to students?
     
 
 
@@ -187,7 +233,12 @@ nlu:
     - How does AUM accommodate student parking?
     - What parking services does AUM extend to students?
     - What are the student parking arrangements at AUM?
-
+    - What parking services are offered to students at AUM?
+    - What parking facilities are available for students at AUM?
+    - What options does AUM provide for student parking?
+    - How does AUM facilitate student parking?
+    - What specific parking services are available to students at AUM?
+    - What arrangements are made for student parking at AUM?
     
  #11
 - intent: students_identified
@@ -198,6 +249,12 @@ nlu:
     - By what means are students recognized at AUM?
     - What identification processes are in place for students at AUM?
     - How does AUM differentiate its students?
+    - How are students identified or distinguished at AUM?
+    - What methods does AUM employ to identify its students?
+    - By what means are students recognized within AUMs system?
+    - What specific identification processes does AUM have for its students?
+    - How does AUM differentiate between its students?
+    - What measures does AUM use to distinguish one student from another?
 
     
 #12
@@ -208,6 +265,11 @@ nlu:
     - What services are available at the AUM Library?
     - What does the AUM Library provide?
     - What amenities does the AUM Library furnish?
+    - What resources does the AUM Library provide?
+    - How does the AUM Library support student needs?
+    - What services does the AUM Library offer to students?
+    - What specific provisions does the AUM Library make available?
+    - What amenities are provided by the AUM Library?
     
 
 
@@ -220,7 +282,12 @@ nlu:
     - How does the Writing Lab benefit students at AUM?
     - What role does the Writing Lab play at AUM?
     - What are the goals of the Writing Lab at AUM?
-
+    - What is the purpose or function of the Writing Lab at AUM?
+    - What objective does the Writing Lab aim to achieve at AUM?
+    - How does the Writing Lab serve students' needs at AUM?
+    - What benefits do students derive from utilizing the Writing Lab at AUM?
+    - What role does the Writing Lab play in supporting students writing skills at AUM? 
+    - What are the goals or aims of the Writing Lab program at AUM?
     
 #14
 - intent: tutoring_center
@@ -231,6 +298,11 @@ nlu:
     - How does the Tutoring Center support students at AUM?
     - What resources are available at the Tutoring Center at AUM?
     - What help can students receive from the Tutoring Center at AUM?
+    - What services does the Tutoring Center offer to students at AUM?
+    - How does the Tutoring Center at AUM provide assistance?
+    - What specific support does the Tutoring Center provide for students at AUM?
+    - What resources are accessible at the Tutoring Center located at AUM?
+    - What types of help can students expect to receive from the Tutoring Center at AUM?
 
     
 #15
