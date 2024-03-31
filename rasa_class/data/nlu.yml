@@ -314,6 +314,12 @@ nlu:
     - What services are provided by the Innovation Centers at AUM?
     - What is the function of the Innovation Centers at AUM?
     - What purpose do the Innovation Centers serve at AUM?
+    - What do the Innovation Centers at AUM encompass?
+    - What is the nature of the Innovation Centers at AUM?
+    - How are the Innovation Centers delineated at AUM?
+    - What offerings are available through the Innovation Centers at AUM?
+    - What role do the Innovation Centers play at AUM?
+    - What objectives do the Innovation Centers fulfill at AUM?
 
 #16
 - intent: medical_emergency 
@@ -324,6 +330,12 @@ nlu:
     - What are the recommended procedures for students during a medical emergency situation at the campus?
     - If there's a medical emergency at the campus, what course of action is advised for students?
     - In case of a medical crisis on campus, what actions are suggested for students to take?
+    - What are the appropriate steps for students in the event of a medical emergency on campus?
+    - If students encounter a medical emergency while on campus, what procedures should they adhere to?
+    - During a medical emergency on campus, what guidelines should students follow?
+    - What protocols are recommended for students during a medical emergency situation on campus?
+    - What actions are advised for students if there's a medical emergency at the campus?
+    - What is the recommended course of action for students in case of a medical crisis on campus?
 
 #17
 - intent: car_accidents
@@ -334,6 +346,12 @@ nlu:
     - What steps should students take if they are involved in a car accident while on campus?
     - In the event of a car collision on campus, what guidance is recommended for students?
     - What procedures should students adhere to if they encounter a car accident situation on campus?
+    - What procedures should students follow when dealing with car accidents on campus?
+    - What is the correct protocol for students to adhere to if there's a car accident on campus?
+    - How should students address car accidents that occur within the campus grounds?
+    - What are the recommended steps for students involved in a car accident while on campus?
+    - If a car collision occurs on campus, what guidance should students follow?
+    - What protocols should students stick to if they come across a car accident situation on campus?
 
 
 #18
@@ -344,6 +362,11 @@ nlu:
     - Where can students seek assistance regarding lost and found items within the campus grounds?
     - What is the designated location for students to inquire about lost and found items on campus?
     - Where should students go to report or inquire about lost belongings found on campus?
+    - Whom should students contact to inquire about misplaced items found within the campus premises?
+    - To whom should students direct their inquiries concerning lost and found items on campus?
+    - Where can students seek assistance regarding lost and found items within the campus premises?
+    - What is the designated location for students to inquire about lost and found items on campus?
+    - Where should students go to report or inquire about lost belongings found within the campus?
     - Whom should students contact to inquire about misplaced items found within the campus premises?
 
    
@@ -356,6 +379,12 @@ nlu:
     - What is the significance of Scientific Laboratories in the operations of AUM?
     - How do the Scientific Laboratories contribute to AUM's activities?
     - What purposes do the Scientific Laboratories serve within the framework of AUM?
+    - What functions do the Scientific Laboratories serve at AUM?
+    - How does AUM incorporate its Scientific Laboratories?
+    - What roles are fulfilled by the Scientific Laboratories at AUM?
+    - What importance do Scientific Laboratories hold in AUM's operations?
+    - How do the Scientific Laboratories support AUM's endeavors?
+    - What roles do the Scientific Laboratories fulfill within AUM's framework?
 
 #20
 - intent: tawteen_center
@@ -366,6 +395,12 @@ nlu:
     - What types of services are available at the Tawteen Career Center?
     - What support can students expect from the Tawteen Career Center?
     - What resources does the Tawteen Career Center provide to students?
+    - What services are extended by the Tawteen Career Center?
+    - What offerings are provided by the Tawteen Career Center?
+    - What aid is rendered by the Tawteen Career Center?
+    - What kinds of services are accessible at the Tawteen Career Center?
+    - What assistance is available to students from the Tawteen Career Center?
+    - What resources does the Tawteen Career Center furnish to students?
 
 
 #21
@@ -377,6 +412,12 @@ nlu:
     - What grading system is utilized for undergraduates at AUM?
     - How does the grading system work for undergraduate courses at AUM?
     - What is the method for grading undergraduate courses at AUM?
+    - What grading system is in place for undergraduate courses at AUM?
+    - How are undergraduate courses assessed in terms of grading at AUM?
+    - What criteria are used to grade undergraduate courses at AUM?
+    - What grading system is adopted for undergraduates at AUM?
+    - How is the grading system structured for undergraduate courses at AUM?
+    - What approach is taken for grading undergraduate courses at AUM?
 
 
 #22
@@ -388,7 +429,12 @@ nlu:
     - What is the conversion scale for letter grades to grade points in the AUM grading system?
     - What are the grade point values associated with letter grades within the AUM grading framework?
     - How are letter grades converted into grade points within the AUM grading system?
-
+    - What grade points are assigned to letter grades in the AUM grading system?
+    - How are letter grades correlated with grade point equivalents in the AUM grading system?
+    - What is the conversion process from letter grades to grade points in the AUM grading system?
+    - What scale is used to convert letter grades into grade points in the AUM grading system?
+    - What grade point values correspond to letter grades within the AUM grading structure?
+    - How is the conversion of letter grades into grade points conducted within the AUM grading system?
 
 #23
 - intent: trasnscript_grade
@@ -399,7 +445,12 @@ nlu:
     - Is the Grade/100 score shown on the AUM transcript?
     - Does the AUM transcript include the Grade/100 calculation?
     - Is the Grade/100 information documented on the AUM transcript?
-
+    - Is the Grade/100 displayed on the AUM transcript?
+    - Does the AUM transcript indicate the Grade/100?
+    - Is the Grade/100 score included on the AUM transcript?
+    - Does the AUM transcript show the Grade/100 calculation?
+    - Is the Grade/100 information recorded on the AUM transcript?
+    - Does the AUM transcript contain details about the Grade/100?
 
 #24
 - intent: minimum_required_grade
@@ -410,6 +461,12 @@ nlu:
     - What is the minimum acceptable passing grade under the AUM grading guidelines?
     - What is the lowest acceptable passing grade according to the AUM grading system?
     - What is the minimum passing grade requirement in the AUM grading structure?
+    - What is the minimum passing grade in the AUM grading system?
+    - What is the lowest acceptable passing grade allowed in the AUM grading system?
+    - What is the threshold for the minimum passing grade within the AUM grading system?
+    - What is the minimum passing grade requirement under the AUM grading guidelines?
+    - What is the lowest passing grade permitted according to the AUM grading system?
+    - What is the minimum passing grade requirement in the AUM grading framework?
 
 #25
 - intent: minimum_passing_grade
@@ -420,7 +477,12 @@ nlu:
     - What grade do most courses at AUM require as the minimum for passing?
     - What is the minimum passing grade expected in the majority of courses at AUM?
     - What grade is typically considered the minimum pass mark for courses at AUM?
-
+    - What is the minimum passing grade expected for most courses at AUM?
+    - What is the lowest acceptable passing grade for the majority of courses at AUM?
+    - What is the standard minimum passing grade for most courses at AUM?
+    - What grade is typically required for passing in the majority of courses at AUM?
+    - What is the expected minimum passing grade for the majority of courses at AUM?
+    - What grade is commonly regarded as the minimum pass mark for courses at AUM?
 
 #26
 - intent: minimum_grade_exceptions
@@ -431,7 +493,12 @@ nlu:
     - Are there any circumstances where the minimum passing grade requirement is not applicable?
     - Is there flexibility in the minimum passing grade requirement under certain circumstances?
     - Are there any situations where the minimum passing grade requirement may be different?
-
+    - Are exceptions made to the minimum passing grade requirement?
+    - Are there situations where the minimum passing grade requirement is waived?
+    - Are exceptions granted for the minimum passing grade requirement?
+    - Are there any scenarios where the minimum passing grade requirement does not apply?
+    - Is there flexibility in the minimum passing grade requirement under certain conditions?
+    - Are there any circumstances where the minimum passing grade requirement may vary?
 
 #27
 - intent: grading_affect_CGPA
@@ -442,7 +509,12 @@ nlu:
     - What is the correlation between grading methodologies for particular courses and their impact on CGPA?
     - How do grading practices for specific courses factor into CGPA determination?
     - What is the relationship between the grading criteria for certain courses and their effect on CGPA?
-
+    - What is the grading procedure for particular courses, and how does it influence CGPA?
+    - How do specific course grading methods affect the calculation of CGPA?
+    - What impact do grading methodologies for particular courses have on CGPA calculation?
+    - How does the grading system for specific courses contribute to the determination of CGPA?
+    - What role do grading practices for specific courses play in CGPA calculation?
+    - How are the grading criteria for certain courses related to their influence on CGPA?
 
 #28
 - intent: incomplete_grade
@@ -453,18 +525,29 @@ nlu:
     - What is the meaning behind an Incomplete grade, and what are the steps taken to address it?
     - How is an Incomplete grade defined, and what measures are taken to resolve it?
     - What does receiving an Incomplete grade imply, and how is it managed administratively?
-
+    - What does an Incomplete grade indicate, and what procedures are in place for its resolution?
+    - What is the significance of an Incomplete grade, and what protocols are followed to manage it?
+    - What does an Incomplete grade signify, and what steps are taken to address it?
+    - How is an Incomplete grade defined, and what actions are taken to resolve it?
+    - What does receiving an Incomplete grade imply, and how is it administratively managed?
  
 #29
 - intent: withdrawal_grade
   examples: |
-    - What does a "Withdrawal" grade indicate, and how does it impact GPA?
-    - What does a "Withdrawal" grade signify, and what effect does it have on GPA calculation?
-    - What is the meaning of a "Withdrawal" grade, and how does it influence GPA?
-    - What does receiving a "Withdrawal" grade signify, and how does it affect GPA?
-    - What is the implication of a "Withdrawal" grade, and how does it impact GPA calculation?
-    - What does a "Withdrawal" grade indicate, and how does it factor into GPA determination?
+    - What does a Withdrawal grade indicate, and how does it impact GPA?
+    - What does a Withdrawal grade signify, and what effect does it have on GPA calculation?
+    - What is the meaning of a Withdrawal grade, and how does it influence GPA?
+    - What does receiving a Withdrawal grade signify, and how does it affect GPA?
+    - What is the implication of a Withdrawal grade, and how does it impact GPA calculation?
+    - What does a Withdrawal grade indicate, and how does it factor into GPA determination?
+    - What is the indication of a Withdrawal grade, and how does it impact GPA?
+    - What does a Withdrawal grade imply, and what effect does it have on GPA calculation?
+    - What does a Withdrawal grade denote, and how does it influence GPA?
+    - What does receiving a Withdrawal grade signify, and how does it affect GPA?
+    - What is the interpretation of a Withdrawal grade, and how does it factor into GPA determination?
+    - What does a Withdrawal grade represent, and how does it contribute to GPA determination?
 
+    
 #30
 - intent: EPP_passing_grade
   examples: |
@@ -474,6 +557,12 @@ nlu:
     - What grade is required to pass each level of the English Foundation Program (EPP)?
     - What is the minimum grade required to pass every tier of the English Foundation Program (EPP)?
     - What is the requisite passing grade for each level in the English Foundation Program (EPP)?
+    - What grade must be attained to pass each tier of the English Foundation Program (EPP)?
+    - What is the minimum passing grade requirement for each stage within the English Foundation Program (EPP)?
+    - What is the passing grade threshold set for each level of the English Foundation Program (EPP)?
+    - What grade is required to successfully complete each tier of the English Foundation Program (EPP)?
+    - What is the minimum grade needed to pass every stage of the English Foundation Program (EPP)?
+    - What is the necessary passing grade for each level in the English Foundation Program (EPP)?
 
 
 #31
@@ -485,7 +574,7 @@ nlu:
     - What is the passing grade prerequisite for every stage within the Mathematics Preparatory Program?
     - What grade is required to successfully complete each tier of the Mathematics Preparatory Program?
     - What is the requisite passing grade for each level in the Mathematics Preparatory Program?
-
+   
 #32
 - intent: undergraduate_class_standings
   examples: |
@@ -494,9 +583,8 @@ nlu:
     - What are the distinct classifications of class standings for undergraduate students at AUM?
     - What are the different levels of class standings that undergraduate students can achieve at AUM?
     - What are the diverse categories of class standings that undergraduate students may hold at AUM?
-    - What are the separate designations for class standings applicable to undergraduate students attending AUM?
-
-
+    - What are the separate designations for class standings applicable to undergraduate students attending?
+    
 #33
 - intent: academic_class_standing
   examples: |
@@ -506,8 +594,7 @@ nlu:
     - What academic period is associated with each class standing?
     - For each class standing, what is the corresponding academic year?
     - What academic level correlates with each class standing?
-
-
+    
 #34
 - intent: total_credits_class_standing
   examples: |
@@ -517,7 +604,7 @@ nlu:
     - In what way are total credits earned connected to class standing?
     - What is the correlation between total earned credits and class standing?
     - How does the accumulation of total credits earned influence class standing?
-
+  
 
 
 #35
@@ -529,7 +616,7 @@ nlu:
     - What is the minimum CGPA requirement to uphold good standing status for each class level?
     - What CGPA must be maintained to retain good standing for each class category?
     - What is the minimum CGPA needed to ensure good standing for students at each class level?
-
+    
 
 
 #36
@@ -540,9 +627,8 @@ nlu:
     - What are GPA and CGPA, and what formulas are employed to compute them? 
     - How are GPA and CGPA defined, and what procedures are used to determine their values?
     - What do GPA and CGPA signify, and what calculations are involved in deriving them?
-    - What are GPA and CGPA, and how are their numerical values determined through calculation processes?
-
-
+    - What are GPA and CGPA, and how are their numerical values determined through calculation 
+    
 #37
 - intent: CGPA_GPA_transcript
   examples: |
@@ -553,7 +639,7 @@ nlu:
     - What is the layout for displaying GPA and CGPA on the AUM transcript?
     - On the AUM transcript, how are GPA and CGPA visually represented?
 
-
+   
 #38
 - intent: EPP_purpose
   examples: |
