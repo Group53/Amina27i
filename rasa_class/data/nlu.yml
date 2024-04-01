@@ -574,7 +574,14 @@ nlu:
     - What is the passing grade prerequisite for every stage within the Mathematics Preparatory Program?
     - What grade is required to successfully complete each tier of the Mathematics Preparatory Program?
     - What is the requisite passing grade for each level in the Mathematics Preparatory Program?
-   
+    - What is the minimum passing grade needed for every stage in the Mathematics Preparatory Program?
+    - What grade is essential to pass each tier of the Mathematics Preparatory Program?
+    - What is the required passing grade for each level of the Mathematics Preparatory Program?
+    - What grade is needed to successfully complete each level of the Mathematics Preparatory Program?
+    - What is the minimum passing grade prerequisite for each tier within the Mathematics Preparatory Program?
+    - What grade must be achieved to pass each stage of the Mathematics Preparatory Program?
+    - What is the requisite passing grade for every level in the Mathematics Preparatory Program?
+    
 #32
 - intent: undergraduate_class_standings
   examples: |
@@ -584,6 +591,11 @@ nlu:
     - What are the different levels of class standings that undergraduate students can achieve at AUM?
     - What are the diverse categories of class standings that undergraduate students may hold at AUM?
     - What are the separate designations for class standings applicable to undergraduate students attending?
+    - What are the available class standings for undergraduate students enrolled at AUM?
+    - What are the different classifications of class standings for undergraduate students at AUM?
+    - What levels of class standings can undergraduate students achieve at AUM?
+    - What categories of class standings may undergraduate students hold at AUM?
+    - What designations for class standings apply to undergraduate students attending AUM?
     
 #33
 - intent: academic_class_standing
@@ -591,6 +603,11 @@ nlu:
     - What is the corresponding academic year for each class standing?
     - What academic year aligns with each class standing?
     - Which academic year corresponds to each class standing?
+    - What academic period is associated with each class standing?
+    - For each class standing, what is the corresponding academic year?
+    - What academic level correlates with each class standing?
+    - What academic year corresponds to each class standing?
+    - Which academic year aligns with each class standing?
     - What academic period is associated with each class standing?
     - For each class standing, what is the corresponding academic year?
     - What academic level correlates with each class standing?
@@ -604,7 +621,10 @@ nlu:
     - In what way are total credits earned connected to class standing?
     - What is the correlation between total earned credits and class standing?
     - How does the accumulation of total credits earned influence class standing?
-  
+    - How does class standing relate to the total credits earned? 
+    - How are total earned credits connected to class standing?
+    - What impact do total earned credits have on class standing?
+    - How does the accumulation of total earned credits influence class standing?
 
 
 #35
@@ -616,7 +636,11 @@ nlu:
     - What is the minimum CGPA requirement to uphold good standing status for each class level?
     - What CGPA must be maintained to retain good standing for each class category?
     - What is the minimum CGPA needed to ensure good standing for students at each class level?
-    
+    - What is the minimum CGPA required to maintain good standing for each class level?
+    - What is the CGPA threshold necessary to sustain good standing for each class designation?
+    - What is the minimum CGPA requirement to uphold good standing status for each class level?
+    - What CGPA must be maintained to retain good standing for each class category?
+    - What is the minimum CGPA needed to ensure good standing for students at each class level?
 
 
 #36
@@ -627,7 +651,11 @@ nlu:
     - What are GPA and CGPA, and what formulas are employed to compute them? 
     - How are GPA and CGPA defined, and what procedures are used to determine their values?
     - What do GPA and CGPA signify, and what calculations are involved in deriving them?
-    - What are GPA and CGPA, and how are their numerical values determined through calculation 
+    - What are GPA and CGPA, and how are their numerical values determined through calculation?
+    - What are GPA and CGPA, and what formulas are employed to compute them?
+    - What is GPA and CGPA, and how are they calculated using specific mathematical procedures?
+    - How are GPA and CGPA defined, and what mathematical algorithms are utilized to compute their values?
+    - What methodologies are used to calculate GPA and CGPA, and how are their numerical values determined?
     
 #37
 - intent: CGPA_GPA_transcript
@@ -638,7 +666,12 @@ nlu:
     - How are GPA and CGPA represented on the AUM transcript?
     - What is the layout for displaying GPA and CGPA on the AUM transcript?
     - On the AUM transcript, how are GPA and CGPA visually represented?
-
+    - What is the visual representation of GPA and CGPA on the AUM transcript?
+    - How are GPA and CGPA visually depicted on the AUM transcript?
+    - What format is used to visually showcase GPA and CGPA on the AUM transcript?
+    - On the AUM transcript, how are GPA and CGPA graphically presented?
+    - How are GPA and CGPA typically formatted and displayed on the AUM transcript?
+  
    
 #38
 - intent: EPP_purpose
@@ -649,6 +682,12 @@ nlu:
     - What purpose does the AUM English Preparatory Program (EPP) serve?
     - What are the goals of the AUM English Preparatory Program (EPP)?
     - What is the intended outcome of the AUM English Preparatory Program (EPP)?
+    - What is the primary goal of the AUM English Preparatory Program (EPP)?
+	  -	Why was the AUM English Preparatory Program (EPP) established?
+	  -	What are the key objectives of the AUM English Preparatory Program (EPP)?
+	  -	How does the AUM English Preparatory Program (EPP) contribute to students’ language proficiency?
+	  -	What outcomes are expected from students who participate in the AUM English Preparatory Program (EPP)?
+	  -	What is the overarching purpose of the AUM English Preparatory Program (EPP)?
 
 
 #39
@@ -660,7 +699,11 @@ nlu:
     - What happens if a College of Engineering and Technology student does not achieve the necessary score on the Math Placement Test?
     - If a student in the College of Engineering and Technology does not meet the Math Placement Test criteria, what are the implications?
     - What are the repercussions for a student in the College of Engineering and Technology who does not meet the Math Placement Test standard?
-
+    - What occurs if a student from the College of Engineering and Technology fails to meet the required threshold for the Math Placement Test?
+    - What are the consequences if a student in the College of Engineering and Technology does not meet the Math Placement Test requirement?
+    - What happens if a College of Engineering and Technology student does not achieve the necessary score on the Math Placement Test?
+    - If a student in the College of Engineering and Technology does not meet the Math Placement Test criteria, what are the implications?
+    - What are the repercussions for a student in the College of Engineering and Technology who does not meet the Math Placement Test standard?
 
 #40
 - intent: academic_max_duration
