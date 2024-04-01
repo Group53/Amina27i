@@ -714,6 +714,12 @@ nlu:
     - What is the longest duration allowed for students to satisfy all academic program requirements at AUM?
     - What is the time limit for students to meet all academic program requirements at AUM?
     - What is the maximum period allocated for students to fulfill all academic program requirements at AUM?
+    - What is the prescribed time frame for students to complete all academic program requirements at AUM?
+    - What is the maximum duration students have to fulfill all academic program requirements at AUM?
+    - What is the timeframe within which students must meet all academic program requirements at AUM?
+    - What is the deadline by which students need to satisfy all academic program requirements at AUM?
+    - What is the longest allowable period for students to complete all academic program requirements at AUM?
+    - What is the designated time limit for students to fulfill all academic program requirements at AUM?
 
 
 
@@ -726,6 +732,12 @@ nlu:
     - What are the requirements for academic probation and dismissal?
     - Under what conditions do students face academic probation and dismissal?
     - What factors contribute to academic probation and dismissal?
+    - What are the specific criteria that trigger academic probation and dismissal?
+    - What are the prerequisites for students to be placed on academic probation or face dismissal?
+    - What are the exact conditions under which students may be subjected to academic probation or dismissal?
+    - What guidelines determine when students are placed on academic probation or face dismissal?
+    - What are the factors that lead to academic probation or dismissal for students?
+    - What specific circumstances contribute to students being placed on academic probation or facing dismissal?
 
 
 #42
@@ -737,7 +749,12 @@ nlu:
     - What criteria determine eligibility for graduating with honors?
     - What benchmarks need to be achieved to graduate with honors?
     - What are the qualifications for earning honors upon graduation?
- 
+    - What specific conditions must be fulfilled to graduate with honors?
+    - What achievements are necessary for students to graduate with honors?
+    - What criteria establish eligibility for graduating with honors?
+    - What qualifications are required for students to earn honors upon graduation?
+    - What standards need to be met in order to achieve honors at graduation?
+    - What are the prerequisites for graduating with honors?
 
 #43
 - intent: expecting_graduate_steps
@@ -748,6 +765,12 @@ nlu:
     - What are the sequential actions for students preparing for graduation?
     - What is the process that students who are about to graduate need to follow?
     - What are the necessary steps for students who are expecting to graduate?
+    - What specific actions should students take when preparing for graduation?
+    - What procedural steps are involved for students anticipating graduation?
+    - What sequential process do students need to follow if they are planning to graduate?
+    - What are the required steps for students who are expecting to graduate?
+    - What is the outlined procedure for students preparing for graduation?
+    - What steps are necessary for students who are about to graduate?
 
 #44
 - intent: graduation_clearance_requirements
@@ -758,6 +781,12 @@ nlu:
     - What conditions or obligations must students satisfy in order to achieve graduation clearance?
     - What are the clearance prerequisites that students must fulfill in order to graduate?
     - What are the necessary steps or obligations that students need to complete for graduation clearance?
+    - What specific steps or obligations are required for graduation clearance?
+    - What criteria or conditions must students fulfill to obtain clearance for graduation?
+    - What are the outlined requirements for students to achieve graduation clearance?
+    - What obligations or prerequisites are necessary for students to fulfill in order to graduate?
+    - What are the detailed clearance requirements that students must meet for graduation?
+    - What steps or obligations are necessary for students to complete in order to obtain graduation clearance?
 
 
 #45
@@ -769,6 +798,11 @@ nlu:
     - What is the upper limit for credit hours that students can enroll in during Fall and Spring semesters, determined by their Cumulative GPA?
     - What is the maximum number of credits students can register for during Fall and Spring semesters, taking into account their Cumulative GPA?
     - What is the maximum credit load that students can carry during Fall and Spring semesters, contingent upon their Cumulative GPA?
+    - What is the maximum credit load allowed for students during the Fall and Spring semesters, depending on their Cumulative GPA?
+    - What is the upper limit of credit hours students can enroll in during the Fall and Spring semesters, based on their Cumulative GPA?
+    - What is the highest credit count students can undertake during the Fall and Spring semesters, contingent on their Cumulative GPA?
+    - Considering their Cumulative GPA, what is the maximum number of credits students can register for during the Fall and Spring semesters?
+    - What is the maximum credit load students can handle during the Fall and Spring semesters, as determined by their Cumulative GPA?
 
 
 #46
@@ -780,7 +814,13 @@ nlu:
     - What is the upper limit for credit hours that students can enroll in during the Summer semester, based on their Cumulative GPA?
     - What is the maximum credit load that students can carry during the Summer semester, contingent upon their Cumulative GPA?
     - What is the maximum credit load allowed for students during the Summer semester, considering their Cumulative GPA?
-
+    - Based on the students Cumulative GPA, What is the maximum credit load allowed during the Summer semester?
+    - Cumulative GPA maximum credits for summer semester
+    - whats is the credit limit during summer semester based on their cumulative gpa?
+    - What is the maximum credit load permitted for the Summer semester, determined by the student's Cumulative GPA?
+    - What is the maximum number of credits allowed during the Summer semester based on the student's Cumulative GPA?
+    - What is the credit cap for the Summer semester depending on the student's Cumulative GPA?
+    
 
 #47
 - intent: more_max_credit_allowed
@@ -791,6 +831,12 @@ nlu:
     - How should students proceed if they desire to enroll in additional credits beyond the maximum allowed limit?
     - What are the steps students need to take if they intend to register for more credits than the maximum permitted load?
     - What procedure do students need to follow if they want to exceed the maximum allowed credit load during registration?
+    - If students wish to register for more credits than the maximum allowed load, what steps must they follow?
+    - How should students proceed if they intend to enroll in additional credits beyond the maximum allowed limit during registration?
+    - What is the protocol for students who desire to exceed the maximum credit load during registration?
+    - What steps are required for students who wish to register for more credits than the maximum permitted load?
+    - What process do students need to follow if they want to exceed the maximum allowed credit load during registration?
+    - If students want to register for more credits than the maximum allowed load, what procedure should they follow?
 
 
 #48
@@ -802,6 +848,12 @@ nlu:
     - What are the steps students need to take if they desire to contest a modification in their grade?
     - How should students proceed if they aim to request a review of their grade?
     - What is the process for students who wish to appeal for a modification in their grade?
+    - If students want to appeal for a grade change, what is the established procedure?
+    - How should students navigate the process if they seek to appeal a change in their grade?
+    - What steps can students take if they wish to challenge a grade alteration?
+    - What are the necessary steps for students who want to contest a modification in their grade?
+    - How can students formally request a review of their grade?
+    - What steps are involved in the process for students who wish to appeal for a modification in their grade?
 
 
 #49
@@ -813,6 +865,12 @@ nlu:
     - What situations allow a student to retake a course based on the Course Repetition Policy?
     - According to the Course Repetition Policy, in what instances can a student repeat a course?
     - What are the criteria specified by the Course Repetition Policy for a student to repeat a course?
+    - What are the situations that warrant a student to repeat a course under the guidelines of the Course Repetition Policy?
+    - What conditions must be met for a student to retake a course in accordance with the Course Repetition Policy?
+    - Under what circumstances does the Course Repetition Policy permit a student to repeat a course?
+    - What are the scenarios in which a student is allowed to retake a course as per the Course Repetition Policy?
+    - According to the Course Repetition Policy, what are the conditions for a student to repeat a course?
+    - What criteria does the Course Repetition Policy specify for a student to retake a course?
 
 
 #50
@@ -824,7 +882,11 @@ nlu:
     - How many courses can a student repeat in order to boost their CGPA, and what is the maximum number of repetitions allowed for each course?
     - According to the policy, what is the total number of courses a student can retake to improve their CGPA, and what is the maximum number of repetitions permitted for each course?
     - What is the limit on the number of courses a student can retake to improve their CGPA, and what is the maximum number of times they can retake each course?
-   
+    - What is the maximum number of courses a student can retake to improve their CGPA, and how many repetitions are allowed for each course?
+    - How many courses can a student retake to enhance their CGPA, and what is the maximum number of attempts permitted for each course?
+    - What is the total number of courses a student can repeat to boost their CGPA, and what is the limit on the number of times they can retake each course?
+    - As per the policy, what is the cap on the number of courses a student can retake to improve their CGPA, and what is the maximum number of retakes allowed for each course?
+    - How many courses can a student retake to raise their CGPA, and what is the maximum number of attempts permitted for each course?
 
 #newnewnewnew
 #51
