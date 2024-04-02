@@ -963,7 +963,12 @@ nlu:
     - What is the protocol for students who have completed their academic graduation requirements but plan to redo specific subjects?
     - What are the steps for students who have satisfied their academic graduation criteria but want to repeat particular subjects?
     - What is the procedure for students who have fulfilled their academic graduation requirements but intend to retake specific subjects?
-
+    - What are the steps for students who have completed their academic graduation requirements but intend to repeat certain subjects?
+    - What procedure do students need to follow if they have fulfilled their academic graduation criteria but wish to retake specific subjects?
+    - What process should students undergo if they have met their academic graduation prerequisites but desire to retake particular subjects?
+    - What protocol must students adhere to if they have completed their academic graduation requirements but plan to redo specific subjects?
+    - What steps should students take if they have satisfied their academic graduation criteria but want to repeat particular subjects?
+    - What procedure is in place for students who have fulfilled their academic graduation requirements but intend to retake specific subjects?
 
 #56
 - intent: repeat_course_prerequisite_another_course
@@ -974,7 +979,13 @@ nlu:
     - In what circumstances should a student retake a course if it acts as a prerequisite or requirement for another course?
     - Under what conditions should a student repeat a course if it is necessary for another course as a prerequisite or requirement?
     - When must a student retake a course if it is essential for another course as a prerequisite or requirement?
-
+    - What is the appropriate timing for a student to repeat a course if it is a requirement or prerequisite for another course?
+    - When does a student need to retake a course if it serves as a requirement or prerequisite for another course?
+    - At what stage should a student repeat a course if it is a prerequisite or requirement for another course?
+    - Under what circumstances should a student consider retaking a course if it acts as a prerequisite or requirement for another course?
+    - What conditions warrant a student to repeat a course if it is necessary for another course as a prerequisite or requirement?
+    - When is it necessary for a student to retake a course if it is essential for another course as a prerequisite or requirement?
+    
 #57
 - intent: failed_course_replaced
   examples: |
@@ -984,7 +995,13 @@ nlu:
     - Is it allowed to replace or substitute a failed course with an alternative course?
     - Are students permitted to swap or replace a failed course with another course?
     - Is there an option to substitute or exchange a failed course with a different course?
-
+    - Is it feasible to exchange or substitute a failed course with another course?
+    - Are students authorized to replace or substitute a failed course with another course?
+    - Can a failed course be swapped or substituted with a different course?
+    - Is it acceptable to replace or substitute a failed course with an alternative course?
+    - Are students allowed to exchange or replace a failed course with another course?
+    - Is there a possibility to substitute or exchange a failed course with a different course?
+    
 #58
 - intent: change_major_bus_eng_requirements
   examples: |
@@ -994,7 +1011,13 @@ nlu:
     - What criteria need to be fulfilled for transitioning from the College of Business Administration to the College of Engineering and Technology?
     - What are the prerequisites for changing majors from the College of Business Administration to the College of Engineering and Technology?
     - What are the necessary qualifications for switching majors from the College of Business Administration to the College of Engineering and Technology?
-    
+    - What prerequisites are necessary for changing a major from the College of Business Administration to the College of Engineering and Technology?
+    - What are the criteria for switching majors from the College of Business Administration to the College of Engineering and Technology?
+    - What conditions must be met for changing majors from the College of Business Administration to the College of Engineering and Technology?
+    - What criteria need to be fulfilled for transitioning from the College of Business Administration to the College of Engineering and Technology?
+    - What qualifications are required for changing majors from the College of Business Administration to the College of Engineering and Technology?
+    - What are the requirements for changing majors from the College of Business Administration to the College of Engineering and Technology?
+
 #59
 - intent: change_major_eng_bus_requirements
   examples: |
@@ -1003,8 +1026,12 @@ nlu:
     - What conditions must be met to change majors from the College of Engineering and Technology to the College of Business Administration?
     - What criteria need to be fulfilled for switching majors from the College of Engineering and Technology to the College of Business Administration?
     - What prerequisites are necessary for transitioning from the College of Engineering and Technology to the College of Business Administration?
-    - What qualifications are needed for changing majors from the College of Engineering and Technology to the College of Business Administration?
-    - What steps must be taken to change majors from the College of Engineering and Technology to the College of Business Administration?What procedures are required for transferring from the College of Engineering and Technology to the College of Business Administration?What specific conditions or criteria must students meet to switch majors from the College of Engineering and Technology to the College of Business Administration?What prerequisites need to be fulfilled for transitioning from the College of Engineering and Technology to the College of Business Administration?What qualifications or documents are necessary for changing majors from the College of Engineering and Technology to the College of Business Administration?What formalities or steps must students complete to successfully switch majors from the College of Engineering and Technology to the College of Business Administration?
+    - What are the criteria that students need to fulfill to switch their major from the College of Engineering and Technology to the College of Business Administration?
+    - What are the prerequisites for students transferring from the College of Engineering and Technology to the College of Business Administration?
+    - What conditions must students satisfy in order to change their major from the College of Engineering and Technology to the College of Business Administration?
+    - What requirements need to be met by students who wish to switch majors from the College of Engineering and Technology to the College of Business Administration?
+    - What prerequisites are required for students transitioning from the College of Engineering and Technology to the College of Business Administration?
+
 #60
 - intent: bus_change_major_condition
   examples: |
@@ -1014,6 +1041,12 @@ nlu:
     - What are the prerequisites for switching majors within the College of Business Administration?
     - What are the eligibility criteria for changing majors within the College of Business Administration?
     - What conditions need to be satisfied to change majors within the College of Business Administration?
+    - What are the prerequisites for altering a major within the College of Business Administration?
+    - What conditions must be fulfilled to switch majors within the College of Business Administration?
+    - What criteria govern the process of changing majors within the College of Business Administration?
+    - What requirements are necessary for transitioning to a different major within the College of Business Administration?
+    - What eligibility criteria are in place for changing majors within the College of Business Administration?
+    - What conditions must students meet to change majors within the College of Business Administration?
 
 #61
 - intent: eng_change_major_eng
@@ -1024,7 +1057,13 @@ nlu:
     - What are the eligibility criteria for changing majors within the College of Engineering and Technology from Engineering Majors to Engineering Majors?
     - What prerequisites apply to changing majors within the College of Engineering and Technology from Engineering Majors to Engineering Majors?
     - What are the requirements for transferring majors within the College of Engineering and Technology from Engineering Majors to Engineering Majors?
-
+    - What are the requirements for transitioning between Engineering Majors within the College of Engineering and Technology? 
+    - What prerequisites are necessary for changing majors within the College of Engineering and Technology, specifically from Engineering Majors to Engineering Majors? 
+    - What conditions must be met when switching majors within the College of Engineering and Technology, particularly from Engineering Majors to Engineering Majors? 
+    - What are the eligibility criteria for transferring majors within the College of Engineering and Technology, specifically from Engineering Majors to Engineering Majors? 
+    - What prerequisites are involved in changing majors within the College of Engineering and Technology, particularly from Engineering Majors to Engineering Majors? 
+    - What are the requirements for transferring between majors within the College of Engineering and Technology, specifically from Engineering Majors to Engineering Majors?
+    
 #62
 - intent: attendance_importance
   examples: |
@@ -1034,6 +1073,12 @@ nlu:
     - What is AUM's interpretation of attendance and why does it hold significance?
     - How does AUM define attendance and what is its significance?
     - What is AUM's perspective on attendance and why does it matter?
+    - How does AUM delineate attendance and its relevance?
+    - How is attendance elucidated and its significance emphasized at AUM?
+    - What is the definition of attendance at AUM, and what is its significance?
+    - What is AUM's perspective on attendance and why does it matter?
+    - How does AUM define the concept of attendance and its importance?
+    - What is AUM's viewpoint on attendance and its significance?
 
 #63
 - intent: honors_list_criteria
@@ -1043,8 +1088,14 @@ nlu:
     - What are the requirements for making it onto the Honors List at AUM?
     - What criteria must students meet to be listed on AUM's Honors List?
     - What are the standards for inclusion on AUM's Honors List?
-   - What are the prerequisites for being recognized on AUM's Honors List?
-
+    - What are the prerequisites for being recognized on AUM's Honors List?
+    - What criteria are necessary for securing a position on AUM's Honors List?
+    - What prerequisites must be met to be eligible for inclusion on AUM's Honors List?
+    - What requirements are needed to qualify for placement on AUM's Honors List?
+    - What standards must students meet to earn recognition on AUM's Honors List?
+    - What criteria are considered for inclusion on AUM's Honors List?
+    - What conditions must students fulfill to be listed on AUM's Honors List?
+    
 #64
 - intent: grading_table
   examples: |
@@ -1054,6 +1105,12 @@ nlu:
    - Is it possible to obtain the grading table?
    - Would you mind sharing the grading table with me?
    - Could you kindly provide the grading table?
+   - Is it possible for me to receive the grading table?
+   - Could you please furnish me with the grading table?
+   - Would it be feasible for me to access the grading table?
+   - Is there a way for me to obtain the grading table?
+   - Could you kindly share the grading table with me?
+   - May I request the grading table from you?
 
 #65
 - intent: park_car
@@ -1064,6 +1121,12 @@ nlu:
    - Where can I find parking for my car?
    - May I know the location of the parking facilities?
    - Could you guide me to the nearest parking spot?
+   - Could you inform me of the parking location?
+   - Where is the designated parking area situated?
+   - Can you direct me to the parking lot?
+   - Where can I locate parking for my vehicle?
+   - May I inquire about the whereabouts of the parking facilities?
+   - Could you please provide directions to the nearest parking spot?
 
 #66
 - intent: join_art_club
@@ -1074,6 +1137,12 @@ nlu:
    - How can I get involved with the art club?
    - What steps do I need to take to join the art club?
    - Where can I find information on joining the art club?
+   - What steps should I follow to join the art club?
+   - How do I go about becoming a member of the art club?
+   - What is the procedure for joining the art club?
+   - How can I participate in the activities of the art club?
+   - What are the necessary steps to become a member of the art club?
+   - Where can I access information regarding membership in the art club?
 
 #67
 - intent: join_book_club
@@ -1083,6 +1152,12 @@ nlu:
    - How do I get involved with the book club?
    - Where can I find information about joining the book club?
    - What is the process for joining the book club?
+   - How can I become a part of the book club?
+   - What steps should I take to join the book club?
+   - How do I become a member of the book club?
+   - What is the procedure for getting involved with the book club?
+   - Where can I locate information about joining the book club?
+   - What steps are involved in joining the book club?
    - How can I become a part of the book club?
 
 #68
@@ -1094,6 +1169,11 @@ nlu:
    - Where can I find information about joining the Drama Club?
    - What is the process for joining the Drama Club?
    - How do I become a part of the Drama Club?
+   - What is the procedure for joining the Drama Club?
+   - How do I become a member of the Drama Club?
+   - What steps are necessary to get involved in the Drama Club?
+   - Where can I obtain information regarding joining the Drama Club?
+   - How can I join the Drama Club?What steps do I need to take to become part of the Drama Club?
 
 #69
 - intent: join_music_club
@@ -1104,6 +1184,7 @@ nlu:
    - What is the process for joining the Music Club?
    - How do I become a part of the Music Club?
    - Is there a specific procedure for joining the Music Club?
+   - How can I become a member of the Music Club?What steps are required to join the Music Club?Where can I locate information on joining the Music Club?What is the process for becoming a member of the Music Club?How do I get involved with the Music Club?Is there a specific procedure I should follow to join the Music Club?
 
 #70
 - intent: join_photography_club
