@@ -50,7 +50,7 @@ intents:
   - appeal_grade_change 
   - course_repetition_policy 
   - repeat_course_CGPA_improve
-   #newnewnewnew
+  #newnewnewnew
   - repeat_specific_courses
   - fail_pre_english_math
   - sponsorship_ccourse_repetition_fees
@@ -105,7 +105,6 @@ slots:
      entity: name 
 
 responses:
- 
   utter_clinic_services: 
   - text: "The Central Clinic on AUM Campus provides immediate first aid services, general check-ups for students, and hosts students prior to hospital transfer if necessary."
 
