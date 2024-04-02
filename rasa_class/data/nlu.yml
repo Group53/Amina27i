@@ -1184,7 +1184,12 @@ nlu:
    - What is the process for joining the Music Club?
    - How do I become a part of the Music Club?
    - Is there a specific procedure for joining the Music Club?
-   - How can I become a member of the Music Club?What steps are required to join the Music Club?Where can I locate information on joining the Music Club?What is the process for becoming a member of the Music Club?How do I get involved with the Music Club?Is there a specific procedure I should follow to join the Music Club?
+   - How can I become a member of the Music Club?
+   - What steps are required to join the Music Club?
+   - Where can I locate information on joining the Music Club?
+   - What is the process for becoming a member of the Music Club?
+   - How do I get involved with the Music Club?
+   - Is there a specific procedure I should follow to join the Music Club?
 
 #70
 - intent: join_photography_club
@@ -1195,6 +1200,12 @@ nlu:
    - What is the process for joining the Photography Club?
    - How do I become a member of the Photography Club?
    - Is there a specific procedure I need to follow to join the Photography Club?
+   - How can I become a member of the Photography Club?
+   - What steps are involved in joining the Photography Club?
+   - Where can I access information about joining the Photography Club?
+   - What is the process for becoming part of the Photography Club?
+   - How do I join the Photography Club?
+   - Is there a particular procedure I should adhere to in order to join the Photography Club?
 
 #71
 - intent: join_speech_communication_club
@@ -1205,6 +1216,12 @@ nlu:
    - What is the process for joining the Speech & Communication Club?
    - How do I become a member of the Speech & Communication Club?
    - Is there a specific procedure I need to follow to join the Speech & Communication Club?
+   - How can I become a member of the Speech & Communication Club?
+   - What steps should I take to join the Speech & Communication Club?
+   - Where can I locate information regarding joining the Speech & Communication Club?
+   - What is the procedure for joining the Speech & Communication Club?
+   - How do I go about becoming a member of the Speech & Communication Club?
+   - Is there a particular procedure I must follow to join the Speech & Communication Club?
 
 #72
 - intent: art_club_location 
@@ -1214,6 +1231,11 @@ nlu:
    - Where is the physical location of the art club?
    - What is the address of the art club?
    - In which building or area is the art club situated?
+   - Where can I locate the art club on campus?
+   - What is the physical location of the art club?
+   - Where can I find the art club's physical address?
+   - In which building or area is the art club situated?
+   - Where is the art club located within the campus premises?
 
 #73
 - intent: book_club_location
@@ -1223,7 +1245,13 @@ nlu:
    - What is the location of the Book Club?
    - Where is the Book Club situated?
    - In what place can I locate the Book Club?
-   -  What is the Book Club's whereabouts?
+   - What is the Book Club's whereabouts?
+   - Where can I find the Book Club's location?
+   - What is the physical location of the Book Club?
+   - Where is the Book Club situated?
+   - In what area can I locate the Book Club?
+   - What are the whereabouts of the Book Club?
+   - Where is the Book Club situated within the campus?
 
 #74
 - intent: drama_club_location
@@ -1234,6 +1262,12 @@ nlu:
    - In what place is the Drama Club situated?
    - Where is the Drama Club situated?
    - What is the whereabouts of the Drama Club?
+   - Where can I find the location of the Drama Club?
+   - What is the physical location of the Drama Club?
+   - Where can I locate the Drama Club?
+   - In what area is the Drama Club situated?
+   - Where is the Drama Club located?
+   - What are the whereabouts of the Drama Club?
 
 #75
 - intent: music_club_location
@@ -1244,6 +1278,12 @@ nlu:
    - In what place is the Music Club situated?
    - Where is the Music Club situated?
    - What is the whereabouts of the Music Club?
+   - Where can I find the Music Club's location?
+   - What is the physical location of the Music Club?
+   - Where can I locate the Music Club?
+   - In what area is the Music Club situated?
+   - Where is the Music Club located?
+   - What are the whereabouts of the Music Club?
    
 #76
 - intent: photo_club_location
@@ -1254,6 +1294,12 @@ nlu:
    - In what place is the Photography Club situated?
    - Where is the Photography Club situated?
    - What is the whereabouts of the Photography Club?
+   - Where can I find the location of the Photography Club?
+   - What is the physical location of the Photography Club?
+   - Where can I locate the Photography Club?
+   - In what area is the Photography Club situated?
+   - Where is the Photography Club located?
+   - What are the whereabouts of the Photography Club?
    
 #77
 - intent: speech_communication_club_location
@@ -1264,6 +1310,12 @@ nlu:
    - In what place is the Speech & Communication Club situated?
    - Where is the Speech & Communication Club situated?
    - What is the whereabouts of the Speech & Communication Club?
+   - Where can I find the location of the Speech & Communication Club?
+   - What is the physical location of the Speech & Communication Club?
+   - Where can I locate the Speech & Communication Club?
+   - In what area is the Speech & Communication Club situated?
+   - Where is the Speech & Communication Club located?
+   - What are the whereabouts of the Speech & Communication Club?
 
 #78
 - intent: art_club_info
@@ -1274,6 +1326,12 @@ nlu:
    - Could you share some insights about the Art Club?
    - Would you mind giving me some information about the Art Club?
    - Can you provide details about the Art Club, please?
+   - Could you provide details about the Art Club?
+   - May I get information regarding the Art Club?
+   - Could you share some insights about the Art Club?
+   - Would you mind giving me some information about the Art Club?
+   - Can you provide details about the Art Club, please?
+   - Can I have information about the Art Club?
 
 #79
 - intent: book_club_info
@@ -1284,7 +1342,12 @@ nlu:
    - Could you share details about the Book Club?
    - Would you mind giving me some information about the Book Club?
    - Can you provide information about the Book Club, please?
-
+   - Could you please provide information about the Book Club?
+   - May I obtain information regarding the Book Club?
+   - Could you share details about the Book Club?
+   - Would you mind giving me some information about the Book Club?
+   - Can you provide information about the book club?
+   
 #80
 - intent: drama_club_info
   examples: |
