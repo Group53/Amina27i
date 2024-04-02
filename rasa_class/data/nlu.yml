@@ -1357,6 +1357,12 @@ nlu:
    - Could you share details about the Drama Club?
    - Would you mind giving me some information about the Drama Club?
    - Can you provide information about the Drama Club, please?
+   - Could you please provide details about the Drama Club?
+   - May I obtain information regarding the Drama Club?
+   - Could you share details about the Drama Club?
+   - Would you mind giving me some information about the Drama Club?
+   - Can you provide information about the Drama Club, please?
+   - Can I have information about the Drama Club?
 
 #81
 - intent: music_club_info
@@ -1367,6 +1373,12 @@ nlu:
    - I would like to know more about the Music Club, could you provide information?
    - Is it possible to obtain information about the Music Club?
    - Can you share details about the Music Club?
+   - Can I seek information regarding the Music Club?
+   - Could you kindly furnish details about the Music Club?
+   - I’m interested in learning more about the Music Club; could you provide information?
+   - Is it feasible to acquire information about the Music Club?
+   - Could you share insights about the Music Club?
+   - May I have details about the Music Club?
    
 #82
 - intent: photo_club_info
@@ -1377,7 +1389,13 @@ nlu:
    - Is it possible to obtain information about the Photography Club?
    - Could you share some information about the Photography Club? 
    - I would like to know more about the Photography Club. Could you provide details?
-   
+   - Can I receive information about the Photography Club?
+   - Would you kindly provide details about the Photography Club?
+   - May I request information regarding the Photography Club?
+   - Is it feasible to obtain details about the Photography Club?
+   - Could you provide some insights about the Photography Club?
+   - I'm interested in learning more about the Photography Club. Could you offer details?
+
 #83
 - intent: speech_communication_club_info
   examples: |
@@ -1387,6 +1405,12 @@ nlu:
    - Is it possible to obtain information about the Speech & Communication Club?
    - Could you share some information about the Speech & Communication Club?
    - I would like to know more about the Speech & Communication Club. Could you provide details?
+   - Can I receive information about the Speech & Communication Club?
+   - Would you kindly provide details about the Speech & Communication Club?
+   - May I request information regarding the Speech & Communication Club?
+   - Is it feasible to obtain details about the Speech & Communication Club?
+   - Could you share some insights about the Speech & Communication Club?
+   - I'm interested in learning more about the Speech & Communication Club. Could you offer details?
    
 #84
 - intent: UG_2023_2024_calendar
@@ -1397,6 +1421,12 @@ nlu:
    - Is it possible to obtain the academic calendar for undergraduate students for the academic year 2023-2024?
    - Could you share the academic calendar for UG students for the academic year 2023-2024?
    - I would like to have access to the academic calendar for undergraduate students for the academic year 2023-2024. Could you provide it?
+   - Can I receive the academic calendar for the undergraduate year 2023-2024?
+   - Would you kindly provide the academic schedule for undergraduate students for the academic session 2023-2024?
+   - May I request the academic timetable for UG students for the academic session 2023-2024?
+   - Is it feasible to obtain the academic agenda for undergraduate students for the academic term 2023-2024?
+   - Could you share the academic schedule for UG students for the academic term 2023-2024?
+   - I'm interested in having access to the academic timetable for undergraduate students for the academic term 2023-2024. Could you provide it?
    
 #85
 - intent: EPP_2023_2024_calendar
@@ -1407,6 +1437,11 @@ nlu:
    - Is it possible to obtain the academic calendar for the English Preparatory Program EPP for the academic year 2023-2024?
    - Could you share the academic calendar for the English Preparatory Program EPP for the academic year 2023-2024?
    - I would like to have access to the academic calendar for the English Preparatory Program EPP for the academic year 2023-2024. Could you provide it?
+   - Can I receive the academic calendar for the English Preparatory Program (EPP) for the year 2023-2024?
+   - Would you kindly provide the academic schedule for the English Preparatory Program (EPP) for the academic session 2023-2024?
+   - May I request the academic timetable for the English Preparatory Program (EPP) for the academic session 2023-2024?
+   - Is it feasible to obtain the academic agenda for the English Preparatory Program (EPP) for the academic term 2023-2024?
+   - Could you share the academic schedule for the English Preparatory Program (EPP) for the academic term 2023-2024?I'm interested in having access to the academic timetable for the English Preparatory Program (EPP) for the academic term 2023-2024. Could you provide it?
 
 #86
 - intent: attendance_policy
@@ -1417,7 +1452,13 @@ nlu:
    - Is it possible to obtain the attendance policy?
    - Could you share the attendance policy with me?
    - I would like to have access to the attendance policy. Could you provide it?
-
+   - Can I obtain a copy of the attendance policy?
+   - Could you please furnish me with the attendance policy?
+   - May I ask for a copy of the attendance policy?
+   - Is there a way to access the attendance policy?
+   - Would you be able to send me the attendance policy?
+   - I'm seeking access to the attendance policy. Could you assist me with it?
+   
 #87
 - intent: examination_guidelines
   examples: |
@@ -1427,7 +1468,13 @@ nlu:
    - Is it possible to obtain the student examination guidelines?
    - Could you share the examination guidelines for students with me?
    - I would like to know the guidelines for student examinations. Could you provide them?
-
+   - Can I have access to the guidelines for student examinations?
+   - Could you kindly share the guidelines for student examinations?
+   - May I request the student examination guidelines?
+   - Is there a way to obtain the student examination guidelines?
+   - Would you be able to provide me with the examination guidelines for students?
+   - I'm interested in knowing the guidelines for student examinations. Could you assist me with that information?
+   
 #89
 - intent:med_examination_form
   examples: |
@@ -1437,6 +1484,12 @@ nlu:
    - Is it possible to obtain the medical examination form?
    - Could you share the medical examination form with me?
    - I would like to have access to the medical examination form.
+   - Can I obtain the medical examination form?
+   - Could you please share the medical examination form with me?
+   - May I request a copy of the medical examination form?
+   - Is it feasible to acquire the medical examination form?
+   - Would you be able to provide me with the medical examination form?
+   - I'm interested in accessing the medical examination form. Could you assist me with that?
 
 #90
 - intent:
