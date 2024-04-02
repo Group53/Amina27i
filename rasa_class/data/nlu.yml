@@ -898,7 +898,13 @@ nlu:
     - Within what timeframe are students permitted to repeat certain courses in order to fulfill the necessary criteria for graduation?
     - How long are students allowed to retake specific courses in order to meet the requirements for passing and obtaining their degrees?
     - What is the stipulated duration during which students may reattempt particular courses to achieve passing grades and fulfill graduation prerequisites?
-
+    - What is the maximum duration students are allowed to repeat specific courses to pass and graduate? 
+    - Within what specific time frame can students retake particular courses to successfully complete them and earn their degrees? 
+    - What is the defined time limit for students to retake specific courses with the goal of passing and completing their graduation requirements?
+    - During what time period are students allowed to repeat certain courses in order to fulfill the necessary criteria for graduation? 
+    - How much time are students permitted to invest in retaking specific courses to meet the requirements for passing and obtaining their degrees? 
+    - What is the specified duration within which students may make another attempt at particular courses to attain passing grades and fulfill graduation prerequisites?
+    
 #52
 - intent: fail_pre_english_math
   examples: |
@@ -908,6 +914,12 @@ nlu:
     - What are the implications for students in the English and Mathematics Preparatory Program if they do not meet the requisite success grade even after repeating a course?
     - What are the results for students in the English and Mathematics Preparatory Program if they fail to attain the required success grade after undergoing a course repetition?
     - What happens to students in the English and Mathematics Preparatory Program if they don't achieve the required success grade after retaking a course?
+    - What are the repercussions for students in the English and Mathematics Preparatory Program if they fail to meet the required success grade after repeating a course? 
+    - What are the potential outcomes for students in the English and Mathematics Preparatory Program if they fail to meet the expected success grade following the repetition of a course? 
+    - What are the consequences for students in the English and Mathematics Preparatory Program if they do not attain the necessary success grade upon redoing a course? 
+    - What are the implications for students in the English and Mathematics Preparatory Program if they fail to meet the required success grade even after repeating a course? 
+    - What are the results for students in the English and Mathematics Preparatory Program if they do not achieve the required success grade after undergoing a course repetition? 
+    - What is the course of action for students in the English and Mathematics Preparatory Program if they do not attain the required success grade after retaking a course?
 
 #53
 - intent: sponsorship_ccourse_repetition_fees
@@ -918,7 +930,13 @@ nlu:
     - Who is tasked with making sure that students under sponsorship agreements meet regulations concerning course repetition fees?
     - Who is obligated to ensure that students under sponsorship agreements follow regulations regarding course repetition fees?
     - Who is responsible for ensuring that students under sponsorship agreements abide by regulations concerning course repetition fees?
-
+    - Who is responsible for ensuring compliance with regulations regarding course repetition fees for students under sponsorship agreements?
+    - Who bears the responsibility for ensuring that students under sponsorship agreements adhere to regulations concerning course repetition fees?
+    - Who is tasked with ensuring that students under sponsorship agreements meet regulations regarding course repetition fees? 
+    - Who is obligated to ensure that students under sponsorship agreements follow regulations concerning course repetition fees? 
+    - Who is accountable for ensuring that students under sponsorship agreements comply with regulations regarding course repetition fees? 
+    - Who is responsible for guaranteeing that students under sponsorship agreements adhere to regulations concerning course repetition fees?
+    
 #54
 - intent: approvals_repeat_improve_CGPA
   examples: |
@@ -928,7 +946,14 @@ nlu:
     - What approvals must students obtain if they plan to retake courses to enhance their CGPA?
     - What sanctions do students need to acquire if they aim to repeat courses to elevate their CGPA?
     - What clearances are mandatory for students seeking to retake courses to improve their CGPA?
+    - What are the necessary approvals for students who plan to repeat courses to improve their CGPA?
+    - What authorizations are essential for students intending to retake courses to enhance their CGPA?
+    - What permissions are required for students who aim to repeat courses in order to boost their CGPA?
+    - What approvals must students secure if they intend to retake courses to improve their CGPA?
+    - What sanctions or permissions are needed for students aiming to repeat courses to elevate their CGPA?
+    - What mandatory clearances must students obtain if they seek to retake courses to improve their CGPA?
 
+    
 #55
 - intent: steps_retake_subject_need
   examples: |
@@ -938,6 +963,7 @@ nlu:
     - What is the protocol for students who have completed their academic graduation requirements but plan to redo specific subjects?
     - What are the steps for students who have satisfied their academic graduation criteria but want to repeat particular subjects?
     - What is the procedure for students who have fulfilled their academic graduation requirements but intend to retake specific subjects?
+
 
 #56
 - intent: repeat_course_prerequisite_another_course
@@ -968,7 +994,7 @@ nlu:
     - What criteria need to be fulfilled for transitioning from the College of Business Administration to the College of Engineering and Technology?
     - What are the prerequisites for changing majors from the College of Business Administration to the College of Engineering and Technology?
     - What are the necessary qualifications for switching majors from the College of Business Administration to the College of Engineering and Technology?
-
+    
 #59
 - intent: change_major_eng_bus_requirements
   examples: |
@@ -978,7 +1004,7 @@ nlu:
     - What criteria need to be fulfilled for switching majors from the College of Engineering and Technology to the College of Business Administration?
     - What prerequisites are necessary for transitioning from the College of Engineering and Technology to the College of Business Administration?
     - What qualifications are needed for changing majors from the College of Engineering and Technology to the College of Business Administration?
-
+    - What steps must be taken to change majors from the College of Engineering and Technology to the College of Business Administration?What procedures are required for transferring from the College of Engineering and Technology to the College of Business Administration?What specific conditions or criteria must students meet to switch majors from the College of Engineering and Technology to the College of Business Administration?What prerequisites need to be fulfilled for transitioning from the College of Engineering and Technology to the College of Business Administration?What qualifications or documents are necessary for changing majors from the College of Engineering and Technology to the College of Business Administration?What formalities or steps must students complete to successfully switch majors from the College of Engineering and Technology to the College of Business Administration?
 #60
 - intent: bus_change_major_condition
   examples: |
