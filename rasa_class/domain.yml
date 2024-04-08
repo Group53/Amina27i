@@ -1,101 +1,101 @@
 version: "3.1"
 
 intents:
-  - greet
-  - goodbye
-  - affirm
-  - deny
-  - mood_great
-  - mood_unhappy
-  - bot_challenge
-  - clinic_services
-  - clinic_location
-  - sports_center
-  - it_services
-  - aum_website_info
-  - portal_purpose
-  - aum_Moodle
-  - aum_banner
-  - aum_communicate
-  - parking_services
-  - students_identified
-  - aum_library
-  - writing_club
-  - tutoring_center
-  - medical_emergency 
-  - car_accidents
-  - lost_found
-  - scientific_laboratories
-  - tawteen_center
-  - grading_system
-  - grade_points
-  - trasnscript_grade
-  - minimum_required_grade
-  - minimum_passing_grade
-  - minimum_grade_exceptions
-  - grading_affect_CGPA
-  - incomplete_grade
-  - withdrawal_grade
-  - EPP_passing_grade
-  - Math_prep_passing_grade
-  - undergraduate_class_standings
-  - academic_class_standing
-  - total_credits_class_standing
-  - CGPA_good_standing
-  - calculate_CGPA_GPA
-  - CGPA_GPA_transcript
-  - EPP_purpose
-  - college_eng_tech_require_math_placement_test
-  - academic_max_duration
-  - academic_probation_dismissal
-  - honors_graduation_criteria
-  - expecting_graduate_steps
-  - graduation_clearance_requirements
-  - CGPA_max_credit_fall_spring
-  - CGPA_max_credit_summer
-  - more_max_credit_allowed
-  - appeal_grade_change 
-  - course_repetition_policy 
-  - repeat_course_CGPA_improve
+- greet
+- goodbye
+- affirm
+- deny
+- mood_great
+- mood_unhappy
+- bot_challenge
+- clinic_services
+- clinic_location
+- sports_center
+- it_services
+- aum_website_info
+- portal_purpose
+- aum_Moodle
+- aum_banner
+- aum_communicate
+- parking_services
+- students_identified
+- aum_library
+- writing_club
+- tutoring_center
+- medical_emergency 
+- car_accidents
+- lost_found
+- scientific_laboratories 
+- tawteen_center
+- grading_system
+- grade_points
+- trasnscript_grade
+- minimum_required_grade
+- minimum_passing_grade
+- minimum_grade_exceptions
+- grading_affect_CGPA
+- incomplete_grade
+- withdrawal_grade
+- EPP_passing_grade
+- Math_prep_passing_grade
+- undergraduate_class_standings
+- academic_class_standing
+- total_credits_class_standing
+- CGPA_good_standing
+- calculate_CGPA_GPA
+- CGPA_GPA_transcript
+- EPP_purpose
+- college_eng_tech_require_math_placement_test
+- academic_max_duration
+- academic_probation_dismissal
+- honors_graduation_criteria
+- expecting_graduate_steps
+- graduation_clearance_requirements
+- CGPA_max_credit_fall_spring
+- CGPA_max_credit_summer
+- more_max_credit_allowed
+- appeal_grade_change 
+- course_repetition_policy 
+- repeat_course_CGPA_improve
   #newnewnewnew
-  - repeat_specific_courses
-  - fail_pre_english_math
-  - sponsorship_ccourse_repetition_fees
-  - approvals_repeat_improve_CGPA
-  - steps_retake_subject_need
-  - repeat_course_prerequisite_another_course
-  - failed_course_replaced
-  - change_major_bus_eng_requirements
-  - change_major_eng_bus_requirements
-  - bus_change_major_condition
-  - eng_change_major_eng
-  - attendance_importance
-  - honors_list_criteria
-  - grading_table
-  - park_car
-  - join_art_club
-  - join_book_club
-  - join_drama_club
-  - join_music_club
-  - join_photography_club
-  - join_speech_communication_club
-  - art_club_location 
-  - book_club_location
-  - drama_club_location
-  - music_club_location
-  - photo_club_location
-  - speech_communication_club_location
-  - art_club_info
-  - book_club_info
-  - drama_club_info
-  - music_club_info
-  - photo_club_info
-  - speech_communication_club_info
-  - UG_2023_2024_calendar
-  - EPP_2023_2024_calendar
-  - attendance_policy
-  - examination_guidelines
-  - med_examination_form
+- repeat_specific_courses
+- fail_pre_english_math
+- sponsorship_ccourse_repetition_fees
+- approvals_repeat_improve_CGPA
+- steps_retake_subject_need
+- repeat_course_prerequisite_another_course
+- failed_course_replaced
+- change_major_bus_eng_requirements
+- change_major_eng_bus_requirements
+- bus_change_major_condition
+- eng_change_major_eng
+- attendance_importance
+- honors_list_criteria
+- grading_table
+- park_car
+- join_art_club
+- join_book_club
+- join_drama_club
+- join_music_club
+- join_photography_club
+- join_speech_communication_club
+- art_club_location 
+- book_club_location
+- drama_club_location
+- music_club_location
+- photo_club_location
+- speech_communication_club_location
+- art_club_info
+- book_club_info
+- drama_club_info
+- music_club_info
+- photo_club_info
+- speech_communication_club_info
+- UG_2023_2024_calendar
+- EPP_2023_2024_calendar
+- attendance_policy
+- examination_guidelines
+- med_examination_form
   
   
 
